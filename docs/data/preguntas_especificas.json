@@ -173,5 +173,5348 @@
     "D": "Modulada."
   },
   "respuestaCorrecta": "A"
-}
+},
+{
+  "id": 17,
+  "pregunta": "Entre los parámetros de estimulación eléctrica de la contracción de un músculo inervado, NO figuran:",
+  "opciones": {
+    "A": "Frecuencias de pulso de 35-80 pps (pulsos por segundo).",
+    "B": "Duración de pulso superior a 10 ms (milisegundos).",
+    "C": "Tiempos de rampa de 1-4 s (segundos).",
+    "D": "Onda pulsada bifásica."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 18,
+  "pregunta": "Con relación a la estimulación eléctrica transcutánea (TENS) convencional, es FALSO que:",
+  "opciones": {
+    "A": "Utiliza pulsos de frecuencia alta, entre 100-150 pps (pulsos por segundo).",
+    "B": "Suele emitirse con pulsos de 50-80 μs de duración (microsegundos).",
+    "C": "Pueden ser utilizados 24 horas al día si es necesario.",
+    "D": "El mecanismo de acción principal es la liberación de opiáceos endógenos."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 19,
+  "pregunta": "La potencia de un aplicador de luz láser se mide en:",
+  "opciones": {
+    "A": "Miliamperios (mA).",
+    "B": "Milivatios (mW).",
+    "C": "Watios por centímetro cuadrado (W/cm²).",
+    "D": "Microvoltios (μV)."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 20,
+  "pregunta": "Respecto a la aplicación de diatermia de onda corta con placas de capacitancia, es CIERTO que:",
+  "opciones": {
+    "A": "Se denomina calentamiento por el método de campo magnético.",
+    "B": "El calentamiento es mayor en los tejidos con mayor conductividad.",
+    "C": "Las placas de capacitancia producen más calor en la piel y tejidos superficiales.",
+    "D": "b) y c) son ciertas."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 21,
+  "pregunta": "La aplicación de onda corta pulsada estaría INDICADA para favorecer:",
+  "opciones": {
+    "A": "Cicatrización de partes blandas.",
+    "B": "Consolidación ósea.",
+    "C": "Control del dolor y el edema.",
+    "D": "Todo lo anterior es cierto."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 22,
+  "pregunta": "La banda de frecuencia utilizada más frecuentemente en los aparatos de onda corta en aplicaciones para la salud, se centra en:",
+  "opciones": {
+    "A": "300 MHz.",
+    "B": "27,12 MHz.",
+    "C": "80 KHz.",
+    "D": "1,2 MHz."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 23,
+  "pregunta": "La aplicación de onda corta estaría CONTRAINDICADA en:",
+  "opciones": {
+    "A": "Mujeres gestantes.",
+    "B": "Portadores de marcapasos.",
+    "C": "Portadores de implantes metálicos.",
+    "D": "Todas las circunstancias anteriores."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 24,
+  "pregunta": "En el tratamiento de una úlcera dérmica con ultrasonidos, se seleccionará una frecuencia y un ciclo de trabajo de:",
+  "opciones": {
+    "A": "3 MHz, con ciclo de trabajo pulsátil del 20%.",
+    "B": "1 MHz, con ciclo de trabajo pulsátil del 20%.",
+    "C": "3 MHz, con ciclo de trabajo continuo.",
+    "D": "1 MHz, con ciclo de trabajo continuo."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 25,
+  "pregunta": "Respecto a la técnica de fonoforesis, es CIERTO que:",
+  "opciones": {
+    "A": "Consiste en la utilización de ultrasonidos para favorecer la transmisión transcutánea de fármacos.",
+    "B": "La penetración transdérmica aumenta por la presión ejercida sobre el fármaco que es impulsado a través de la piel.",
+    "C": "Su principal ventaja es que los fármacos administrados no se convierten en sistémicos.",
+    "D": "Se utilizan frecuencias bajas (1 MHz) para favorecer la penetración en profundidad del fármaco."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 26,
+  "pregunta": "¿En cuál de las siguientes circunstancias está CONTRAINDICADA la aplicación terapéutica de ultrasonidos?",
+  "opciones": {
+    "A": "Tromboflebitis.",
+    "B": "Prótesis cementadas.",
+    "C": "Embarazo.",
+    "D": "Está contraindicada en todas las circunstancias anteriores."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 27,
+  "pregunta": "El proceso mediante el cual la energía mecánica del ultrasonido disminuye al atravesar los tejidos por efectos de absorción y refracción, se denomina:",
+  "opciones": {
+    "A": "Cavitación.",
+    "B": "Reflexión.",
+    "C": "Atenuación.",
+    "D": "Inmersión."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 28,
+  "pregunta": "¿Por qué se debería evitar la posición en declive en una persona con fractura de tobillo y pie en fase de estabilidad limitada al ejercicio?",
+  "opciones": {
+    "A": "Por riesgo de posibles adherencias.",
+    "B": "Por riesgo de agravar el proceso de isquemia vascular periférica.",
+    "C": "Por riesgo de provocar hipertensión arterial general.",
+    "D": "Porque aumenta la contracción muscular del tríceps sural."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 29,
+  "pregunta": "¿Qué combinación de signos o síntomas aparecen en la valoración clínica de una persona con Esclerosis Lateral Amiotrófica?",
+  "opciones": {
+    "A": "Espasticidad e hiperreflexia sin atrofia.",
+    "B": "Atrofia y fasciculaciones sin alteración del tono.",
+    "C": "Atrofia muscular, fasciculaciones y signo de Babinski positivo.",
+    "D": "Pérdida sensitiva y arreflexia en extremidades inferiores."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 30,
+  "pregunta": "Las respuestas a la aplicación de masaje NO incluyen:",
+  "opciones": {
+    "A": "Aumento de la temperatura local.",
+    "B": "Elastificación de tejido conectivo.",
+    "C": "Aumento del metabolismo.",
+    "D": "Disminución de la actividad de las glándulas de secreción."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 31,
+  "pregunta": "Señale cuál es una CONTRAINDICACIÓN ABSOLUTA del drenaje linfático manual:",
+  "opciones": {
+    "A": "Flebedema.",
+    "B": "Linfedema.",
+    "C": "Edema nefrótico.",
+    "D": "Edema postraumático."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 32,
+  "pregunta": "Durante la aplicación del drenaje linfático manual, se debe:",
+  "opciones": {
+    "A": "Provocar dolor tolerable para aumentar el umbral.",
+    "B": "Hiperemia en la piel para estimular el sistema circulatorio.",
+    "C": "Tumbar a la persona con los pies más bajos que el resto del cuerpo.",
+    "D": "Ejecutar las maniobras con suavidad y superficialidad."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 33,
+  "pregunta": "Señale cuál de las siguientes puede producir edema linfático:",
+  "opciones": {
+    "A": "Albúmina sérica baja.",
+    "B": "Actividad física insuficiente.",
+    "C": "Enfermedad de Milroy.",
+    "D": "a), b) y c) son correctas."
+  },
+  "respuestaCorrecta": ""
+},
+{
+  "id": 34,
+  "pregunta": "¿Cuál de estas técnicas de fisioterapia respiratoria NO persigue la reexpansión pulmonar?",
+  "opciones": {
+    "A": "ELTGOL (espiración lenta total a glotis abierta en lateralización).",
+    "B": "EDIC (ejercicios de débito inspiratorio controlado).",
+    "C": "MIR (maniobra resistida inspiratoria).",
+    "D": "Todas son ciertas."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 35,
+  "pregunta": "Señale la afirmación FALSA con respecto al uso de inspirómetros incentivadores:",
+  "opciones": {
+    "A": "Emplea la retroalimentación visual.",
+    "B": "Incentiva a la persona a una inspiración corta, rápida y profunda.",
+    "C": "Además de recuperar volumen, moviliza secreciones del pulmón profundo hacia la vía aérea media.",
+    "D": "Ha de hacerse verificando que la persona es capaz de usarlo y ha entendido sus instrucciones correctamente."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 36,
+  "pregunta": "Todas MENOS UNA son CONTRAINDICACIONES de los programas de rehabilitación cardiaca:",
+  "opciones": {
+    "A": "Aneurisma disecante de la aorta.",
+    "B": "Infección de esternotomía.",
+    "C": "Trasplante cardiaco.",
+    "D": "Angor pectoris inestable."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 37,
+  "pregunta": "Señale la técnica de fisioterapia respiratoria descrita para la reexpansión pulmonar:",
+  "opciones": {
+    "A": "Vibraciones.",
+    "B": "Maniobras resistidas inspiratorias.",
+    "C": "Drenaje autógeno.",
+    "D": "Ventilación dirigida."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 38,
+  "pregunta": "Señale la respuesta INCORRECTA con respecto a la Fase I (Fase hospitalaria) de la rehabilitación cardiaca:",
+  "opciones": {
+    "A": "Comienza dentro de las primeras 24 horas tras la hospitalización.",
+    "B": "Su objetivo es restaurar el patrón ventilatorio.",
+    "C": "Su objetivo es promover la movilización precoz.",
+    "D": "Su objetivo es evitar la retención de secreciones."
+  },
+  "respuestaCorrecta": ""
+},
+{
+  "id": 39,
+  "pregunta": "¿A qué nivel vertebral se produce la mayor parte de la rotación cervical?",
+  "opciones": {
+    "A": "Entre occipucio y C1.",
+    "B": "Entre C1 y C2.",
+    "C": "Entre C5 y C6.",
+    "D": "Entre C7 y D1."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 40,
+  "pregunta": "¿Cuál de los siguientes deportes o actividades se recomendarían a una persona con riesgo de sufrir una anterolistesis a nivel lumbar?",
+  "opciones": {
+    "A": "Trabajo muscular lumboabdominal.",
+    "B": "Natación (estilo mariposa).",
+    "C": "Patinaje artístico.",
+    "D": "Gimnasia rítmica."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 41,
+  "pregunta": "¿A partir de cuántos grados de curvatura escoliótica está indicado el tratamiento ortopédico?",
+  "opciones": {
+    "A": "15º.",
+    "B": "30º.",
+    "C": "45º.",
+    "D": "50º."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 42,
+  "pregunta": "Con relación al tratamiento de la cervicalgia, señale la respuesta INCORRECTA:",
+  "opciones": {
+    "A": "Uso de un collarín blando 24h/día, durante una semana.",
+    "B": "Técnicas de neuroestimulación eléctrica transcutánea para disminuir el dolor.",
+    "C": "Termoterapia superficial.",
+    "D": "Masoterapia."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 43,
+  "pregunta": "Señale la respuesta INCORRECTA con relación a la férula Durán termoformable utilizada en lesiones tendinosas:",
+  "opciones": {
+    "A": "Evita el estiramiento del tendón y permite su cicatrización.",
+    "B": "Es recomendable utilizarlo durante 4-5 semanas.",
+    "C": "La muñeca se posicionará siempre en posición neutra.",
+    "D": "La metacarpofalángica se posicionará a 60-70º de flexión e interfalángica en extensión."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 44,
+  "pregunta": "Después de una luxación anterior o anterointerna del hombro, en un primer momento se deberán evitar los siguientes movimientos:",
+  "opciones": {
+    "A": "Rotación interna y retropulsión.",
+    "B": "Rotación externa, abducción y retropulsión.",
+    "C": "Aducción.",
+    "D": "Ninguno de los anteriores."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 45,
+  "pregunta": "Indique cuál de las siguientes afirmaciones es FALSA, en personas con hombro congelado:",
+  "opciones": {
+    "A": "El tratamiento de fisioterapia aporta más beneficios a las personas en la fase 1 que en la fase 2.",
+    "B": "La fase 4 de la capsulitis aparece entre los 15 y 24 meses, con dolor mínimo y cierta mejoría en la amplitud de movimiento.",
+    "C": "Las opciones de tratamiento incluyen fisioterapia, antiinflamatorios, infiltraciones intraarticulares y bloqueo del nervio supraescapular.",
+    "D": "La cirugía no estará indicada entre las opciones de tratamiento."
+  },
+  "respuestaCorrecta": ""
+},
+{
+  "id": 46,
+  "pregunta": "¿La lesión de qué nervio periférico produce la parálisis del músculo serrato anterior, principal estabilizador de la escápula?",
+  "opciones": {
+    "A": "Nervio supraescapular.",
+    "B": "Nervio musculocutáneo.",
+    "C": "Nervio torácico largo.",
+    "D": "Nervio subescapular inferior."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 47,
+  "pregunta": "En una fractura del acetábulo (cavidad cotiloidea), una importante COMPLICACIÓN a largo plazo que se debe tener en cuenta es:",
+  "opciones": {
+    "A": "Necrosis de la cabeza femoral.",
+    "B": "Parálisis ciática.",
+    "C": "Coxartrosis.",
+    "D": "Ninguna de las anteriores."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 48,
+  "pregunta": "Con relación a los objetivos de tratamiento de las fracturas diafisarias de tibia y peroné, señale la respuesta INCORRECTA:",
+  "opciones": {
+    "A": "Conseguir una correcta flexo-extensión de tobillo y rodilla.",
+    "B": "Consolidación en varo y valgo < 5 grados.",
+    "C": "Dismetría < 1 cm.",
+    "D": "Evitar complicaciones sépticas."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 49,
+  "pregunta": "En el tratamiento de un esguince de tobillo (distensión de ligamentos laterales), NO se debe:",
+  "opciones": {
+    "A": "Aplicar crioterapia para disminuir la inflamación.",
+    "B": "Colocar un vendaje de contención con el pie en inversión.",
+    "C": "Realizar drenaje linfático manual.",
+    "D": "Elevar el miembro afecto."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 50,
+  "pregunta": "En el tratamiento de fisioterapia de la gonartrosis, estará indicado:",
+  "opciones": {
+    "A": "Masaje descontracturante.",
+    "B": "Termoterapia.",
+    "C": "Bicicleta sin resistencia.",
+    "D": "Todas las anteriores están indicadas."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 51,
+  "pregunta": "Para favorecer la consolidación de una fractura es importante, señale la respuesta CORRECTA:",
+  "opciones": {
+    "A": "Colocar el segmento corporal afectado en posición de declive, por encima de la horizontal.",
+    "B": "Masaje de drenaje circulatorio.",
+    "C": "Ejercicios que favorezcan la irrigación en el foco de fractura.",
+    "D": "Baños de remolino."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 52,
+  "pregunta": "En una fractura de Colles, en qué momento del tratamiento integraremos ejercicios de fortalecimiento excéntrico y concéntrico:",
+  "opciones": {
+    "A": "Fase consolidada, después de los 45 días.",
+    "B": "Fase postoperatoria secundaria.",
+    "C": "Fase postoperatoria.",
+    "D": "Ninguna de las anteriores."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 53,
+  "pregunta": "La fractura diafisaria del radio asociada a una luxación distal del cúbito, recibe el nombre de fractura:",
+  "opciones": {
+    "A": "De Monteggia.",
+    "B": "De Galeazzi.",
+    "C": "En rotación axial.",
+    "D": "En tallo verde."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 54,
+  "pregunta": "Señale la respuesta INCORRECTA con relación a las fracturas de cadera:",
+  "opciones": {
+    "A": "La persona presenta generalmente una rotación externa de la pierna con acortamiento.",
+    "B": "La necrosis avascular es más frecuente en las fracturas extracapsulares.",
+    "C": "Las fracturas intracapsulares requieren generalmente artroplastia de cadera.",
+    "D": "Una fijación inadecuada puede producir una pseudoartrosis."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 55,
+  "pregunta": "La causa más frecuente de amputación en la extremidad inferior es:",
+  "opciones": {
+    "A": "Vascular.",
+    "B": "Traumática.",
+    "C": "Tumoral.",
+    "D": "Malformaciones congénitas."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 56,
+  "pregunta": "Con relación a las rodillas protésicas, es FALSO que:",
+  "opciones": {
+    "A": "Las rodillas de cierre manual se bloquean automáticamente cuando la rodilla está en extensión.",
+    "B": "La rodilla con freno de fricción consigue la estabilidad en la fase de balanceo.",
+    "C": "La rodilla con impulso a la extensión permite que la rodilla inicie automáticamente el balanceo en la fase de despegue de dedos.",
+    "D": "Cuando las rodillas tienen dos o más ejes se denominan policéntricas."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 57,
+  "pregunta": "Respecto a la Esclerosis Múltiple es FALSO que:",
+  "opciones": {
+    "A": "Es una enfermedad desmielinizante del sistema nervioso periférico.",
+    "B": "Es característica la lesión en placas de infiltrado inflamatorio en la sustancia blanca.",
+    "C": "Es muy frecuente su evolución en brotes de forma remitente recurrente.",
+    "D": "Son frecuentes las parestesias y disestesias difusas."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 58,
+  "pregunta": "Los siguientes síntomas son característicos de la enfermedad de Parkinson, EXCEPTO uno, ¿cuál?:",
+  "opciones": {
+    "A": "Bradicinesia.",
+    "B": "Temblor de reposo.",
+    "C": "Espasticidad.",
+    "D": "Alteración de los reflejos posturales."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 59,
+  "pregunta": "La exploración clínica de una persona con Esclerosis Lateral Amiotrófica puede mostrar:",
+  "opciones": {
+    "A": "Amiotrofia.",
+    "B": "Fasciculaciones.",
+    "C": "Hiperreflexia.",
+    "D": "Todos los anteriores."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 60,
+  "pregunta": "La meralgia parestésica, es una neuropatía por compresión del nervio:",
+  "opciones": {
+    "A": "Ciático poplíteo externo.",
+    "B": "Mediano.",
+    "C": "Femorocutáneo externo.",
+    "D": "Interóseo posterior."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 61,
+  "pregunta": "Los objetivos del tratamiento de fisioterapia en las alteraciones del tono y el movimiento en personas con afectación neurológica incluyen:",
+  "opciones": {
+    "A": "Disminuir la longitud de los tejidos blandos.",
+    "B": "Subir el tono muscular.",
+    "C": "Reducir la longitud de las estructuras subyacentes.",
+    "D": "Reeducar el movimiento."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 62,
+  "pregunta": "En el tratamiento de fisioterapia de un niño o niña con Parálisis Cerebral NO se debe:",
+  "opciones": {
+    "A": "Hablar durante el tratamiento.",
+    "B": "Mantener un umbral adecuado de estimulación.",
+    "C": "Mecanizar el tratamiento.",
+    "D": "Encontrar el elemento motivador para conseguir el fin propuesto."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 63,
+  "pregunta": "En el tratamiento de una persona con espasticidad es necesario:",
+  "opciones": {
+    "A": "Inhibir el tono excesivo en cuanto sea posible.",
+    "B": "Ofrecer sensación de posición y movimiento normales a la persona.",
+    "C": "Facilitar los patrones de movimiento normales.",
+    "D": "a), b) y c) son correctas."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 64,
+  "pregunta": "Indique la afirmación INCORRECTA respecto a la reeducación de la extremidad superior:",
+  "opciones": {
+    "A": "Los ejercicios más básicos se basan en el posicionamiento y el mantenimiento contra gravitatorio de la extremidad superior en diferentes planos.",
+    "B": "Los ejercicios de tipo tracción-impulso tienen como objetivo estimular la flexión activa de codo y muñeca.",
+    "C": "Los estímulos de coaptación articular favorecen la extensión activa del codo e inhiben la espasticidad flexora.",
+    "D": "La estimulación sensitiva es imprescindible durante el tratamiento."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 65,
+  "pregunta": "Entre las recomendaciones para el tratamiento del dolor de espalda en el embarazo NO se encuentra:",
+  "opciones": {
+    "A": "Realizar cambios frecuentes de posición.",
+    "B": "Utilizar técnicas manuales en los tejidos lesionados.",
+    "C": "Respetar los principios de elongación de la columna y estabilización lumbopélvica.",
+    "D": "Evitar el uso de faja pélvica como medida de soporte."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 66,
+  "pregunta": "Entre los objetivos de la fisioterapia posparto NO se encuentra:",
+  "opciones": {
+    "A": "Favorecer la cicatrización de los tejidos lesionados durante el parto.",
+    "B": "Activar el suelo pélvico mediante situaciones de hiperpresión.",
+    "C": "Tonificar la musculatura del compartimento abdominopélvico.",
+    "D": "Devolver estabilidad a la columna y la pelvis."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 67,
+  "pregunta": "Es una CONTRAINDICACIÓN ABSOLUTA para la realización de ejercicio físico durante el embarazo:",
+  "opciones": {
+    "A": "Embarazo múltiple.",
+    "B": "Tercer trimestre con presentación de nalgas.",
+    "C": "Enfermedad tiroidea.",
+    "D": "Retraso del crecimiento fetal."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 68,
+  "pregunta": "NO se recomienda como técnica para la toma de conciencia del suelo pélvico:",
+  "opciones": {
+    "A": "El reflejo nociceptivo.",
+    "B": "La retroalimentación.",
+    "C": "La autopalpación.",
+    "D": "El estiramiento reflejo."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 69,
+  "pregunta": "Llevar a cabo actividades encaminadas a la profundización y al descubrimiento de nuevos campos dentro de la fisioterapia es una actividad propia del ámbito fisioterápico:",
+  "opciones": {
+    "A": "Asistencial.",
+    "B": "De docencia.",
+    "C": "De investigación.",
+    "D": "De gestión."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 70,
+  "pregunta": "En relación con el diagnóstico fisioterapéutico, indique cuál de los siguientes NO forma parte de sus elementos:",
+  "opciones": {
+    "A": "Causas.",
+    "B": "Manifestaciones.",
+    "C": "Problema.",
+    "D": "Pronóstico."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 71,
+  "pregunta": "Los objetivos de fisioterapia deben:",
+  "opciones": {
+    "A": "Estar centrados en el fisioterapeuta.",
+    "B": "Ser realistas y enunciados con precisión.",
+    "C": "Ser descritos en términos de sensación de la persona.",
+    "D": "Ser guiados por las actuaciones de fisioterapia."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 72,
+  "pregunta": "Señale el objetivo INCORRECTO en el tratamiento rehabilitador de una persona con Alzheimer:",
+  "opciones": {
+    "A": "Mantener la movilidad e independencia funcional.",
+    "B": "Evitar la deambulación para disminuir el riesgo de caídas.",
+    "C": "Lograr la integración en el medio.",
+    "D": "Mejorar la calidad de vida de la persona."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 73,
+  "pregunta": "Señale lo INCORRECTO con relación a las órtesis para la columna cervical en cervicalgias:",
+  "opciones": {
+    "A": "En función de la intensidad del dolor se podría recomendar el uso de collarín blando.",
+    "B": "Se aplicarán en periodos cortos de tiempo.",
+    "C": "Se retirará siempre de manera total en 48 h.",
+    "D": "El tiempo de uso del collarín cervical está limitado para evitar la atrofia muscular."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 74,
+  "pregunta": "Señale la respuesta INCORRECTA con relación a la ergonomía:",
+  "opciones": {
+    "A": "Tiene como finalidad contribuir a reducir y prevenir los efectos nocivos de las condiciones del trabajo sobre el organismo.",
+    "B": "Sería una adaptación del trabajo a la persona.",
+    "C": "No se incluyen los mobiliarios.",
+    "D": "Es una ciencia pluridisciplinaria."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 75,
+  "pregunta": "¿Cuál de los siguientes deportes estaría preferentemente INDICADO para prevenir la osteoporosis en miembros inferiores?",
+  "opciones": {
+    "A": "Poleas.",
+    "B": "Bicicleta.",
+    "C": "Palo.",
+    "D": "a), b) y c) son correctas."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 76,
+  "pregunta": "Señale lo CORRECTO en el caso de que la víctima no reconozca estar en situación de maltrato y no se disponga de elementos de juicio suficientes para poder considerar que existe una sospecha fundada:",
+  "opciones": {
+    "A": "Se registrarán en la historia clínica los indicios existentes.",
+    "B": "Se prestará atención a los problemas físicos, psíquicos y sociales encontrados.",
+    "C": "Se ofertarán visitas de seguimiento.",
+    "D": "Todo lo anterior es correcto."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 77,
+  "pregunta": "Con relación a las pautas de actuación del personal sanitario ante la violencia de género y las agresiones sexuales en Euskadi, señale la afirmación INCORRECTA:",
+  "opciones": {
+    "A": "Las actuaciones que se prestan a las mujeres en situaciones de violencia de género deben estar libres de estereotipos sexistas.",
+    "B": "No se requiere coordinación con servicios sociales, policiales o jurídicos.",
+    "C": "Las y los profesionales de la salud deben poner en evidencia las situaciones de violencia y sus consecuencias cuando no son comunicadas de entrada.",
+    "D": "La estrategia recomendada es la búsqueda activa de casos para aumentar la detección."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 78,
+  "pregunta": "Se considera abuso sexual NO reciente, cuando han pasado más de:",
+  "opciones": {
+    "A": "24 horas.",
+    "B": "48 horas.",
+    "C": "72 horas.",
+    "D": "120 horas."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 79,
+  "pregunta": "Señale lo CORRECTO con relación a la actuación sanitaria ante la violencia de género y las agresiones sexuales en Euskadi:",
+  "opciones": {
+    "A": "Las mujeres que han sufrido violencia de género son atendidas habitualmente en los servicios de salud.",
+    "B": "Es probable que el personal de salud sea el primero al que recurran las mujeres que sufren violencia.",
+    "C": "Las y los profesionales de la salud deben tener la capacitación suficiente para identificar los signos propios de las situaciones de violencia y sus consecuencias.",
+    "D": "Todo lo anterior es correcto."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 80,
+  "pregunta": "Señalar la respuesta CORRECTA respecto a la suspensionterapia:",
+  "opciones": {
+    "A": "Incluye movimientos en varios planos y ejes de movimiento.",
+    "B": "Produce movimientos rítmicos.",
+    "C": "Busca acentuar la acción mecánica de la gravedad.",
+    "D": "Los movimientos se trabajan en modalidad pasiva."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 81,
+  "pregunta": "Señale en qué caso o casos la hidroterapia estaría CONTRAINDICADA:",
+  "opciones": {
+    "A": "Procesos infecciosos en la zona a sumergir o que pueda contaminar el agua.",
+    "B": "Hipertensión arterial grave.",
+    "C": "Reumatismos inflamatorios en fase aguda.",
+    "D": "Todos los anteriores."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 82,
+  "pregunta": "La luz láser proporciona una radiación electromagnética que es:",
+  "opciones": {
+    "A": "Monocromática.",
+    "B": "No coherente.",
+    "C": "Direccional.",
+    "D": "a) y c) son ciertas."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 83,
+  "pregunta": "Para prevenir alteraciones venosas en las personas que tienen poca movilidad se recomienda:",
+  "opciones": {
+    "A": "Permanecer sentado con las piernas colgando.",
+    "B": "Elevar los pies de la cama.",
+    "C": "Someterse al calor de estufas, baños de agua caliente o de sol.",
+    "D": "Usar tobilleras para caminar."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 84,
+  "pregunta": "Si tras una cirugía cardiovascular compleja se solicita recomendar un deporte con ligera-baja repercusión cardiovascular, se elegirá:",
+  "opciones": {
+    "A": "Trekking.",
+    "B": "Surf.",
+    "C": "Golf.",
+    "D": "Motociclismo."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 85,
+  "pregunta": "Si se valora la fuerza de los músculos extensores de muñeca, el reflejo estiloradial y la sensibilidad radial del antebrazo y mano, se explora la integridad neurológica de:",
+  "opciones": {
+    "A": "C1.",
+    "B": "C3.",
+    "C": "C6.",
+    "D": "D1."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 86,
+  "pregunta": "Con relación al tratamiento fisioterápico de la osteoporosis, es INCORRECTO:",
+  "opciones": {
+    "A": "Si no existe riesgo de fractura son de preferencia los ejercicios activos según tolerancia.",
+    "B": "En fracturas vertebrales, realizar cuando sea posible ejercicios de extensión de columna.",
+    "C": "Realizar movilizaciones analíticas y manipulaciones.",
+    "D": "En fases agudas dolorosas, se recomienda el reposo en cama."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 87,
+  "pregunta": "Con relación a la prótesis KBM, señale la afirmación INCORRECTA:",
+  "opciones": {
+    "A": "Es una prótesis para personas amputadas por debajo de rodilla.",
+    "B": "Se diseñó para mejorar la estabilidad de la rodilla en amputaciones tibiales.",
+    "C": "La pared anterior del encaje realiza un buen apoyo sobre el tendón rotuliano.",
+    "D": "Las paredes laterales cubren toda la rótula."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 88,
+  "pregunta": "En una persona anciana con riesgo de caídas, el test que evalúa ponerse de pie, caminar 3 metros, volver y sentarse se denomina:",
+  "opciones": {
+    "A": "Test de Romberg.",
+    "B": "Test de Tinetti.",
+    "C": "Test de get up and go.",
+    "D": "Test de Barthel."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 89,
+  "pregunta": "¿Cuál de las siguientes opciones es causa de restricción del arco de movilidad pasivo de una articulación?",
+  "opciones": {
+    "A": "Estiramiento de tejidos blandos.",
+    "B": "Oposición de huesos.",
+    "C": "Un edema.",
+    "D": "Todas son ciertas."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 90,
+  "pregunta": "¿Cuál de las siguientes opciones es una CONTRAINDICACIÓN para el uso de técnicas de valoración del arco de movilidad pasivo?",
+  "opciones": {
+    "A": "Luxación reciente.",
+    "B": "Fractura no consolidada.",
+    "C": "Sutura reciente de tendón de Aquiles.",
+    "D": "Todas son ciertas."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 91,
+  "pregunta": "Una opción para el tratamiento de las restricciones de la movilidad son los estiramientos que pueden ser:",
+  "opciones": {
+    "A": "Pasivos, balísticos y excéntricos.",
+    "B": "Pasivos, balísticos y FNP.",
+    "C": "Pasivos, FNP y concéntricos.",
+    "D": "Balísticos, FNP y excéntricos."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 92,
+  "pregunta": "Los programas de cinesiterapia para el tratamiento del dolor lumbar deben ser:",
+  "opciones": {
+    "A": "Individualizados.",
+    "B": "Planificados.",
+    "C": "De fácil viabilidad domiciliaria.",
+    "D": "Todas son ciertas."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 93,
+  "pregunta": "Los cambios posturales que alternan elevación, declive y posición horizontal de la extremidad se denominan:",
+  "opciones": {
+    "A": "Ejercicios de Buerguer Allen.",
+    "B": "Ejercicios pasivos.",
+    "C": "Ejercicios de Codman.",
+    "D": "Ejercicios de Aidemar."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 94,
+  "pregunta": "Sobre la tracción vertebral, señale la respuesta INCORRECTA:",
+  "opciones": {
+    "A": "La tracción está indicada inmediatamente después de una lesión en la fase de inflamación aguda.",
+    "B": "La tracción está contraindicada en hipertensión arterial mal controlada.",
+    "C": "La tracción está contraindicada cuando el movimiento está contraindicado.",
+    "D": "Mediante la tracción se puede reducir el material del núcleo discal herniado en protrusión o hernia discal."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 95,
+  "pregunta": "Entre los efectos neuromusculares de la crioterapia, NO se encuentra:",
+  "opciones": {
+    "A": "Aumento del umbral del dolor.",
+    "B": "Disminución de la velocidad de conducción nerviosa.",
+    "C": "Alteración de la fuerza muscular.",
+    "D": "Aumento posterior del flujo sanguíneo."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 96,
+  "pregunta": "Son contraindicaciones para el uso de la termoterapia:",
+  "opciones": {
+    "A": "Hemorragia reciente o potencial.",
+    "B": "Tromboflebitis.",
+    "C": "Alteración de la sensibilidad.",
+    "D": "Todos los casos anteriores."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 97,
+  "pregunta": "¿Cómo se debe controlar el nivel del esfuerzo que se realiza al hacer ejercicio en el agua?",
+  "opciones": {
+    "A": "Mediante una escala de bienestar percibido.",
+    "B": "Mediante un pulsómetro.",
+    "C": "Mediante una escala de esfuerzo percibido.",
+    "D": "No es necesario controlarlo."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 98,
+  "pregunta": "Con relación a los beneficios de la hidroterapia de inmersión de cuerpo entero, es FALSO:",
+  "opciones": {
+    "A": "Proporciona descarga de los miembros.",
+    "B": "Una inmersión hasta el ombligo descarga un 70% del peso real.",
+    "C": "Facilita el retorno venoso de miembros inferiores.",
+    "D": "Mejora la propiocepción."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 99,
+  "pregunta": "Dentro de las técnicas de aplicación de la hidrocinesiterapia, ¿qué grupos de ejercicios existen?",
+  "opciones": {
+    "A": "Ejercicios para la carga progresiva y ejercicios de movilización.",
+    "B": "Ejercicios de reeducación motriz y ejercicios de natación.",
+    "C": "Ejercicios en tanque de Hubbard.",
+    "D": "a) y b) son correctas."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 100,
+  "pregunta": "Entre las características fundamentales de la estimulación nerviosa transcutánea (TENS), señale la respuesta INCORRECTA:",
+  "opciones": {
+    "A": "Frecuencias de 1 a 200 Hz.",
+    "B": "Intensidad hasta 50 mA.",
+    "C": "Destinado al trabajo muscular.",
+    "D": "Destinado a analgesia."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 101,
+  "pregunta": "Son efectos fundamentales de la electroterapia:",
+  "opciones": {
+    "A": "Efecto motor y sensitivo.",
+    "B": "Efecto químico y térmico.",
+    "C": "Aporte de energía al organismo.",
+    "D": "Todo lo anterior es cierto."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 102,
+  "pregunta": "Con relación al uso de la estimulación eléctrica nerviosa transcutánea (TENS), señale la afirmación CORRECTA:",
+  "opciones": {
+    "A": "No tiene efecto sobre la modulación del dolor.",
+    "B": "El tipo convencional usa frecuencias bajas (2-10 pps).",
+    "C": "El tipo acupuntura genera efecto motor.",
+    "D": "El tipo acupuntura usa duración de pulso entre 50-80 μs."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 103,
+  "pregunta": "¿Cuál de los siguientes efectos polares se produce bajo el ánodo al aplicar una corriente galvánica al organismo?",
+  "opciones": {
+    "A": "Vasodilatación.",
+    "B": "Vasoconstricción.",
+    "C": "Reacción alcalina.",
+    "D": "Liberación de calor."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 104,
+  "pregunta": "Señale la respuesta CORRECTA en relación con la reobase:",
+  "opciones": {
+    "A": "Es la intensidad mínima necesaria para iniciar la contracción muscular con un impulso cuadrangular de 1.000 ms.",
+    "B": "Es la intensidad mínima necesaria para iniciar la contracción muscular con un impulso de subida progresiva de 1.000 ms.",
+    "C": "Es el tiempo del impulso óptimo para producir una contracción muscular con un impulso cuadrangular.",
+    "D": "Es el tiempo del impulso óptimo para producir una contracción muscular con un impulso de subida progresiva."
+  },
+  "respuestaCorrecta": "A"
+},
+{
+  "id": 105,
+  "pregunta": "Las corrientes eléctricas con onda alterna sinusoidal y frecuencias portadoras entre 2.000 y 10.000 Hz se denominan:",
+  "opciones": {
+    "A": "De baja frecuencia.",
+    "B": "De media frecuencia.",
+    "C": "De alta frecuencia.",
+    "D": "De banda de la luz."
+  },
+  "respuestaCorrecta": "B"
+},
+{
+  "id": 106,
+  "pregunta": "Son CONTRAINDICACIONES en la aplicación de corrientes eléctricas de alta frecuencia:",
+  "opciones": {
+    "A": "Procesos inflamatorios agudos.",
+    "B": "Sobre osteosíntesis y endoprótesis metálicas.",
+    "C": "Procesos infecciosos.",
+    "D": "Todas las circunstancias anteriores."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 107,
+  "pregunta": "La banda de frecuencia utilizada más frecuentemente en los aparatos de microonda para aplicaciones de salud se centra en:",
+  "opciones": {
+    "A": "300 MHz.",
+    "B": "27,12 MHz.",
+    "C": "2.450 MHz.",
+    "D": "80 KHz."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+  "id": 108,
+  "pregunta": "En la aplicación de alta frecuencia, el calor se transmite al organismo mediante:",
+  "opciones": {
+    "A": "Conducción.",
+    "B": "Convección.",
+    "C": "Irradiación.",
+    "D": "Conversión."
+  },
+  "respuestaCorrecta": "D"
+},
+{
+  "id": 109,
+  "pregunta": "Respecto al uso de los ultrasonidos, señale la respuesta FALSA:",
+  "opciones": {
+    "A": "La potencia aplicada se mide en vatios por centímetro cuadrado (W/cm2).",
+    "B": "A mayor potencia usada, mayor penetración.",
+    "C": "El de 1 MHz tiene menos poder de penetración que el de 3 MHz.",
+    "D": "En procesos agudos se emplea menor potencia que en los crónicos."
+  },
+  "respuestaCorrecta": "C"
+},
+{
+    "id": 110,
+    "pregunta": "Con relación a los diferentes tipos de láser utilizados en fisioterapia, señale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "El láser As Ga emite en una longitud de onda de 633 nm (rojo) aproximadamente y la potencia utilizada se halla entre 1 y 50 mW.",
+      "B": "El láser He Ne emite en una longitud de onda de 633 nm (rojo) aproximadamente y la potencia utilizada es de 50 mW como máximo.",
+      "C": "El láser CO2 emite en una longitud de onda de 633 nm (rojo) aproximadamente y la potencia utilizada se halla entre 0,1 y 10 mW.",
+      "D": "El láser de neodimio-YAG emite en una longitud de onda de 633 nm (rojo) aproximadamente y la potencia utilizada es de 50 mW como máximo."
+    },
+    "respuestaCorrecta": "B"
+  },
+  {
+    "id": 111,
+    "pregunta": "En un músculo inmovilizado en estiramiento, señale la respuesta CORRECTA:",
+    "opciones": {
+      "A": "La atrofia muscular es intensa (pérdida en paralelo).",
+      "B": "Se da una disminución del 40% de los sarcómeros en serie (proteólisis).",
+      "C": "Se da un aumento de la proliferación del tejido conjuntivo entre las fibras musculares de forma perpendicular causando una restricción de movimientos.",
+      "D": "La atrofia muscular es pequeña."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 112,
+    "pregunta": "En el caso de una fractura epicondílea en fase de inmovilización absoluta, se recomienda:",
+    "opciones": {
+      "A": "La posición de declive.",
+      "B": "Las movilizaciones activas de muñeca.",
+      "C": "Las contracciones isométricas de la musculatura del brazo y antebrazo.",
+      "D": "Todas son correctas."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 113,
+    "pregunta": "El masaje transverso profundo de Cyriax está INDICADO en:",
+    "opciones": {
+      "A": "Bursitis crónicas.",
+      "B": "Procesos inflamatorios subagudos y crónicos de músculos, ligamentos y tendones.",
+      "C": "Procesos inflamatorios subagudos y crónicos de músculos y ligamentos.",
+      "D": "Artritis postraumática del codo."
+    },
+    "respuestaCorrecta": "B"
+  },
+  {
+    "id": 114,
+    "pregunta": "La técnica de masaje consistente en un golpeteo rítmico con la palma de la mano, zona cubital de la mano o dorso de los dedos, se denomina:",
+    "opciones": {
+      "A": "Vibraciones.",
+      "B": "Fricciones.",
+      "C": "Percusiones.",
+      "D": "Amasamiento."
+    },
+    "respuestaCorrecta": "C"
+  },
+  {
+    "id": 115,
+    "pregunta": "Señale la respuesta CORRECTA con relación a la clasificación de los linfedemas:",
+    "opciones": {
+      "A": "Un linfedema secundario a una cirugía se considera funcional.",
+      "B": "Un linfedema por una fístula linfática se considera obstructivo.",
+      "C": "Un linfedema por inmovilización se considera funcional.",
+      "D": "Un linfedema secundario a una metástasis ganglionar se considera funcional."
+    },
+    "respuestaCorrecta": "C"
+  },
+  {
+    "id": 116,
+    "pregunta": "Señale la respuesta CORRECTA con relación al edema linfático:",
+    "opciones": {
+      "A": "Es indoloro.",
+      "B": "Es elástico.",
+      "C": "No deja fóvea.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Cuál de las siguientes es una CONTRAINDICACIÓN ABSOLUTA de la masoterapia?",
+    "opciones": {
+      "A": "Bursitis.",
+      "B": "Asma.",
+      "C": "Mialgias.",
+      "D": "Trastornos tróficos del sistema nervioso periférico."
+    },
+    "respuestaCorrecta": "A"
+  },
+  {
+    "id": 118,
+    "pregunta": "Respecto a la Enfermedad Pulmonar Obstructiva Crónica, indique la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Es una patología caracterizada por la limitación al flujo aéreo.",
+      "B": "Afecta primariamente a los pulmones, aunque también produce disfunción de la musculatura esquelética.",
+      "C": "No es prevenible.",
+      "D": "Los principales síntomas son la tos, expectoración y disnea."
+    },
+    "respuestaCorrecta": "C"
+  },
+  {
+    "id": 119,
+    "pregunta": "Respecto a las alteraciones musculoesqueléticas de la pared torácica, indique la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Inducen cambios en la mecánica pulmonar, reduciendo su capacidad de expansión.",
+      "B": "Inducen cambios en la biomecánica de los músculos respiratorios, incrementando su capacidad funcional.",
+      "C": "Inducen cambios en los volúmenes pulmonares, reduciendo la capacidad pulmonar total.",
+      "D": "Todas son incorrectas."
+    },
+    "respuestaCorrecta": "B"
+  },
+  {
+    "id": 120,
+    "pregunta": "Con respecto a los beneficios de la rehabilitación pulmonar en la EPOC, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Mejora la tolerancia al ejercicio.",
+      "B": "Reduce la sensación de disnea.",
+      "C": "Aumenta la ansiedad asociada al EPOC.",
+      "D": "Mejora la calidad de vida asociada a la salud."
+    },
+    "respuestaCorrecta": "C"
+  },
+
+  {
+    "id": 121,
+    "pregunta": "¿Cuál de las siguientes técnicas NO está INDICADA en la valoración del aparato respiratorio?",
+    "opciones": {
+      "A": "Espirometría.",
+      "B": "Oximetría.",
+      "C": "Gasometría arterial.",
+      "D": "Todas están indicadas."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 122,
+    "pregunta": "Respecto al tratamiento de fisioterapia en la espondilitis anquilosante, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "A": "Es importante realizar manipulaciones vertebrales para aumentar la amplitud articular.",
+      "B": "Es fundamental reducir la inflamación.",
+      "C": "Es prioritario mantener la movilidad articular.",
+      "D": "Es importante prevenir las deformaciones."
+    },
+    "respuestaCorrecta": "A"
+  },
+  {
+    "id": 123,
+    "pregunta": "Indique qué ejercicios indicaría a una persona con problemas circulatorios periféricos como ateroesclerosis o trombosis venosa:",
+    "opciones": {
+      "A": "Ejercicios de Bobath.",
+      "B": "Ejercicios de Kabat.",
+      "C": "Ejercicios de Buerguer Allen.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    },
+    "respuestaCorrecta": "C"
+  },
+  {
+    "id": 124,
+    "pregunta": "Para la capsulitis adhesiva de hombro hay evidencia científica del tratamiento fisioterápico con:",
+    "opciones": {
+      "A": "Concepto Mulligan.",
+      "B": "Técnicas de Maitland.",
+      "C": "Estiramiento capsular de Cyriax.",
+      "D": "Todas las anteriores."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 125,
+    "pregunta": "El síndrome subacromial se puede explorar mediante:",
+    "opciones": {
+      "A": "La prueba de Yocum.",
+      "B": "El test de Babinsky-Weil.",
+      "C": "La prueba de Edison.",
+      "D": "El test de Phalen."
+    },
+    "respuestaCorrecta": "A"
+  },
+  {
+    "id": 126,
+    "pregunta": "En las fracturas proximales de húmero:",
+    "opciones": {
+      "A": "La complicación más frecuente es la lesión del nervio circunflejo.",
+      "B": "La complicación más frecuente es la necrosis avascular de la cabeza del húmero.",
+      "C": "Por lo general, el tiempo de consolidación suele situarse en 12-16 semanas.",
+      "D": "Nunca aparecen complicaciones."
+    },
+    "respuestaCorrecta": "A"
+  },
+  {
+    "id": 127,
+    "pregunta": "En el síndrome de la mano dolorosa, es FALSO que:",
+    "opciones": {
+      "A": "Se utilizarán agentes físicos orientados a la analgesia como drenaje linfático o ultrasonido.",
+      "B": "La terapia con espejo puede ser de gran utilidad.",
+      "C": "La reevaluación ha de ser constante.",
+      "D": "El primer objetivo será la restauración del movimiento articular mediante movilizaciones pasivas."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 128,
+    "pregunta": "Tras una fractura de tobillo-pie, cuando ya hay posibilidad de cargar, señale la opción CORRECTA:",
+    "opciones": {
+      "A": "El miembro debe tener 2/3 de la fuerza del sano para cargar totalmente.",
+      "B": "El tiempo de permanencia en bipedestación ha de ser prolongado.",
+      "C": "La fractura ha de estar parcialmente consolidada y estabilizada.",
+      "D": "Se inicia el tratamiento de la coordinación y la propiocepción."
+    },
+    "respuestaCorrecta": "A"
+  },
+  {
+    "id": 129,
+    "pregunta": "Entre las COMPLICACIONES de las fracturas diafisarias de tibia y peroné podemos encontrar:",
+    "opciones": {
+      "A": "Síndrome compartimental.",
+      "B": "Retardo de la consolidación.",
+      "C": "Seudoartrosis.",
+      "D": "Todas las anteriores."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 130,
+    "pregunta": "El síndrome compartimental:",
+    "opciones": {
+      "A": "Es una afección seria con aumento de presión intracompartimental.",
+      "B": "Puede producir lesiones nerviosas y musculares.",
+      "C": "Se asocia frecuentemente a fracturas de tibia.",
+      "D": "Todas las anteriores son correctas."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 131,
+    "pregunta": "La sinovitis:",
+    "opciones": {
+      "A": "Es una inflamación que no produce exceso de líquido.",
+      "B": "Siempre es producida por traumatismos.",
+      "C": "Es poco frecuente en enfermedades autoinmunes.",
+      "D": "Produce exceso de líquido sinovial en articulaciones o vainas tendinosas."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 132,
+    "pregunta": "El entrenamiento pliométrico:",
+    "opciones": {
+      "A": "No aumenta la velocidad de reacción.",
+      "B": "Puede incrementar la potencia muscular.",
+      "C": "No debe realizarse nunca.",
+      "D": "No está indicado para aumentar la potencia."
+    },
+    "respuestaCorrecta": "B"
+  },
+  {
+    "id": 133,
+    "pregunta": "Sobre electroterapia en patologías traumatológicas, indique la afirmación FALSA:",
+    "opciones": {
+      "A": "Las corrientes de baja frecuencia oscilan entre 1 y 1000 Hz.",
+      "B": "Las corrientes triangulares estimulan musculatura denervada.",
+      "C": "El TENS es una corriente de baja frecuencia.",
+      "D": "Las corrientes de baja frecuencia tienen frecuencias entre 1000 y 100000 Hz."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 134,
+    "pregunta": "El dolor de hombro en el síndrome subacromial se minimiza con trabajo excéntrico de:",
+    "opciones": {
+      "A": "Infraespinoso y deltoides.",
+      "B": "Supraespinoso y serrato anterior.",
+      "C": "Infraespinoso y serrato anterior.",
+      "D": "Supraespinoso y deltoides."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 135,
+    "pregunta": "Tras una luxación articular:",
+    "opciones": {
+      "A": "No debe reproducirse el mecanismo luxante inicialmente.",
+      "B": "La propiocepción es fundamental.",
+      "C": "El objetivo es una articulación estable.",
+      "D": "Todas las anteriores son correctas."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 136,
+    "pregunta": "La combinación de movimientos que lesionan más fácilmente el menisco es:",
+    "opciones": {
+      "A": "Flexo-extensión y rotación.",
+      "B": "Flexo-extensión y aducción.",
+      "C": "Flexo-extensión y abducción.",
+      "D": "Flexo-extensión y pronación."
+    },
+    "respuestaCorrecta": "A"
+  },
+  {
+    "id": 137,
+    "pregunta": "El tratamiento conservador del menisco es viable si NO hay:",
+    "opciones": {
+      "A": "Bloqueos frecuentes.",
+      "B": "Dolor continuo.",
+      "C": "Derrame recurrente.",
+      "D": "Todas las anteriores."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 138,
+    "pregunta": "La descripción \"mano sobre hombro contralateral y elevación del codo contra resistencia\" corresponde a:",
+    "opciones": {
+      "A": "Prueba de Finkelstein.",
+      "B": "Prueba de Neer.",
+      "C": "Prueba del supraespinoso.",
+      "D": "Prueba de Yocum."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 139,
+    "pregunta": "En la escala de Lovett / Daniels-Worthingham:",
+    "opciones": {
+      "A": "0 puntos: contracción visible sin movimiento.",
+      "B": "3 puntos: movimiento completo contra gravedad.",
+      "C": "0 puntos: contracción perceptible a palpación.",
+      "D": "2 puntos: movimiento completo contra gravedad."
+    },
+    "respuestaCorrecta": "B"
+  },
+  {
+    "id": 140,
+    "pregunta": "En la exploración de dermatomas de extremidad inferior, es CORRECTO:",
+    "opciones": {
+      "A": "L2 inerva el dorso del pie.",
+      "B": "L2 inerva la planta del pie.",
+      "C": "S2 inerva principalmente la planta del pie.",
+      "D": "S2 inerva la cara dorsal de la pierna."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 141,
+    "pregunta": "En el Síndrome de Dolor Regional Complejo tipo I (SDRC I):",
+    "opciones": {
+      "A": "El dolor es leve.",
+      "B": "Los síntomas son solo motores.",
+      "C": "También se denomina algodistrofia o distrofia simpática refleja.",
+      "D": "No produce complicaciones."
+    },
+    "respuestaCorrecta": "C"
+  },
+  {
+    "id": 142,
+    "pregunta": "Orden correcto del daño rotuliano:",
+    "opciones": {
+      "A": "Desequilibrio → fractura → condromalacia → artrosis.",
+      "B": "Desequilibrio → subluxación → artrosis → condromalacia.",
+      "C": "Desequilibrio → subluxación → condromalacia → artrosis.",
+      "D": "Desequilibrio → fractura → artrosis → condromalacia."
+    },
+    "respuestaCorrecta": "C"
+  },
+  {
+    "id": 143,
+    "pregunta": "En las prótesis de hombro, es CORRECTO:",
+    "opciones": {
+      "A": "La limitación residual es la rotación interna.",
+      "B": "El objetivo principal es antiálgico.",
+      "C": "La fisioterapia comienza en el segundo mes.",
+      "D": "Debe potenciarse especialmente el deltoides medio."
+    },
+    "respuestaCorrecta": "B"
+  },
+  {
+    "id": 144,
+    "pregunta": "Una lesión en la Formación Reticular produce:",
+    "opciones": {
+      "A": "Alteración del tono muscular.",
+      "B": "Alteración emocional.",
+      "C": "Alteración refleja.",
+      "D": "a) y c) son correctas."
+    },
+    "respuestaCorrecta": "D"
+  },
+  {
+    "id": 145,
+    "pregunta": "Un Schwannoma del V par craneal puede afectar:",
+    "opciones": {
+      "A": "Músculos intrínsecos de la laringe.",
+      "B": "Músculo genihioideo.",
+      "C": "Vientre anterior del digástrico.",
+      "D": "Músculo buccinador."
+    },
+    "respuestaCorrecta": "C"
+  },
+  {
+    "id": 146,
+    "pregunta": "Modalidades de sensibilidad propioceptiva. INCORRECTA:",
+    "opciones": {
+      "A": "Barognosia: forma, tamaño y peso.",
+      "B": "Palestesia: vibración.",
+      "C": "Barestesia: presión.",
+      "D": "Cinestesia: posición y movimiento."
+    },
+    "respuestaCorrecta": "A"
+  },
+  {
+    "id": 147,
+    "pregunta": "Nervio lesionado por presión de muleta axilar:",
+    "opciones": {
+      "A": "Circunflejo.",
+      "B": "Radial.",
+      "C": "Cubital.",
+      "D": "Mediano."
+    },
+    "respuestaCorrecta": "B"
+  },
+  {
+    "id": 148,
+    "pregunta": "Para disminuir la hipertonía en extremidad superior, NO se incluye:",
+    "opciones": {
+      "A": "Movilizaciones pasivas.",
+      "B": "Aplicación de frío local.",
+      "C": "Estiramientos bruscos.",
+      "D": "Férulas de posicionamiento."
+    },
+    "respuestaCorrecta": "C"
+  },
+  {
+    "id": 149,
+    "pregunta": "Según el Concepto Bobath, las reacciones de enderezamiento permiten:",
+    "opciones": {
+      "A": "Mantener alineación cabeza-tronco.",
+      "B": "Restablecer el equilibrio.",
+      "C": "Equilibrio agonistas-antagonistas.",
+      "D": "Responder con apoyo de extremidades."
+    },
+    "respuestaCorrecta": "A"
+  },
+  {
+    "id": 150,
+    "pregunta": "En las disfunciones del suelo pélvico, la electroestimulación está INDICADA para:",
+    "opciones": {
+      "A": "Aumentar contracciones reflejas del detrusor.",
+      "B": "Disminuir el tono muscular.",
+      "C": "Reducir el dolor.",
+      "D": "Facilitar el control vesical en embarazadas con incontinencia."
+    },
+    "respuestaCorrecta": "C"
+  },
+  
+    {
+      "id": 151,
+      "pregunta": "Son CONTRAINDICACIONES ABSOLUTAS para la realización de ejercicio físico durante el embarazo, EXCEPTO:",
+      "opciones": {
+        "A": "Tercer trimestre con presentación de nalgas.",
+        "B": "Placenta previa.",
+        "C": "Enfermedad reumática.",
+        "D": "Tromboflebitis."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 152,
+      "pregunta": "Entre los objetivos de la preparación física al parto NO se encuentra:",
+      "opciones": {
+        "A": "Estabilizar el tronco.",
+        "B": "Aumentar la coordinación y el equilibrio.",
+        "C": "Flexibilizar las articulaciones.",
+        "D": "Activar el suelo pélvico mediante electroestimulación."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 153,
+      "pregunta": "Señale la respuesta FALSA con relación a las características básicas del registro de fisioterapia:",
+      "opciones": {
+        "A": "Es un documento preciso identificando profesional y fecha.",
+        "B": "Es un documento objetivo.",
+        "C": "Es un documento parcial que obvia datos de la patología.",
+        "D": "Es un documento oportuno."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 154,
+      "pregunta": "La Clasificación Internacional del Funcionamiento, de la Discapacidad y de la Salud (CIF), se estructura en los siguientes componentes. Señale la respuesta INCORRECTA:",
+      "opciones": {
+        "A": "Funciones y estructuras corporales.",
+        "B": "Actividades y participación.",
+        "C": "Minusvalías.",
+        "D": "Factores ambientales y personales."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 155,
+      "pregunta": "La reducción o pérdida de la capacidad funcional como consecuencia de una deficiencia corresponde a:",
+      "opciones": {
+        "A": "Handicap.",
+        "B": "Discapacidad.",
+        "C": "Deficiencia.",
+        "D": "Deterioro."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 156,
+      "pregunta": "¿Cuál NO es una etapa del método de intervención en fisioterapia?",
+      "opciones": {
+        "A": "Valoración.",
+        "B": "Diagnóstico médico.",
+        "C": "Programa de fisioterapia.",
+        "D": "Evaluación del programa."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 157,
+      "pregunta": "Dentro de los cambios fisiológicos asociados al envejecimiento es FALSO:",
+      "opciones": {
+        "A": "Pérdida de masa ósea.",
+        "B": "Disminución de movilidad vertebral.",
+        "C": "Aumento de número de condrocitos.",
+        "D": "Pérdida de masa muscular."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 158,
+      "pregunta": "Manifestaciones clínicas asociadas a la depresión en el anciano:",
+      "opciones": {
+        "A": "Expectativas negativas.",
+        "B": "Irritabilidad o ansiedad.",
+        "C": "Insomnio.",
+        "D": "Todo lo anterior."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 159,
+      "pregunta": "En fisioterapia tras una prótesis total de rodilla en ancianos, es CIERTO:",
+      "opciones": {
+        "A": "La rehabilitación empieza al mes.",
+        "B": "Dolor grave y limitación funcional indican cirugía.",
+        "C": "No se usan dispositivos ortésicos.",
+        "D": "No es necesario valorar la cadera."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 160,
+      "pregunta": "La escala de Lawton se utiliza para valorar:",
+      "opciones": {
+        "A": "AVD.",
+        "B": "AIVD.",
+        "C": "AVDA.",
+        "D": "AIVDA."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 161,
+      "pregunta": "Tras una artroplastia total de rodilla, es CIERTO que:",
+      "opciones": {
+        "A": "Debe colocarse almohada bajo la rodilla.",
+        "B": "Los ruidos articulares son una complicación.",
+        "C": "Debe mantenerse flexión prolongada en sedestación.",
+        "D": "Debe evaluarse la capacidad de deambulación."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 162,
+      "pregunta": "Para la evaluación cuantitativa de la marcha se utilizan:",
+      "opciones": {
+        "A": "Test Up and Go cronometrado.",
+        "B": "Test de Romberg.",
+        "C": "Test de alcance funcional.",
+        "D": "Marcha ciega o Babinski-Weil."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 163,
+      "pregunta": "Respecto a prótesis en amputados por debajo de rodilla, es CORRECTO:",
+      "opciones": {
+        "A": "El encaje PTB se apoya en tendón rotuliano y deltoides.",
+        "B": "El encaje KBM cubre la rótula.",
+        "C": "El encaje CAT-CAM permite movilidad completa.",
+        "D": "El encaje PTS es igual que el KBM."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 164,
+      "pregunta": "El pie SACH se caracteriza por:",
+      "opciones": {
+        "A": "Ser articulado.",
+        "B": "Tener amortiguación en talón y antepié.",
+        "C": "Ser acumulador de energía.",
+        "D": "Uso deportivo frecuente."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 165,
+      "pregunta": "Órtesis en escoliosis y cifosis estructurales. Señale la FALSA:",
+      "opciones": {
+        "A": "Corsé de Milwaukee.",
+        "B": "Minervas.",
+        "C": "Corsé de Lyon o Stagnara.",
+        "D": "Corsé de Michel."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 166,
+      "pregunta": "Indicaciones de una órtesis cervical:",
+      "opciones": {
+        "A": "Tortícolis.",
+        "B": "Protección postoperatoria.",
+        "C": "Traumatismos.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 167,
+      "pregunta": "Sobre el ciclo de la marcha, señale la INCORRECTA:",
+      "opciones": {
+        "A": "Se divide en apoyo y balanceo.",
+        "B": "La fase de apoyo es el 50%.",
+        "C": "Se define entre dos choques de talón.",
+        "D": "El balanceo tiene aceleración, medio y deceleración."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 168,
+      "pregunta": "NO corresponde a una marcha Parkinsoniana:",
+      "opciones": {
+        "A": "Inicio lento.",
+        "B": "Pérdida de braceo.",
+        "C": "Aumento de base y zig-zag.",
+        "D": "Inclinación anterior del tronco."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 169,
+      "pregunta": "Como profesional sanitario ante violencia de género, NO se debe:",
+      "opciones": {
+        "A": "Minimizar el problema.",
+        "B": "Infravalorar el riesgo.",
+        "C": "Justificar la violencia.",
+        "D": "Todo lo anterior."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 170,
+      "pregunta": "Se considera agresión sexual reciente cuando han pasado menos de:",
+      "opciones": {
+        "A": "168 horas.",
+        "B": "240 horas.",
+        "C": "120 horas.",
+        "D": "192 horas."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 171,
+      "pregunta": "En el parte de lesiones por violencia de género, es INCORRECTO:",
+      "opciones": {
+        "A": "Evitar juicios de valor.",
+        "B": "Registrar solo lesiones físicas.",
+        "C": "Informar y pedir consentimiento.",
+        "D": "Detallar la relación con el agresor."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 172,
+      "pregunta": "Objetivo principal de la fase de contemplación ante una agresión sexual:",
+      "opciones": {
+        "A": "Fomentar duda sobre la situación.",
+        "B": "Aumentar la toma de conciencia.",
+        "C": "Replantear creencias.",
+        "D": "Analizar planes ya iniciados."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 173,
+      "pregunta": "Aplicación terapéutica que utiliza el movimiento como agente físico:",
+      "opciones": {
+        "A": "Helioterapia.",
+        "B": "Electroterapia.",
+        "C": "Cinesiterapia.",
+        "D": "Talasoterapia."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 174,
+      "pregunta": "Factores que limitan la movilidad activa:",
+      "opciones": {
+        "A": "Debilidad muscular.",
+        "B": "Tono muscular anormal.",
+        "C": "Dolor musculotendinoso.",
+        "D": "Todas son ciertas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 175,
+      "pregunta": "La disnea en rehabilitación respiratoria se evalúa mediante:",
+      "opciones": {
+        "A": "Escala EVA.",
+        "B": "Escala de Borg.",
+        "C": "Valoración de la tos.",
+        "D": "a) y b) son correctas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 176,
+      "pregunta": "Durante la inmovilización tras una fractura:",
+      "opciones": {
+        "A": "No se movilizan articulaciones no relacionadas.",
+        "B": "Se favorece la pérdida de tono muscular.",
+        "C": "Se previenen complicaciones trombóticas.",
+        "D": "No es competencia del fisioterapeuta prevenir complicaciones respiratorias."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 177,
+      "pregunta": "Procedimiento para prevenir edema tras fractura inmovilizada:",
+      "opciones": {
+        "A": "Baños de contraste.",
+        "B": "Ejercicios propioceptivos.",
+        "C": "Vendajes elásticos proximodistales.",
+        "D": "Calor superficial."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 178,
+      "pregunta": "La luxación glenohumeral se produce habitualmente:",
+      "opciones": {
+        "A": "Por mecanismos directos.",
+        "B": "En abducción y rotación externa.",
+        "C": "En abducción y rotación interna.",
+        "D": "Todas son falsas."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 179,
+      "pregunta": "El signo de Gowers es característico de:",
+      "opciones": {
+        "A": "Parálisis del plexo braquial.",
+        "B": "Síndrome de Guillain-Barré.",
+        "C": "Distrofia muscular de Duchenne.",
+        "D": "Afectación de ganglios basales."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 180,
+      "pregunta": "Objetivos de la entrevista de fisioterapia. INCORRECTA:",
+      "opciones": {
+        "A": "Prestar apoyo físico.",
+        "B": "Promover prevención.",
+        "C": "Educar para la salud.",
+        "D": "Hacer seguimiento del proceso."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 181,
+      "pregunta": "Tratamiento CONTRAINDICADO en osteoporosis:",
+      "opciones": {
+        "A": "Neurodinamia.",
+        "B": "Entrenamiento de fuerza.",
+        "C": "Manipulaciones articulares.",
+        "D": "Hidrocinesiterapia."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 182,
+      "pregunta": "La marcha de Trendelenburg se debe a:",
+      "opciones": {
+        "A": "Parálisis del glúteo medio.",
+        "B": "Debilidad del glúteo medio.",
+        "C": "Hipertrofia del glúteo medio.",
+        "D": "a) y b) son correctas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 183,
+      "pregunta": "Durante la valoración del arco de movilidad pasivo:",
+      "opciones": {
+        "A": "Se mide la cantidad de movimiento.",
+        "B": "Se valora la calidad del movimiento.",
+        "C": "a) y b) son correctas.",
+        "D": "Ninguna es correcta."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 184,
+      "pregunta": "Respecto a la termoterapia es CORRECTO:",
+      "opciones": {
+        "A": "Aumenta el umbral del dolor.",
+        "B": "Aumenta extensibilidad tisular.",
+        "C": "Puede agravar la inflamación.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 185,
+      "pregunta": "Masaje transverso profundo. Señale la CORRECTA:",
+      "opciones": {
+        "A": "Indicado en artritis sépticas.",
+        "B": "Tratamiento de elección en Reiter.",
+        "C": "Indicado en fase aguda de bursitis.",
+        "D": "a), b) y c) son falsas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 186,
+      "pregunta": "Sobre el masaje, es CORRECTA:",
+      "opciones": {
+        "A": "En la fricción se desplaza la piel sobre planos profundos.",
+        "B": "Los deslizamientos favorecen retorno venoso.",
+        "C": "El effleurage es un deslizamiento superficial.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 187,
+      "pregunta": "Efecto polar bajo el cátodo en corriente galvánica:",
+      "opciones": {
+        "A": "Vasodilatación.",
+        "B": "Vasoconstricción.",
+        "C": "Reacción ácida.",
+        "D": "Absorción de calor."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 188,
+      "pregunta": "La corriente de Trabert se caracteriza por:",
+      "opciones": {
+        "A": "Impulsos sinusoidales a 50 Hz.",
+        "B": "Impulsos cuadrangulares a 142 Hz.",
+        "C": "Ausencia de componente galvánico.",
+        "D": "Fuerte estímulo motor."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 189,
+      "pregunta": "Para inhibir la contracción vesical se estimula el nervio:",
+      "opciones": {
+        "A": "Detrusor.",
+        "B": "Perineal.",
+        "C": "Tibial anterior.",
+        "D": "Tibial posterior."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 190,
+      "pregunta": "En corrientes interferenciales, la opción vector:",
+      "opciones": {
+        "A": "Modifica la frecuencia portadora.",
+        "B": "Modifica la frecuencia de modulación.",
+        "C": "Desplaza la zona de interferencia.",
+        "D": "Cambia la dirección de la corriente."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 191,
+      "pregunta": "Para el masaje de Cyriax, músculos y tendones se colocan:",
+      "opciones": {
+        "A": "Ambos relajados.",
+        "B": "Ambos en tensión.",
+        "C": "Tendón acortado y músculo en tensión moderada.",
+        "D": "Músculo acortado y tendón en tensión moderada."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 192,
+      "pregunta": "El índice de disnea basal de Mahler:",
+      "opciones": {
+        "A": "Evalúa disnea con ejercicio.",
+        "B": "Mide solo magnitud de la tarea.",
+        "C": "Evalúa deterioro funcional, actividad y esfuerzo.",
+        "D": "Evalúa síntomas y afectación emocional."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 193,
+      "pregunta": "Señale la INCORRECTA sobre musculatura espiratoria:",
+      "opciones": {
+        "A": "Pectoral menor.",
+        "B": "Intercostales internos.",
+        "C": "Transverso del tórax.",
+        "D": "Músculos abdominales."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 194,
+      "pregunta": "Al diseñar un programa de reeducación cardíaca se debe:",
+      "opciones": {
+        "A": "Evaluar aptitud física.",
+        "B": "Planificar tipo e intensidad.",
+        "C": "Planificar tipo, intensidad, duración y frecuencia.",
+        "D": "a) y c) son correctas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 195,
+      "pregunta": "En rehabilitación respiratoria, la valoración de la capacidad de ejercicio requiere:",
+      "opciones": {
+        "A": "Evaluar seguridad.",
+        "B": "Identificar factores limitantes.",
+        "C": "Valorar oxigenoterapia.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 196,
+      "pregunta": "La marcha Parkinsoniana se caracteriza por. Señale la FALSA:",
+      "opciones": {
+        "A": "Flexión anterior del tronco.",
+        "B": "Pasos cortos.",
+        "C": "Disminución del braceo.",
+        "D": "Aumento de la longitud del paso."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 197,
+      "pregunta": "La terapia de restricción inducida del movimiento es FALSO que:",
+      "opciones": {
+        "A": "Solo es eficaz tras ictus.",
+        "B": "Limita el uso de la extremidad sana.",
+        "C": "Favorece la neuroplasticidad.",
+        "D": "Se basa en principios neuroplásticos."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 198,
+      "pregunta": "La espasticidad se caracteriza por:",
+      "opciones": {
+        "A": "Lesión de ganglios basales.",
+        "B": "Incremento del reflejo de estiramiento dependiente de la velocidad.",
+        "C": "Incremento no dependiente de la velocidad.",
+        "D": "Disminución con el movimiento."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 199,
+      "pregunta": "En la lesión de la motoneurona superior es CORRECTO:",
+      "opciones": {
+        "A": "Hipotonía inicial que progresa a hipertonía.",
+        "B": "Nunca hay clono.",
+        "C": "Solo cursa con temblor.",
+        "D": "No aparecen sincinesias."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 200,
+      "pregunta": "Señale el músculo clave INCORRECTO según la clasificación ASIA:",
+      "opciones": {
+        "A": "C5: flexores del codo.",
+        "B": "C6: extensores de muñeca.",
+        "C": "T1: interóseos.",
+        "D": "L4: flexores plantares."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 201,
+      "pregunta": "En una lesión neurológica periférica podemos observar, indique la respuesta CORRECTA:",
+      "opciones": {
+        "A": "Hipotonía, atrofia, hiporreflexia y arreflexia.",
+        "B": "Hipertonía, trofismo conservado e hiperreflexia.",
+        "C": "Hipotonía y trofismo conservado.",
+        "D": "Hipertonía y arreflexia."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 202,
+      "pregunta": "En un síndrome cerebeloso podemos observar, señale la respuesta INCORRECTA:",
+      "opciones": {
+        "A": "Ataxia y alteración del equilibrio.",
+        "B": "Temblor intencional.",
+        "C": "Hipertonía.",
+        "D": "Hipotonía."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 203,
+      "pregunta": "En un síndrome de los ganglios basales podemos observar, señale la respuesta INCORRECTA:",
+      "opciones": {
+        "A": "Reflejos osteotendinosos normales.",
+        "B": "Amiotrofia y debilidad.",
+        "C": "Hipocinesia.",
+        "D": "Movimientos anormales e involuntarios."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 204,
+      "pregunta": "En casos de afectación neurológica con déficit de deglución, señale la respuesta INCORRECTA:",
+      "opciones": {
+        "A": "La flexión anterior del cuello protege la vía aérea.",
+        "B": "La extensión cervical permite un tránsito lento del bolo alimenticio.",
+        "C": "La textura de los líquidos es clave para evitar aspiraciones.",
+        "D": "La inclinación lateral dirige el bolo al lado homolateral."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 205,
+      "pregunta": "La estimulación del nervio tibial posterior está indicada en, señale la respuesta INCORRECTA:",
+      "opciones": {
+        "A": "Hiperactividad vesical.",
+        "B": "Hipotonía del suelo pélvico.",
+        "C": "Disfunciones de vaciado no obstructivas.",
+        "D": "Dolor pélvico crónico."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 206,
+      "pregunta": "La incontinencia urinaria de esfuerzo, señale la respuesta INCORRECTA:",
+      "opciones": {
+        "A": "Se asocia a obesidad, parto o estreñimiento.",
+        "B": "Los deportes de impacto no se asocian a este tipo.",
+        "C": "Ocurre cuando la presión intravesical supera a la uretral.",
+        "D": "La frecuencia miccional no se altera."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 207,
+      "pregunta": "Las causas de la limitación articular en fracturas de rodilla son:",
+      "opciones": {
+        "A": "Retracción de alerones rotulianos.",
+        "B": "Retracción y atrofia del cuádriceps.",
+        "C": "Sínfisis del fondo de saco subcuadricipital.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 208,
+      "pregunta": "Respecto a las fracturas distales del húmero, es CORRECTO:",
+      "opciones": {
+        "A": "Mayor riesgo de lesión del nervio cubital.",
+        "B": "Mayor riesgo de lesión del nervio radial.",
+        "C": "Mayor riesgo de lesión del nervio mediano.",
+        "D": "Mayor riesgo de lesión del nervio circunflejo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 209,
+      "pregunta": "La consolidación de las fracturas de clavícula se produce en:",
+      "opciones": {
+        "A": "3-4 semanas.",
+        "B": "3-4 días.",
+        "C": "3-4 meses.",
+        "D": "Ninguna es cierta."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 210,
+      "pregunta": "Señale la respuesta CORRECTA con relación a las fracturas óseas:",
+      "opciones": {
+        "A": "Las fracturas directas se producen a distancia del traumatismo.",
+        "B": "Las fracturas por estrés ocurren siempre en huesos patológicos.",
+        "C": "Las fracturas incompletas no abarcan todo el espesor del hueso.",
+        "D": "Todas las anteriores son falsas."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 211,
+      "pregunta": "Sobre la formación del callo de fractura, es VERDADERO que:",
+      "opciones": {
+        "A": "La fase inflamatoria limpia el foco de fractura.",
+        "B": "La remodelación es anterior a la reparación.",
+        "C": "El callo blando se forma en la fase inflamatoria.",
+        "D": "La remodelación dura solo 2-6 semanas."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 212,
+      "pregunta": "La miositis osificante:",
+      "opciones": {
+        "A": "Es una calcificación heterotópica.",
+        "B": "Se produce por acción de osteoclastos sobre el coágulo.",
+        "C": "Nunca requiere cirugía.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 213,
+      "pregunta": "¿Qué articulación valora el test de McCarthy?",
+      "opciones": {
+        "A": "Rodilla.",
+        "B": "Codo.",
+        "C": "Articulaciones intervertebrales.",
+        "D": "Cadera."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 214,
+      "pregunta": "Lesión nerviosa más frecuente en fracturas acetabulares:",
+      "opciones": {
+        "A": "Nervio femoral.",
+        "B": "Raíz L5 del nervio tibial.",
+        "C": "Nervio ciático.",
+        "D": "Menos del 1% presentan lesión nerviosa."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 215,
+      "pregunta": "Una característica de los esguinces de grado II es:",
+      "opciones": {
+        "A": "Elongación sin rotura.",
+        "B": "Rotura completa.",
+        "C": "Microdesgarros menores a un tercio.",
+        "D": "Desgarro de uno a dos tercios."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 216,
+      "pregunta": "La fase de remodelación muscular:",
+      "opciones": {
+        "A": "Es igual a la proliferación.",
+        "B": "Reorganiza fibras de colágeno según cargas.",
+        "C": "Ocurre entre los días 30 y 50.",
+        "D": "Todas son verdaderas."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 217,
+      "pregunta": "En la prueba de Yocum:",
+      "opciones": {
+        "A": "Brazo a 90° de abducción.",
+        "B": "Debilidad ante rotación externa.",
+        "C": "Mano sobre hombro contralateral.",
+        "D": "Todas son falsas."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 218,
+      "pregunta": "Las corrientes de baja frecuencia:",
+      "opciones": {
+        "A": "Son inferiores a 1000 Hz.",
+        "B": "Son <1000 Hz con pulsos ≤150 μs.",
+        "C": "Siempre con electrodos autoadhesivos.",
+        "D": "Van de 1 a 10 000 Hz."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 219,
+      "pregunta": "Electroterapia en lesión de nervio periférico:",
+      "opciones": {
+        "A": "Forma de onda rectangular.",
+        "B": "Forma de onda triangular o exponencial.",
+        "C": "Forma de onda sinusoidal.",
+        "D": "Cualquier onda con pulsos 150-300 μs."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 220,
+      "pregunta": "La onda corta:",
+      "opciones": {
+        "A": "Usa radiación ionizante.",
+        "B": "Emplea 150-3000 Hz.",
+        "C": "No tiene contraindicaciones.",
+        "D": "Utiliza 27,12 MHz."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 221,
+      "pregunta": "La pseudoartrosis hipertrófica:",
+      "opciones": {
+        "A": "No es visible en radiografía.",
+        "B": "Es causada por hipermovilidad.",
+        "C": "Se asocia a infección.",
+        "D": "Tiene vascularización insuficiente."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 222,
+      "pregunta": "En el impingement glenohumeral están implicados:",
+      "opciones": {
+        "A": "Supraespinoso y porción larga del bíceps.",
+        "B": "Supraespinoso y deltoides medio.",
+        "C": "Supraespinoso y porción corta del bíceps.",
+        "D": "Ambas porciones del bíceps."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 223,
+      "pregunta": "El proceso de ligamentización ocurre:",
+      "opciones": {
+        "A": "En reconstrucciones parciales.",
+        "B": "Tras PRP.",
+        "C": "En ligamentoplastias.",
+        "D": "Tras células madre."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 224,
+      "pregunta": "Signos de dolor neuropático periférico:",
+      "opciones": {
+        "A": "Dolor a movilización transversal del músculo.",
+        "B": "Dolor a palpación del nervio.",
+        "C": "Coloración azulada del territorio.",
+        "D": "Dolor en todo el miembro."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 225,
+      "pregunta": "Respecto a la palpación diagnóstica miofascial, es CORRECTO:",
+      "opciones": {
+        "A": "La banda tensa solo aparece en músculo profundo.",
+        "B": "El dolor del punto gatillo es difuso.",
+        "C": "Existe respuesta de espasmo local.",
+        "D": "Hay acortamiento de bandas Z."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 226,
+      "pregunta": "Una correcta contracción del suelo pélvico incluye:",
+      "opciones": {
+        "A": "Ascenso vaginal.",
+        "B": "Contracción glútea.",
+        "C": "Inspiración previa.",
+        "D": "Valsalva."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 227,
+      "pregunta": "Tras una artroplastia de hombro, las rotaciones contra resistencia se inician:",
+      "opciones": {
+        "A": "Desde el primer momento.",
+        "B": "Al sexto día.",
+        "C": "Desde la segunda semana.",
+        "D": "Desde la sexta semana."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 228,
+      "pregunta": "En el síndrome cerebeloso NO encontramos:",
+      "opciones": {
+        "A": "Ataxia.",
+        "B": "Dismetría.",
+        "C": "Fasciculaciones.",
+        "D": "Temblor intencional."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 229,
+      "pregunta": "Para evaluar cuantitativamente la marcha se emplea:",
+      "opciones": {
+        "A": "Test de Tinetti.",
+        "B": "Test de Phalen.",
+        "C": "MoCA.",
+        "D": "Alcance funcional."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 230,
+      "pregunta": "La rotación cervical durante la deglución favorece:",
+      "opciones": {
+        "A": "Apertura de valléculas.",
+        "B": "Cierre de valléculas.",
+        "C": "Cierre vía aérea.",
+        "D": "Paso del bolo contralateral."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 231,
+      "pregunta": "Directrices fisioterapéuticas en Parkinson incluyen:",
+      "opciones": {
+        "A": "Cambios posturales.",
+        "B": "Manos en la cintura.",
+        "C": "Acortar los pasos.",
+        "D": "Adaptar la marcha a ritmos."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 232,
+      "pregunta": "En lesiones de la vía corticoespinal aparece:",
+      "opciones": {
+        "A": "Reflejos cutáneoabdominales normales.",
+        "B": "Signo de Babinski.",
+        "C": "Espasticidad en navaja.",
+        "D": "Clonus del sóleo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 233,
+      "pregunta": "En la hemiplejía es FALSO que:",
+      "opciones": {
+        "A": "El nivel de conciencia puede variar.",
+        "B": "Solo se afecta sensibilidad profunda.",
+        "C": "Existen afasias y disartrias.",
+        "D": "Mayor representación cortical implica mayor afectación."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 234,
+      "pregunta": "Sobre la rehabilitación de lesiones nerviosas periféricas, es CORRECTO:",
+      "opciones": {
+        "A": "La electroestimulación evita completamente la atrofia.",
+        "B": "Los objetivos dependen del tiempo evolutivo.",
+        "C": "Las técnicas progresan según reinervación.",
+        "D": "b) y c) son correctas."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 235,
+      "pregunta": "NO es un método de fisioterapia en parálisis cerebral:",
+      "opciones": {
+        "A": "Petö.",
+        "B": "Dimeglio.",
+        "C": "Vojta.",
+        "D": "Bobath."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 236,
+      "pregunta": "Respecto a prótesis de miembro inferior, es CORRECTO:",
+      "opciones": {
+        "A": "Las prótesis inmediatas se colocan con el muñón cicatrizado.",
+        "B": "La succión no sirve en amputación suprarrotuliana.",
+        "C": "La KBM rodea cóndilos y deja libre la rótula.",
+        "D": "La PTB es la menos utilizada."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 237,
+      "pregunta": "La magnetoterapia:",
+      "opciones": {
+        "A": "Favorece regeneración por electronegatividad.",
+        "B": "Por electropositividad.",
+        "C": "No depende de polaridad.",
+        "D": "Todas son incorrectas."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 238,
+      "pregunta": "Maniobras del drenaje linfático manual según Vodder:",
+      "opciones": {
+        "A": "Círculos fijos, dador, bombeo y rotatorio.",
+        "B": "Círculos fijos, dador y bombeo.",
+        "C": "Círculos fijos, bombeo y rotatorio.",
+        "D": "Dador, bombeo y rotatorio."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 239,
+      "pregunta": "Para evaluar motricidad voluntaria global se usa EXCEPTO:",
+      "opciones": {
+        "A": "Barré miembros superiores.",
+        "B": "Barré miembros inferiores.",
+        "C": "Mingazzini.",
+        "D": "Homans."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 240,
+      "pregunta": "La esterognosia es:",
+      "opciones": {
+        "A": "Sensación vibratoria.",
+        "B": "Reconocimiento de presión.",
+        "C": "Reconocimiento de forma, tamaño y peso.",
+        "D": "Reconocimiento de posición y movimiento."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 241,
+      "pregunta": "La lesión del nervio radial en brazo provoca:",
+      "opciones": {
+        "A": "Imposibilidad de extensión de muñeca y dedos.",
+        "B": "Déficit de oposición del pulgar.",
+        "C": "Déficit sensitivo cubital.",
+        "D": "Parálisis interóseos."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 242,
+      "pregunta": "Nervio más lesionado en luxación de hombro:",
+      "opciones": {
+        "A": "Radial.",
+        "B": "Axilar o circunflejo.",
+        "C": "Musculocutáneo.",
+        "D": "Mediano."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 243,
+      "pregunta": "Niveles de actuación ante Violencia de Género:",
+      "opciones": {
+        "A": "Detección → prevención → intervención.",
+        "B": "Prevención → detección → intervención.",
+        "C": "Intervención → prevención → detección.",
+        "D": "Ninguna es correcta."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 244,
+      "pregunta": "Clasificación funcional de fracturas:",
+      "opciones": {
+        "A": "Completas, incompletas y traumáticas.",
+        "B": "Completas, incompletas, estables e inestables.",
+        "C": "Traumáticas, patológicas o por fatiga.",
+        "D": "a) y b) son correctas."
+      },
+      "respuestaCorrecta": "C"
+    },
+    {
+      "id": 245,
+      "pregunta": "Respecto a la luxación de cadera, es CORRECTO:",
+      "opciones": {
+        "A": "La posterior es la menos frecuente.",
+        "B": "La anterior es rara por rotación externa y abducción.",
+        "C": "La posterior coloca la cabeza delante del cotilo.",
+        "D": "La anterior es la más frecuente."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 246,
+      "pregunta": "Personas con mayor riesgo de osteoporosis:",
+      "opciones": {
+        "A": "Mujeres pequeñas, blancas o asiáticas, edad avanzada.",
+        "B": "Hombres negros de constitución pequeña.",
+        "C": "Mujeres jóvenes sin antecedentes.",
+        "D": "Hombres grandes blancos con antecedentes."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 247,
+      "pregunta": "Tras inmovilización en acortamiento muscular en ancianos se indica:",
+      "opciones": {
+        "A": "Inmovilización en estiramiento.",
+        "B": "Ejercicios concéntricos.",
+        "C": "Ejercicios isométricos.",
+        "D": "Ejercicios excéntricos."
+      },
+      "respuestaCorrecta": "D"
+    },
+    {
+      "id": 248,
+      "pregunta": "En el apoyo medio de la marcha NO interviene:",
+      "opciones": {
+        "A": "Tibial anterior.",
+        "B": "Glúteo medio.",
+        "C": "Cuádriceps.",
+        "D": "Gemelos."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 249,
+      "pregunta": "La espiración lenta total a glotis abierta (ELTGOL):",
+      "opciones": {
+        "A": "Drena el pulmón infralateral en decúbito lateral.",
+        "B": "Usa espiraciones rápidas.",
+        "C": "Ambas son ciertas.",
+        "D": "Ninguna es correcta."
+      },
+      "respuestaCorrecta": "A"
+    },
+    {
+      "id": 250,
+      "pregunta": "Para soportar el 33% del peso corporal aparente en piscina, el agua debe llegar a nivel:",
+      "opciones": {
+        "A": "Occipital.",
+        "B": "Esternal.",
+        "C": "Umbilical.",
+        "D": "Trocantérea."
+      },
+      "respuestaCorrecta": "B"
+    },
+    {
+      "id": 251,
+      "pregunta": "El síndrome de Claude Bernard-Hörner se caracteriza por presentar:",
+      "opciones": {
+        "A": "Midriasis-ptosis-enoftalmia.",
+        "B": "Midriasis-ptosis-exoftalmia.",
+        "C": "Ptosis-miosis-enoftalmia.",
+        "D": "Exoftalmia-miosis-ptosis."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 252,
+      "pregunta": "¿Qué tipo de afectación esperamos encontrar en el síndrome de Brown-Séquard?",
+      "opciones": {
+        "A": "Pérdida motora y sensibilidad dolorosa ipsilateral, y pérdida propioceptiva y térmica contralateral.",
+        "B": "Pérdida motora y propioceptiva ipsilateral, y pérdida dolorosa y térmica contralateral.",
+        "C": "Pérdida dolorosa y térmica ipsilateral y pérdida motora y propioceptiva contralateral.",
+        "D": "Pérdida propioceptiva y dolorosa ipsilateral y pérdida motora y térmica contralateral."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 253,
+      "pregunta": "En el uso de TENS para dolor crónico según la liberación de endorfinas:",
+      "opciones": {
+        "A": "Bajas frecuencias y anchos largos.",
+        "B": "Altas frecuencias y anchos largos.",
+        "C": "Bajas frecuencias y anchos cortos.",
+        "D": "Altas frecuencias y anchos cortos."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 254,
+      "pregunta": "Personas que pueden requerir ventilación mecánica no invasiva crónica:",
+      "opciones": {
+        "A": "EPOC con hipocapnia.",
+        "B": "Enfermedades neuromusculares.",
+        "C": "Obesidad.",
+        "D": "Todas son ciertas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 255,
+      "pregunta": "Patrón postural típico de decorticación en coma:",
+      "opciones": {
+        "A": "Flexión en MMSS y extensión en MMII.",
+        "B": "Extensión en MMSS y MMII.",
+        "C": "Extensión en MMSS y flexión en MMII.",
+        "D": "Flexión en MMSS y MMII."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 256,
+      "pregunta": "Sobre el ejercicio de débito inspiratorio controlado (EDIC), es CORRECTO:",
+      "opciones": {
+        "A": "Indicado en ocupación de pulmón profundo.",
+        "B": "Pulmón afecto en contacto con la camilla.",
+        "C": "Se usan volúmenes pulmonares bajos.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 257,
+      "pregunta": "Rehabilitación respiratoria está INDICADA en:",
+      "opciones": {
+        "A": "EPOC.",
+        "B": "Fibrosis quística.",
+        "C": "Bronquiectasias.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 258,
+      "pregunta": "Mecanismos de la musculatura respiratoria. INCORRECTA:",
+      "opciones": {
+        "A": "El diafragma aumenta la presión intratorácica.",
+        "B": "Intercostales externos amplían el tórax.",
+        "C": "Escalenos elevan las dos primeras costillas.",
+        "D": "El transverso abdominal desciende costillas en espiración."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 259,
+      "pregunta": "CONTRAINDICACIÓN ABSOLUTA de punción seca profunda:",
+      "opciones": {
+        "A": "Diabetes.",
+        "B": "Tatuajes.",
+        "C": "Linfadenectomías.",
+        "D": "Fobia a las agujas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 260,
+      "pregunta": "Zona NO principal para desencadenar reptación refleja (Vojta):",
+      "opciones": {
+        "A": "Epicóndilo medial del húmero.",
+        "B": "Tuberosidad del calcáneo.",
+        "C": "Borde radial distal.",
+        "D": "Cóndilo medial del fémur."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 261,
+      "pregunta": "Señale la opción FALSA respecto a la etiología de la marcha tabética:",
+      "opciones": {
+        "A": "Polineuritis sensitiva.",
+        "B": "Afectación del sistema vestibular (laberinto).",
+        "C": "Lesiones medulares focales como esclerosis múltiple.",
+        "D": "Neurosífilis."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 262,
+      "pregunta": "Sobre el pie zambo es FALSO:",
+      "opciones": {
+        "A": "Hay flexión plantar excesiva.",
+        "B": "Existe varo del mediopié.",
+        "C": "Presenta abducción del retropié.",
+        "D": "Suele ser de causa neurológica o displasia muscular."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 263,
+      "pregunta": "Sobre las lesiones vasculares cerebrales, ¿cuál es INCORRECTA?",
+      "opciones": {
+        "A": "El déficit depende del tamaño arterial y la circulación colateral.",
+        "B": "La oclusión de la cerebral media produce déficits homolaterales.",
+        "C": "La oclusión de la cerebral posterior produce hemianopsia contralateral.",
+        "D": "La oclusión carotídea puede producir pérdida visual ipsilateral."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 264,
+      "pregunta": "Respecto a los estiramientos, indique la respuesta INCORRECTA:",
+      "opciones": {
+        "A": "El estiramiento balístico se basa en movimientos rítmicos.",
+        "B": "Las estructuras cápsulo-ligamentosas deben elongarse al máximo.",
+        "C": "El estiramiento activo usa inhibición recíproca.",
+        "D": "El estiramiento postisométrico se realiza tras contracción isométrica."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 265,
+      "pregunta": "Todas menos una pueden causar restricción del rango de movilidad activa:",
+      "opciones": {
+        "A": "Adherencia cicatricial.",
+        "B": "Edema intraarticular.",
+        "C": "Hiperlaxitud ligamentosa.",
+        "D": "Debilidad muscular."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 266,
+      "pregunta": "Respecto a la espondilodiscitis, señale la respuesta CORRECTA:",
+      "opciones": {
+        "A": "Dolor vertebral.",
+        "B": "Deformidad vertebral.",
+        "C": "Puede asociarse a ciática lumbar.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 267,
+      "pregunta": "Sobre la incontinencia urinaria de urgencia, señale la INCORRECTA:",
+      "opciones": {
+        "A": "Pérdida involuntaria asociada a urgencia.",
+        "B": "Aumento de frecuencia miccional.",
+        "C": "Puede deberse a obstrucción uretral.",
+        "D": "No se relaciona con hiperactividad del detrusor."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 268,
+      "pregunta": "Tras una fractura de escápula es necesario fortalecer:",
+      "opciones": {
+        "A": "Interescapulares.",
+        "B": "Trapecio.",
+        "C": "Serrato mayor.",
+        "D": "Todos son correctos."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 269,
+      "pregunta": "Son eficaces para mejorar el dolor en la capsulitis adhesiva:",
+      "opciones": {
+        "A": "Movilización de Gong.",
+        "B": "Movilizaciones de Maitland.",
+        "C": "Concepto Mulligan.",
+        "D": "Todas las opciones."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 270,
+      "pregunta": "La terapia espejo es utilizada para, señale la respuesta FALSA:",
+      "opciones": {
+        "A": "Mejorar el dolor del miembro fantasma.",
+        "B": "Mejorar la motricidad tras ictus.",
+        "C": "Activar áreas cerebrales mediante ilusión visual.",
+        "D": "Mover el lado afecto frente al espejo para retorno visual."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 271,
+      "pregunta": "Respecto a prendas de compresión en linfedema, es CORRECTO:",
+      "opciones": {
+        "A": "Deben usarse 24 h.",
+        "B": "Deben renovarse anualmente.",
+        "C": "Requieren medición para prescripción.",
+        "D": "Se usan sobre heridas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 272,
+      "pregunta": "El síndrome parkinsoniano presenta al menos dos signos, INCORRECTA:",
+      "opciones": {
+        "A": "Hipocinesia y espasticidad.",
+        "B": "Temblor de reposo y rigidez.",
+        "C": "Congelación y postura en flexión.",
+        "D": "Bradicinesia y rigidez."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 273,
+      "pregunta": "Una lesión radicular L3 se caracteriza principalmente por:",
+      "opciones": {
+        "A": "Dolor en cara interna de pantorrilla e inversión del pie.",
+        "B": "Dolor medial de rodilla con debilidad en flexión de cadera y extensión de rodilla.",
+        "C": "Dolor medial con reflejo cremastérico afectado.",
+        "D": "Dolor medial sin reflejos alterados."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 274,
+      "pregunta": "Respecto a las lesiones traumáticas de nervios periféricos, es CORRECTO:",
+      "opciones": {
+        "A": "La neurotmesis es una sección incompleta.",
+        "B": "La neuropraxia presenta degeneración nerviosa.",
+        "C": "La axonotmesis daña axones conservando vainas.",
+        "D": "La neurotmesis cursa solo con pérdida parcial sensitiva."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 275,
+      "pregunta": "Sobre los receptores sensitivos, es CORRECTO:",
+      "opciones": {
+        "A": "Los discos de Merkel detectan tacto y presión.",
+        "B": "Ruffini detecta vibración.",
+        "C": "Pacini detecta estiramiento muscular.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 276,
+      "pregunta": "La persona con síndrome parkinsoniano:",
+      "opciones": {
+        "A": "No presenta debilidad muscular.",
+        "B": "El temblor aumenta con la acción.",
+        "C": "El temblor orofacial no afecta la deglución.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 277,
+      "pregunta": "La lesión del sistema extrapiramidal provoca:",
+      "opciones": {
+        "A": "Temblor en reposo.",
+        "B": "Atetosis.",
+        "C": "Distonía.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 278,
+      "pregunta": "Personas con lesión medular C6–C7, es CORRECTO:",
+      "opciones": {
+        "A": "Conservan flexores profundos de dedos.",
+        "B": "No pueden llevarse la mano a la boca.",
+        "C": "Conservan extensores de muñeca.",
+        "D": "No utilizan efecto tenodesis."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 279,
+      "pregunta": "Respecto a lesión de tractos ascendentes medulares, es CIERTO:",
+      "opciones": {
+        "A": "Lesión espinotalámica lateral causa pérdida contralateral dolorosa.",
+        "B": "La vía anterior transmite dolor.",
+        "C": "Fascículos grácil y cuneiforme transmiten tacto grosero.",
+        "D": "La vía espinotalámica transmite propiocepción."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 280,
+      "pregunta": "Signos característicos de disfunción cerebelosa:",
+      "opciones": {
+        "A": "Mayor resistencia pasiva.",
+        "B": "Marcha en base amplia por hipertonía.",
+        "C": "Reflejos tendinosos prolongados.",
+        "D": "Disdiadococinesia contralateral."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 281,
+      "pregunta": "Sobre la enfermedad de Huntington:",
+      "opciones": {
+        "A": "Afecta más a mujeres.",
+        "B": "Comienza en la infancia.",
+        "C": "Es de origen cortical.",
+        "D": "Cursa con corea y demencia progresiva."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 282,
+      "pregunta": "En la esclerosis lateral amiotrófica, es CIERTO:",
+      "opciones": {
+        "A": "Es hereditaria habitualmente.",
+        "B": "Afecta solo a motoneurona superior.",
+        "C": "Pueden afectarse pares craneales.",
+        "D": "Se altera la sensibilidad."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 283,
+      "pregunta": "En la parálisis cerebral atetoide, la atetosis se caracteriza por:",
+      "opciones": {
+        "A": "Movimientos rápidos o lentos sin propósito.",
+        "B": "Aparecer en reposo.",
+        "C": "Afectar a cualquier parte del cuerpo.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 284,
+      "pregunta": "En la reeducación postural en niños con trastorno motor, es fundamental:",
+      "opciones": {
+        "A": "Priorizar siempre la bipedestación.",
+        "B": "Permitir apoyos pasivos constantes.",
+        "C": "Mantener rodillas rígidas en extensión.",
+        "D": "Favorecer distribución simétrica del peso."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 285,
+      "pregunta": "La reacción de garra del pie en la infancia aparece hasta:",
+      "opciones": {
+        "A": "10 meses.",
+        "B": "9 meses.",
+        "C": "12 meses.",
+        "D": "18 meses."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 286,
+      "pregunta": "El reflejo de Moro se caracteriza por:",
+      "opciones": {
+        "A": "Flexión de brazos al rotar la cabeza.",
+        "B": "Extensión-abducción seguida de aducción de brazos.",
+        "C": "Flexión de extremidades inferiores.",
+        "D": "Enderezamiento automático del cuello."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 287,
+      "pregunta": "En la facilitación del volteo en niños, la contra-rotación busca:",
+      "opciones": {
+        "A": "Provocar volteo en bloque.",
+        "B": "Estimular respuesta activa de hombro o pelvis.",
+        "C": "Inhibir movimiento de extremidades.",
+        "D": "Evitar enderezamiento cefálico."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 288,
+      "pregunta": "La prensión bimanual puede verse alterada en niños por:",
+      "opciones": {
+        "A": "Falta de control cefálico.",
+        "B": "Alteración sensorial unilateral.",
+        "C": "Disfunción de un miembro superior.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 289,
+      "pregunta": "Sobre el síndrome del niño sacudido, es CIERTO:",
+      "opciones": {
+        "A": "Cursa con letargo, convulsiones y alteración del tono.",
+        "B": "El principal mecanismo es el impacto directo.",
+        "C": "La neuroimagen suele ser normal.",
+        "D": "La punción lumbar no es útil."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 290,
+      "pregunta": "En la espina bífida, es CIERTO:",
+      "opciones": {
+        "A": "Aparece más en región torácica.",
+        "B": "El mielocele es el tipo más frecuente.",
+        "C": "Puede asociarse a Arnold-Chiari.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 291,
+      "pregunta": "En una prótesis de miembro inferior, el pie SACH:",
+      "opciones": {
+        "A": "No tiene articulación de tobillo.",
+        "B": "El talón almohadillado facilita la transición.",
+        "C": "Es la prótesis transtibial más utilizada.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 292,
+      "pregunta": "Respecto a prótesis de miembro inferior, es CIERTO:",
+      "opciones": {
+        "A": "El encaje isquiático es cuadrangular.",
+        "B": "El encaje canadiense es abierto anteriormente.",
+        "C": "El encaje UCLA es solo transtibial.",
+        "D": "El canadiense permite más movilidad que el UCLA."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 293,
+      "pregunta": "Respecto a las prótesis de miembro superior, es CIERTO:",
+      "opciones": {
+        "A": "Encaje de contacto total en pasivas y funcionales.",
+        "B": "Mioeléctricas con hasta cuatro electrodos antagonistas.",
+        "C": "Mioeléctricas con solo dos electrodos agonistas.",
+        "D": "Las pasivas se activan con el movimiento muscular."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 294,
+      "pregunta": "En la osteointegración protésica, es CIERTO:",
+      "opciones": {
+        "A": "Primera cirugía: implante intraóseo.",
+        "B": "La segunda cirugía siempre es a los 2 meses.",
+        "C": "La segunda cirugía permite carga inmediata.",
+        "D": "Se esperan 4 meses tras la segunda cirugía para cargar."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 295,
+      "pregunta": "En el periodo preprotésico tras amputación son necesarios:",
+      "opciones": {
+        "A": "Cuidado del muñón y vendaje compresivo.",
+        "B": "Movilización de articulaciones adyacentes.",
+        "C": "Fortalecer la extremidad sana.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 296,
+      "pregunta": "Respecto a prótesis total de cadera, es CIERTO:",
+      "opciones": {
+        "A": "La rehabilitación inicia tras 10 días.",
+        "B": "Riesgo tromboembólico hasta 3 meses.",
+        "C": "Abordaje posterior es estable en extensión.",
+        "D": "Carga bilateral desde día 12."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 297,
+      "pregunta": "Sobre ortesis de columna, es CIERTO:",
+      "opciones": {
+        "A": "El collar Philadelphia no tiene apoyo mentoniano.",
+        "B": "La SOMI inmoviliza completamente la columna cervical.",
+        "C": "El Milwaukee actúa por autoelongación axial.",
+        "D": "El corsé de Michel es para escoliosis dorsales altas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 298,
+      "pregunta": "NO es una ortesis antiequina:",
+      "opciones": {
+        "A": "Rancho de los amigos.",
+        "B": "Bitutor tipo Klenzack.",
+        "C": "Muelle de Codivilla.",
+        "D": "Férula de Denis-Browne."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 299,
+      "pregunta": "En órtesis para pie equino y equino-varo infantil, es CORRECTO:",
+      "opciones": {
+        "A": "Deben sobrepasar la rodilla.",
+        "B": "No precisan elevación de suela.",
+        "C": "Deben ser infrapatelares con suela elevada y correa de talón.",
+        "D": "Las correas deben ser estrechas siempre."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 300,
+      "pregunta": "Sobre dispositivos para mantener bipedestación en niños, es CIERTO:",
+      "opciones": {
+        "A": "Las férulas con cinchas no permiten sedestación.",
+        "B": "Las férulas infrapatelares solo bloquean flexión plantar.",
+        "C": "Los pantalones de abducción no pueden usarse en aducción severa.",
+        "D": "Ayudan al control de tronco y carga de peso."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 301,
+      "pregunta": "En cuanto a la reeducación de la marcha con bastones, es CIERTO que:",
+      "opciones": {
+        "A": "Desde el inicio los bastones deben colocarse justo delante de cada pie.",
+        "B": "Para subir escaleras se sube primero con el miembro sano, luego los bastones y, por último, el miembro afectado.",
+        "C": "Salvo excepciones, se retira primero el bastón que acompaña al miembro afectado.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 302,
+      "pregunta": "En la reeducación de la marcha en paralelas, ¿cómo debe girar la persona al final?",
+      "opciones": {
+        "A": "Pivotando sobre el miembro afectado.",
+        "B": "Pivotando sobre el miembro sano.",
+        "C": "Iniciando el giro hacia el miembro afectado.",
+        "D": "Iniciando el giro hacia el miembro sano."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 303,
+      "pregunta": "En la reeducación de la marcha, al pasar a sedestación es más importante:",
+      "opciones": {
+        "A": "Inclinar el tronco hacia delante para retrasar el centro de gravedad.",
+        "B": "Mantener el tronco bien verticalizado.",
+        "C": "Rotar ligeramente el tronco hacia el lado dominante.",
+        "D": "Empujar con ambos brazos hacia atrás."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 304,
+      "pregunta": "Respecto a las hernias de discos intervertebrales, es CIERTO que:",
+      "opciones": {
+        "A": "En la columna cervical los discos más afectados son C5-C6 y C6-C7.",
+        "B": "En la columna lumbar la raíz más comprimida es L5.",
+        "C": "Una gran protrusión central puede producir retención urinaria.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 305,
+      "pregunta": "En la evaluación clínica de hernias cervicales, es CIERTO que:",
+      "opciones": {
+        "A": "La compresión axial está contraindicada en dolor agudo.",
+        "B": "La maniobra de Valsalva disminuye la presión intrarraquídea.",
+        "C": "La distracción cervical se realiza en decúbito supino.",
+        "D": "La compresión axial se realiza con la persona en decúbito supino."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 306,
+      "pregunta": "En programas de cinesiterapia para lumbalgia inespecífica, el objetivo principal es fortalecer:",
+      "opciones": {
+        "A": "Miembros inferiores.",
+        "B": "Cintura pélvica y tronco.",
+        "C": "Extensores de cadera.",
+        "D": "No está indicado el fortalecimiento."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 307,
+      "pregunta": "Respecto a la cifosis dorsal, es CIERTO que:",
+      "opciones": {
+        "A": "La cifosis fisiológica es siempre de 20º.",
+        "B": "El aumento suele centrarse entre D4 y D6.",
+        "C": "La enfermedad de Scheuermann es causa frecuente.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 308,
+      "pregunta": "El Pectus Excavatum o tórax en embudo se refiere a:",
+      "opciones": {
+        "A": "Depresión del esternón.",
+        "B": "Prominencia esternal hacia delante.",
+        "C": "Falta de fusión esternal.",
+        "D": "Anomalía costal aislada."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 309,
+      "pregunta": "Respecto a la escoliosis, es FALSO que:",
+      "opciones": {
+        "A": "En la escoliosis estructurada hay rotación vertebral.",
+        "B": "La escoliosis no estructurada se corrige con inclinación.",
+        "C": "Es moderada con ángulo de Cobb entre 10 y 20º.",
+        "D": "La escoliosis severa puede producir patología pulmonar restrictiva."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 310,
+      "pregunta": "Respecto a las técnicas de cinesiterapia en escoliosis, es CIERTO que:",
+      "opciones": {
+        "A": "Schroth potencia la musculatura transversa de la concavidad.",
+        "B": "Stagnara inicia el tratamiento frente a un espejo.",
+        "C": "Niederhoffer se basa en la respiración rotacional.",
+        "D": "Klapp se inicia en decúbito lateral y bipedestación."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 311,
+      "pregunta": "Sobre los patrones sinérgicos por lesión piramidal, es FALSO que:",
+      "opciones": {
+        "A": "En el patrón flexor de MI hay flexión, aducción y rotación externa.",
+        "B": "En el patrón extensor de MS la escápula está en aducción y rotación interna.",
+        "C": "En el patrón extensor de MI hay flexión plantar e inversión del pie.",
+        "D": "En el patrón flexor de MS la escápula está elevada y antepulsionada."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 312,
+      "pregunta": "Respecto a la espasticidad, es CIERTO que:",
+      "opciones": {
+        "A": "Se asocia a hiperreflexia y abolición de reflejos superficiales.",
+        "B": "Tiene un comportamiento similar a la rigidez extrapiramidal.",
+        "C": "El estiramiento rápido aumenta bruscamente la resistencia.",
+        "D": "a) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 313,
+      "pregunta": "La afección del aparato locomotor más frecuente en países industrializados es:",
+      "opciones": {
+        "A": "Dolencias cervicales.",
+        "B": "Afecciones lumbares.",
+        "C": "Dolor de extremidades superiores.",
+        "D": "Lesiones de rodilla y cadera."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 314,
+      "pregunta": "En ergonomía, un objeto se considera carga a partir de:",
+      "opciones": {
+        "A": "5 kg.",
+        "B": "6 kg.",
+        "C": "3 kg.",
+        "D": "10 kg."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 315,
+      "pregunta": "Respecto a los factores de riesgo laborales, es INCORRECTO:",
+      "opciones": {
+        "A": "Levantar desde sedestación no debe superar 5 kg.",
+        "B": "Debe considerarse la altura de manipulación.",
+        "C": "No se deberían empujar cargas de 15 kg.",
+        "D": "Movimiento repetitivo es ≥2 movimientos/min."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 316,
+      "pregunta": "La postura más adecuada en sedestación es:",
+      "opciones": {
+        "A": "Sedente media.",
+        "B": "Sedente anterior.",
+        "C": "Sedente erguida.",
+        "D": "Sedente flexionada."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 317,
+      "pregunta": "La carga a levantar entre dos personas se indica cuando:",
+      "opciones": {
+        "A": "El objeto supera dos dimensiones de 60 cm.",
+        "B": "El peso es superior a 35 kg.",
+        "C": "La forma es inapropiada para una sola persona.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 318,
+      "pregunta": "Respecto a los determinantes de la marcha, es FALSO que:",
+      "opciones": {
+        "A": "La cintura escapular gira en el mismo sentido que la pélvica.",
+        "B": "La pelvis desciende hacia el lado oscilante.",
+        "C": "El centro de gravedad desciende tras el contacto de talón.",
+        "D": "La pelvis se desplaza horizontalmente en el apoyo medio."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 319,
+      "pregunta": "Durante el apoyo medio de la marcha, es clave principalmente:",
+      "opciones": {
+        "A": "Isquiotibiales.",
+        "B": "Musculatura pretibial.",
+        "C": "Glúteo mayor.",
+        "D": "Abductores de cadera."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 320,
+      "pregunta": "Respecto a tipos de marcha neurológica, es INCORRECTO:",
+      "opciones": {
+        "A": "La marcha cerebelosa cae hacia delante.",
+        "B": "La marcha en tijeras cruza las piernas.",
+        "C": "La marcha tabética levanta excesivamente los pies.",
+        "D": "La marcha vestibular cae hacia el lado lesionado."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 321,
+      "pregunta": "Sobre la distrofia muscular de Duchenne, es CORRECTO:",
+      "opciones": {
+        "A": "No hay deterioro funcional hasta los 4 años.",
+        "B": "La maniobra de Gowers aparece hacia los 5 años.",
+        "C": "La pérdida para subir escaleras ocurre a los 12-13 años.",
+        "D": "La afectación de MS es solo sensitiva."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 322,
+      "pregunta": "Sobre los trastornos de la sensibilidad, es CORRECTO:",
+      "opciones": {
+        "A": "Parestesia es siempre dolor.",
+        "B": "Hipoalgesia es disminución del dolor.",
+        "C": "Hipoestesia solo afecta al dolor.",
+        "D": "Hiperestesia es dolor espontáneo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 323,
+      "pregunta": "Cambios cardiovasculares del envejecimiento incluyen:",
+      "opciones": {
+        "A": "Disminución del tono del músculo liso.",
+        "B": "Rigidez del ventrículo izquierdo.",
+        "C": "Aumento del gasto cardíaco al ejercicio.",
+        "D": "Aumento de FC máxima."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 324,
+      "pregunta": "Cambios musculoesqueléticos del envejecimiento incluyen:",
+      "opciones": {
+        "A": "Pérdida predominante de fibras tipo I.",
+        "B": "Pérdida cortical antes que trabecular.",
+        "C": "Disminución de agua del cartílago.",
+        "D": "Aumento de actividad osteoblástica."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 325,
+      "pregunta": "El estado de fragilidad se define como:",
+      "opciones": {
+        "A": "Sarcopenia.",
+        "B": "Dependencia funcional.",
+        "C": "Disminución de reserva fisiológica multisistémica.",
+        "D": "Comorbilidad."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 326,
+      "pregunta": "Según el ACSM, el ejercicio aeróbico en mayores debe ser:",
+      "opciones": {
+        "A": "1-2 días/semana, intensidad moderada.",
+        "B": "1-2 días/semana, intensidad vigorosa.",
+        "C": "≥3 días/semana, intensidad moderada.",
+        "D": "≥3 días/semana, intensidad vigorosa."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 327,
+      "pregunta": "CONTRAINDICACIÓN ABSOLUTA del ejercicio terapéutico en mayores:",
+      "opciones": {
+        "A": "Diabetes.",
+        "B": "Marcapasos implantado.",
+        "C": "Hipertensión pulmonar severa.",
+        "D": "Baja capacidad funcional."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 328,
+      "pregunta": "La prueba cronometrada de levantarse y caminar (PCLC) evalúa:",
+      "opciones": {
+        "A": "Riesgo de caídas.",
+        "B": "Capacidad aeróbica.",
+        "C": "Movilidad funcional.",
+        "D": "a) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 329,
+      "pregunta": "CONTRAINDICACIÓN del ultrasonido en población mayor:",
+      "opciones": {
+        "A": "Aplicación sobre columna laminectomizada.",
+        "B": "Zonas con infección.",
+        "C": "Zona cardíaca o marcapasos.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 330,
+      "pregunta": "En la prescripción de fuerza en mayores, es INCORRECTO:",
+      "opciones": {
+        "A": "1-2 sesiones en frágiles y 2-3 hospitalarios.",
+        "B": "Trabajar entre 20-30% y 70-80% RM.",
+        "C": "El trabajo de potencia debe ser a máxima velocidad.",
+        "D": "El entrenamiento de fuerza es seguro en frágiles."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 331,
+      "pregunta": "Lesiones extraarticulares en artritis reumatoide. INCORRECTA:",
+      "opciones": {
+        "A": "Vasculitis.",
+        "B": "Pericarditis.",
+        "C": "Enoftalmia.",
+        "D": "Síndrome de Sjögren."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 332,
+      "pregunta": "Respecto a quemaduras, es CORRECTO:",
+      "opciones": {
+        "A": "Las de 1º y 2º grado cicatrizan espontáneamente.",
+        "B": "Las de 2º grado dañan totalmente la epidermis.",
+        "C": "Las de 4º grado destruyen la dermis.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 333,
+      "pregunta": "En fase de encamamiento en hemiparesia:",
+      "opciones": {
+        "A": "MS en ABD 90°, escápula antepulsión.",
+        "B": "MI en flexión con almohada bajo pelvis.",
+        "C": "MS en posición neutra funcional.",
+        "D": "Todas son incorrectas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 334,
+      "pregunta": "Luxación anterior glenohumeral más frecuente:",
+      "opciones": {
+        "A": "Subglenoidea.",
+        "B": "Subcoracoidea.",
+        "C": "Subclavicular.",
+        "D": "Ninguna es correcta."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 335,
+      "pregunta": "Causas funcionales del manguito rotador incluyen:",
+      "opciones": {
+        "A": "Cifosis dorsal con hombros adelantados.",
+        "B": "Discinesia escapular.",
+        "C": "Desequilibrio muscular.",
+        "D": "Todas las anteriores."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 336,
+      "pregunta": "En la prueba de Patte:",
+      "opciones": {
+        "A": "Brazo en abducción leve y rotación interna.",
+        "B": "Abducción 90°, codo 90° y rotación externa contra resistencia.",
+        "C": "Mano sobre hombro contralateral elevando el codo.",
+        "D": "Ninguna es correcta."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 337,
+      "pregunta": "Prueba para tendinitis del subescapular:",
+      "opciones": {
+        "A": "Patte.",
+        "B": "Gerber.",
+        "C": "Jobe.",
+        "D": "Yergason."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 338,
+      "pregunta": "En fracturas proximales de húmero, es INCORRECTO:",
+      "opciones": {
+        "A": "Es frecuente la necrosis avascular en no desplazadas.",
+        "B": "Puede aparecer SDRC tipo I.",
+        "C": "Puede lesionarse el nervio axilar.",
+        "D": "Puede usarse vendaje tipo Gilchrist."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 339,
+      "pregunta": "En el conflicto subacromial, es CORRECTO:",
+      "opciones": {
+        "A": "No debe hacerse trabajo activo sin rango pasivo completo.",
+        "B": "La abducción pura es perjudicial.",
+        "C": "ESWT y EPI son eficaces.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 340,
+      "pregunta": "La Fase 3 de la capsulitis adhesiva se caracteriza por:",
+      "opciones": {
+        "A": "Ausencia de dolor y recuperación progresiva.",
+        "B": "Dolor moderado y sinovial hipertrofiada.",
+        "C": "Dolor crónico y colágeno hipervascularizado.",
+        "D": "Rigidez predominante con posible dolor."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 341,
+      "pregunta": "Complicación más frecuente tras traumatismo de codo:",
+      "opciones": {
+        "A": "Rigidez postraumática.",
+        "B": "Miositis osificante.",
+        "C": "Síndrome compartimental agudo.",
+        "D": "Pseudoartrosis."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 342,
+      "pregunta": "¿Qué prueba coloca el hombro a 60° de flexión y presiona metacarpianos dorsales?",
+      "opciones": {
+        "A": "Thomson.",
+        "B": "Bowden.",
+        "C": "Cozen.",
+        "D": "Phalen."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 343,
+      "pregunta": "Tiempo mínimo de inmovilización en fractura de escafoides:",
+      "opciones": {
+        "A": "1 mes.",
+        "B": "2 meses.",
+        "C": "3 meses.",
+        "D": "4 meses."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 344,
+      "pregunta": "Luxación de carpo más frecuente e invalidante:",
+      "opciones": {
+        "A": "Radiocubital.",
+        "B": "Trapeciometacarpiana.",
+        "C": "Piramido-pisiforme.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 345,
+      "pregunta": "Durante la flexión de rodilla, el menisco medial se desplaza por acción de:",
+      "opciones": {
+        "A": "Semimembranoso.",
+        "B": "Semitendinoso.",
+        "C": "Bíceps femoral.",
+        "D": "Poplíteo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 346,
+      "pregunta": "Las lesiones longitudinales de menisco se denominan:",
+      "opciones": {
+        "A": "Verticales.",
+        "B": "Radiales.",
+        "C": "Asa de cubo.",
+        "D": "Pico de loro."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 347,
+      "pregunta": "El signo de Zohlen valora:",
+      "opciones": {
+        "A": "Acortamiento del psoas.",
+        "B": "Condromalacia rotuliana.",
+        "C": "Inestabilidad rotuliana.",
+        "D": "Ángulo Q aumentado."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 348,
+      "pregunta": "El test de Ober valora:",
+      "opciones": {
+        "A": "Acortamiento de la cintilla iliotibial.",
+        "B": "Rotura del tendón de Aquiles.",
+        "C": "Síndrome de De Quervain.",
+        "D": "Acortamiento del psoas ilíaco."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+        "id": 349,
+        "pregunta": "Complejo ligamentoso lateral del tobillo:",
+        "opciones": {
+          "A": "Peroneoastragalino anterior y posterior.",
+          "B": "Peroneoastragalino anterior, posterior y peroneocalcáneo.",
+          "C": "Peroneoastragalino anterior, posterior y tibioperoneo.",
+          "D": "Peroneoastragalino anterior y peroneocalcáneo."
+        },
+        "respuestaCorrecta": ""
+      },
+    {
+      "id": 350,
+      "pregunta": "La meniscectomía parcial artroscópica está INDICADA en:",
+      "opciones": {
+        "A": "Roturas meniscales desplazadas.",
+        "B": "Roturas meniscales asintomáticas.",
+        "C": "Roturas >1 cm en zona roja-roja.",
+        "D": "Ninguna de las anteriores."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 351,
+      "pregunta": "Con relación a las fracturas del acetábulo, señale la afirmación INCORRECTA:",
+      "opciones": {
+        "A": "En las fracturas simples acetabulares pueden aparecer cambios degenerativos tardíos.",
+        "B": "Puede aparecer parálisis del nervio ciático como complicación.",
+        "C": "El tratamiento conservador de fracturas complejas consiste en tracción cutánea 2 semanas.",
+        "D": "Las fracturas simples no presentan hundimiento acetabular."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 352,
+      "pregunta": "La lesión de la uretra se asocia con frecuencia a:",
+      "opciones": {
+        "A": "Fracturas por compresión anteroposterior de la pelvis.",
+        "B": "Fracturas por compresión lateral.",
+        "C": "Fracturas por cizallamiento.",
+        "D": "Fracturas por avulsión muscular."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 353,
+      "pregunta": "Las fracturas diafisarias de fémur, señale la respuesta CORRECTA:",
+      "opciones": {
+        "A": "Son frecuentes en niños y niñas.",
+        "B": "Son frecuentes en la enfermedad de Paget.",
+        "C": "Son frecuentes en personas con metástasis óseas.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 354,
+      "pregunta": "Respecto a los objetivos de la fase postoperatoria tras una fractura diafisaria de fémur, indique la opción INCORRECTA:",
+      "opciones": {
+        "A": "Prevenir la pseudoartrosis.",
+        "B": "Conseguir la marcha con carga total.",
+        "C": "Disminuir el edema postquirúrgico.",
+        "D": "Mejorar la consolidación del callo de fractura."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 355,
+      "pregunta": "La lesión del nervio ciático poplíteo externo es posible en:",
+      "opciones": {
+        "A": "Fracturas supracondíleas metafisarias de rodilla.",
+        "B": "Fracturas intercondíleas de rodilla.",
+        "C": "Fracturas de mesetas tibiales.",
+        "D": "Todas las anteriores son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 356,
+      "pregunta": "En las lesiones del tendón rotuliano intervenidas quirúrgicamente con cerclaje, señale la respuesta INCORRECTA:",
+      "opciones": {
+        "A": "Ortesis rígida en extensión durante 3 semanas.",
+        "B": "Movilización rotuliana craneocaudal en cada sesión.",
+        "C": "Movilización progresiva hasta 45º de flexión en la 4ª semana.",
+        "D": "Nunca se realizará carga parcial hasta la 6ª semana."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 357,
+      "pregunta": "Las luxaciones de rótula se producen por un mecanismo de:",
+      "opciones": {
+        "A": "Varo + flexión + rotación externa de tibia.",
+        "B": "Valgo + flexión + rotación externa de tibia.",
+        "C": "Varo + extensión + rotación externa de tibia.",
+        "D": "Valgo + extensión + rotación externa de tibia."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 358,
+      "pregunta": "Señale la respuesta INCORRECTA con relación a los meniscos:",
+      "opciones": {
+        "A": "Distribuyen el líquido sinovial.",
+        "B": "Están vascularizados en su tercio interno.",
+        "C": "Son estabilizadores de la rodilla.",
+        "D": "Aumentan la congruencia articular."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 359,
+      "pregunta": "¿Cuál es el mecanismo lesional más frecuente del LCA?",
+      "opciones": {
+        "A": "Flexión + valgo + rotación externa.",
+        "B": "Flexión + varo + rotación externa.",
+        "C": "Flexión + valgo + rotación interna.",
+        "D": "Flexión + varo + rotación interna."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 360,
+      "pregunta": "Entre las causas del origen de la patología femoropatelar se encuentra:",
+      "opciones": {
+        "A": "Alteraciones morfológicas femoropatelares.",
+        "B": "Alteraciones de estabilizadores estáticos y dinámicos.",
+        "C": "Alteraciones del aparato extensor.",
+        "D": "Todas las respuestas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+  {
+    "id": 361,
+    "pregunta": "Indique la respuesta INCORRECTA con relación al ángulo Q:",
+    "opciones": {
+      "A": "El ángulo está formado por las líneas que van desde el centro de la rótula a la EIAS y hacia el tubérculo anterior de la tibia.",
+      "B": "El ángulo Q es mayor en la mujer que en el hombre.",
+      "C": "El ángulo Q menor se relaciona con el valgo de rodilla.",
+      "D": "Los valores normales se encuentran alrededor de 12-22 grados."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 362,
+    "pregunta": "En relación con las pautas generales para la prevención del síndrome femoropatelar, señale la opción INCORRECTA:",
+    "opciones": {
+      "A": "Evitar posturas mantenidas con más de 90º de flexión de rodilla.",
+      "B": "Perder peso.",
+      "C": "Evitar realizar ejercicios de aducción de cadera.",
+      "D": "Realizar estiramientos."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 363,
+    "pregunta": "La tendinopatía de tobillo más frecuente es:",
+    "opciones": {
+      "A": "Tendinopatía del peroneo lateral largo.",
+      "B": "Tendinopatía del peroneo lateral corto.",
+      "C": "Tendinopatía del tibial anterior.",
+      "D": "Tendinopatía del tendón de Aquiles."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 364,
+    "pregunta": "En el síndrome de dolor miofascial (SDM), un punto gatillo funcional es aquel que:",
+    "opciones": {
+      "A": "Se ha activado porque se encuentra dentro de la zona de dolor referido de un punto gatillo primario.",
+      "B": "Produce un reflejo de protección en la región dolorosa.",
+      "C": "Se forma a partir de una sobrecarga muscular causada por la actividad de un punto gatillo primario.",
+      "D": "Es causa directa del dolor y produce dolor espontáneo."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 365,
+    "pregunta": "Una rotura muscular parcial menor (Tipo 3A o grado I):",
+    "opciones": {
+      "A": "Corresponde a una lesión parcial con compromiso de fascículos visibles macroscópicamente.",
+      "B": "Hay compromiso de fascículos y de tejido conectivo adyacente.",
+      "C": "Produce una leve molestia con dolor a la elongación pasiva y a la palpación.",
+      "D": "La persona debe detener la actividad."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 366,
+    "pregunta": "En la artritis reumatoide, la afectación denominada dedo en ojal o boutonnière:",
+    "opciones": {
+      "A": "Aparece en índice y medio con hiperextensión de IFP y flexión de IFD.",
+      "B": "Aparece en 4º y 5º dedo con flexión de IFP y extensión de IFD.",
+      "C": "Es la deformidad más frecuente en el primer dedo.",
+      "D": "Ninguna de las anteriores es correcta."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 367,
+    "pregunta": "En la artritis reumatoide, la sinovitis de cadera se caracteriza por:",
+    "opciones": {
+      "A": "Espasmo y dolor de flexores y abductores.",
+      "B": "Espasmo y dolor de flexores y aductores.",
+      "C": "Espasmo y dolor de aductores y rotadores externos.",
+      "D": "Espasmo y dolor de abductores y rotadores internos."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 368,
+    "pregunta": "En la artritis reumatoide, la clasificación funcional Grado III corresponde a:",
+    "opciones": {
+      "A": "Capacidad funcional adecuada para AVD con disconfort leve.",
+      "B": "Capacidad funcional adecuada para AVD con disconfort en más de tres articulaciones.",
+      "C": "Capacidad funcional para realizar pocas o ninguna actividad de autocuidado.",
+      "D": "Incapacidad completa, encamado o en silla de ruedas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 369,
+    "pregunta": "¿Qué tratamiento NO está INDICADO en la fase inflamatoria aguda de la artritis reumatoide?",
+    "opciones": {
+      "A": "Ejercicios isométricos.",
+      "B": "Aplicación de frío.",
+      "C": "Movilizaciones pasivas.",
+      "D": "Ejercicios isocinéticos y estiramientos."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 370,
+    "pregunta": "¿Cuál es una CONTRAINDICACIÓN en el tratamiento de la Espondilitis Anquilosante?",
+    "opciones": {
+      "A": "Manipulaciones.",
+      "B": "Termoterapia.",
+      "C": "Balneoterapia.",
+      "D": "Educación postural."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 371,
+    "pregunta": "Señale la respuesta INCORRECTA con relación al dolor del miembro fantasma:",
+    "opciones": {
+      "A": "Puede aparecer inmediatamente o años después de la amputación.",
+      "B": "El dolor es de tipo nociceptivo.",
+      "C": "Los factores psicológicos influyen en su evolución.",
+      "D": "La terapia espejo puede ser eficaz."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 372,
+    "pregunta": "¿Qué intervención de fisioterapia está CONTRAINDICADA en dorsalgias?",
+    "opciones": {
+      "A": "Potenciación dorsal.",
+      "B": "Tracción vertebral.",
+      "C": "Fisioterapia respiratoria.",
+      "D": "Ejercicios de flexibilización."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 373,
+    "pregunta": "¿Cuándo puede aparecer la vasodilatación inducida por frío?",
+    "opciones": {
+      "A": "Aplicaciones prolongadas o temperatura por debajo de 10 ºC.",
+      "B": "Aplicaciones prolongadas entre 10 y 15 ºC.",
+      "C": "Aplicaciones muy breves por debajo de 5 ºC.",
+      "D": "Aplicaciones intermitentes por debajo de 5 ºC."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 374,
+    "pregunta": "La crioterapia reduce el flujo sanguíneo aproximadamente un:",
+    "opciones": {
+      "A": "10%.",
+      "B": "20%.",
+      "C": "40%.",
+      "D": "60%."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 375,
+    "pregunta": "Señale la respuesta CORRECTA con relación a la crioterapia:",
+    "opciones": {
+      "A": "La velocidad de conducción nerviosa disminuye con el frío.",
+      "B": "Disminuye el umbral del dolor.",
+      "C": "Las fibras grandes son más sensibles al frío.",
+      "D": "Las fibras no mielinizadas son más sensibles al frío."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 376,
+    "pregunta": "Señale la respuesta CORRECTA sobre la fuerza muscular y la crioterapia:",
+    "opciones": {
+      "A": "Aplicación breve puede aumentar fuerza isométrica.",
+      "B": "Aplicación prolongada disminuye fuerza isométrica.",
+      "C": "La fuerza puede recuperarse en unos 20 minutos.",
+      "D": "Todas son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 377,
+    "pregunta": "¿En qué caso está INDICADA la crioterapia?",
+    "opciones": {
+      "A": "Crioglobulinemia.",
+      "B": "Regeneración nerviosa periférica.",
+      "C": "Vasculopatía periférica.",
+      "D": "Espasticidad."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 378,
+    "pregunta": "Señale la respuesta CORRECTA sobre bolsas de frío:",
+    "opciones": {
+      "A": "Congelar 24 h y 1 h entre sesiones.",
+      "B": "Congelar 2 h y 30 min entre sesiones.",
+      "C": "Congelar 1 h y 30 min entre sesiones.",
+      "D": "Congelar 30 min y 1 h entre sesiones."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 379,
+    "pregunta": "Señale la respuesta CORRECTA sobre el masaje con hielo:",
+    "opciones": {
+      "A": "Tratamiento breve.",
+      "B": "Útil en zonas pequeñas e irregulares.",
+      "C": "Barato y de uso domiciliario.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 380,
+    "pregunta": "Señale la respuesta CORRECTA sobre compresión fría controlada:",
+    "opciones": {
+      "A": "Puede aplicarse en el tronco.",
+      "B": "Permite frío y compresión.",
+      "C": "Es ideal en articulaciones pequeñas.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 381,
+    "pregunta": "Señale la respuesta CORRECTA sobre los efectos de la termoterapia:",
+    "opciones": {
+      "A": "Aumenta la velocidad de conducción nerviosa.",
+      "B": "Eleva el umbral del dolor.",
+      "C": "Puede agravar la inflamación.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 382,
+    "pregunta": "¿Cuándo se consigue el máximo incremento de longitud tisular con calor?",
+    "opciones": {
+      "A": "Manteniendo 40-45 ºC durante 5-10 minutos.",
+      "B": "Manteniendo 25-30 ºC durante 5-10 minutos.",
+      "C": "45 ºC más de 30 minutos.",
+      "D": "30 ºC más de 30 minutos."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 383,
+    "pregunta": "¿Cuáles son CONTRAINDICACIONES de la termoterapia?",
+    "opciones": {
+      "A": "Embarazo.",
+      "B": "Edema.",
+      "C": "Hemorragia.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 384,
+    "pregunta": "¿Qué agente termoterápico controla el dolor sin agravar edema?",
+    "opciones": {
+      "A": "Infrarrojos.",
+      "B": "Bolsas calientes.",
+      "C": "Baños de contraste.",
+      "D": "Parafina."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 385,
+    "pregunta": "Efectos fisiológicos de la hidroterapia:",
+    "opciones": {
+      "A": "Aumento del gasto cardíaco.",
+      "B": "Aumento del trabajo respiratorio.",
+      "C": "Aumento de la diuresis.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 386,
+    "pregunta": "¿Cuándo puede usarse la inmersión de cuerpo entero CON PRECAUCIÓN?",
+    "opciones": {
+      "A": "Hipertensión no controlada.",
+      "B": "Insuficiencia cardíaca grave.",
+      "C": "Regulación térmica inadecuada.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 387,
+    "pregunta": "Señale la respuesta CORRECTA sobre el ejercicio en agua:",
+    "opciones": {
+      "A": "El asma conlleva riesgo elevado de broncoespasmo.",
+      "B": "La nefropatía crónica lo contraindica.",
+      "C": "Reduce la respuesta de la FC al ejercicio.",
+      "D": "El agua templada es vigorizante."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 388,
+    "pregunta": "El deslizamiento superficial es una maniobra de masaje consistente en:",
+    "opciones": {
+      "A": "Contacto superficial con palma o dedos.",
+      "B": "Presión con eminencia hipotenar.",
+      "C": "Maniobras centrípetas venosas.",
+      "D": "Desplazamiento de piel sobre planos profundos."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 389,
+    "pregunta": "La fricción es una maniobra de masaje consistente en:",
+    "opciones": {
+      "A": "Contacto superficial con palma o dedos.",
+      "B": "Presión con eminencia hipotenar.",
+      "C": "Maniobras centrípetas venosas.",
+      "D": "Desplazamiento profundo de la piel."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 390,
+    "pregunta": "Señale la CONTRAINDICACIÓN ABSOLUTA del masaje:",
+    "opciones": {
+      "A": "Brotes reumáticos agudos.",
+      "B": "Flebitis.",
+      "C": "Miositis osificante.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 391,
+    "pregunta": "¿A quién se atribuye la recomendación de masoterapia en muñones y cicatrices?",
+    "opciones": {
+      "A": "Hipócrates.",
+      "B": "Celio Aureliano.",
+      "C": "Maimónides.",
+      "D": "Ambroise Paré."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 392,
+    "pregunta": "¿Qué se atribuye a Cristobal Méndez (s. XVI)?",
+    "opciones": {
+      "A": "Primer tratado sobre beneficios del ejercicio.",
+      "B": "Tratado de fitoterapia.",
+      "C": "Tratado de balneoterapia.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 393,
+    "pregunta": "Señale la CONTRAINDICACIÓN del drenaje linfático manual:",
+    "opciones": {
+      "A": "Edema linfostático secundario.",
+      "B": "Lipedema.",
+      "C": "Edema nefrótico.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 394,
+    "pregunta": "Señale la respuesta CORRECTA sobre el método científico:",
+    "opciones": {
+      "A": "El estudio de casos y controles se selecciona por exposición.",
+      "B": "El estudio de cohortes parte de personas enfermas.",
+      "C": "Un ensayo clínico evalúa la eficacia de una terapia.",
+      "D": "El ensayo comunitario aplica terapias individuales."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 395,
+    "pregunta": "Definición de discapacidad según Wood:",
+    "opciones": {
+      "A": "Implica pérdida de actividad.",
+      "B": "Es consecuencia de un deterioro.",
+      "C": "Se valora por AVD.",
+      "D": "a), b) y c) son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 396,
+    "pregunta": "Según Nagi, la limitación funcional:",
+    "opciones": {
+      "A": "Dificulta el rol.",
+      "B": "Impide el rol.",
+      "C": "Impide la socialización.",
+      "D": "Todas son correctas."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 397,
+    "pregunta": "¿Cuál NO es parte del método de intervención en fisioterapia?",
+    "opciones": {
+      "A": "Valoración.",
+      "B": "Diagnóstico de fisioterapia.",
+      "C": "Ejecución del programa.",
+      "D": "Publicación de resultados."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 398,
+    "pregunta": "Señale la respuesta CORRECTA sobre el diagnóstico de fisioterapia:",
+    "opciones": {
+      "A": "Se basa en la CIE.",
+      "B": "Incluye problema, causa y manifestaciones.",
+      "C": "Incluye pruebas más sensibles.",
+      "D": "Incluye pruebas más específicas."
+    },
+    "respuestaCorrecta": ""
+  },
+      
+      {
+        "id": 399,
+        "pregunta": "Señale la respuesta CORRECTA con relación al registro de fisioterapia:",
+        "opciones": {
+          "A": "Es un requisito legal y profesional.",
+          "B": "Debe contemplar todas las etapas del método.",
+          "C": "Debe ser preciso, objetivo, completo y oportuno.",
+          "D": "a), b) y c) son correctas."
+        },
+        "respuestaCorrecta": ""
+      },
+    {
+      "id": 400,
+      "pregunta": "Señale la respuesta CORRECTA con relación a la educación para la salud:",
+      "opciones": {
+        "A": "Está dirigida a todas las personas.",
+        "B": "Recae en el equipo de atención primaria.",
+        "C": "Busca disminuir el consumo de antibióticos.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 401,
+      "pregunta": "¿Cuál es la población diana de la fisioterapia domiciliaria?",
+      "opciones": {
+        "A": "Personas con discapacidad que no pueden ser trasladadas a un centro sanitario por problemas de accesibilidad.",
+        "B": "Personas con discapacidad que pudiendo ser trasladadas incrementan su riesgo de comorbilidad.",
+        "C": "Personas cuidadoras principales de personas con discapacidad.",
+        "D": "a), b) y c) correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 402,
+      "pregunta": "Señale la respuesta correcta con relación al Grado I (moderada) de dependencia:",
+      "opciones": {
+        "A": "La persona necesita ayuda para realizar varias ABVD al menos una vez al día.",
+        "B": "Se corresponde con una puntuación final del Baremo de Valoración de 50 a 74 puntos.",
+        "C": "La persona tiene necesidades de apoyo generalizado para su autonomía personal.",
+        "D": "a), b) y c) correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 403,
+      "pregunta": "Según el baremo de valoración de los grados y niveles de dependencia, al Grado II (grave) de dependencia le corresponde una puntuación de:",
+      "opciones": {
+        "A": "De 25 a 49 puntos.",
+        "B": "De 50 a 74 puntos.",
+        "C": "De 75 a 89 puntos.",
+        "D": "De 90 a 100 puntos."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 404,
+      "pregunta": "Señale la respuesta CORRECTA con relación al protocolo:",
+      "opciones": {
+        "A": "Debe consensuarse entre los profesionales que lo van a aplicar.",
+        "B": "Establece una pauta de acción unificada.",
+        "C": "Metodológicamente debe ser sencillo.",
+        "D": "a), b) y c) correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 405,
+      "pregunta": "Señale la respuesta CORRECTA con relación al Índice de Barthel:",
+      "opciones": {
+        "A": "Mide la autonomía mediante un cuestionario de 10 ítems.",
+        "B": "Evalúa las actividades instrumentales de la vida diaria.",
+        "C": "Una puntuación entre 61 y 90 puntos corresponde a una dependencia grave.",
+        "D": "a), b) y c) correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 406,
+      "pregunta": "Señale la respuesta CORRECTA con relación a la Escala de Lawton y Brody:",
+      "opciones": {
+        "A": "Evalúa las actividades instrumentales de la vida diaria.",
+        "B": "Consta de 8 ítems.",
+        "C": "Cada ítem se valora con 0 (dependencia) o con 1 (independencia).",
+        "D": "a), b) y c) correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 407,
+      "pregunta": "Señale la respuesta correcta con relación a la Clasificación Internacional del Funcionamiento, de la Discapacidad y de la Salud (CIF):",
+      "opciones": {
+        "A": "Suprime el término deficiencia.",
+        "B": "Suprime el término discapacidad.",
+        "C": "Suprime el término minusvalía.",
+        "D": "a), b) y c) correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 408,
+      "pregunta": "La CIF agrupa los dominios personales en:",
+      "opciones": {
+        "A": "Salud y estados relacionados con la salud.",
+        "B": "Funcionamiento y discapacidad.",
+        "C": "Factores personales y factores ambientales.",
+        "D": "Funciones y estructuras personales y actividad y participación."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 409,
+      "pregunta": "Señale cuál de las siguientes NO es un método directo de educación para la salud:",
+      "opciones": {
+        "A": "Grupos de discusión.",
+        "B": "Grupos de autoayuda.",
+        "C": "Radio.",
+        "D": "Entrevista."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 410,
+      "pregunta": "Señale cuál de las siguientes es una fuente de información durante la valoración de la persona:",
+      "opciones": {
+        "A": "La propia persona y su familia.",
+        "B": "Historia clínica.",
+        "C": "Registro de enfermería.",
+        "D": "a), b) y c) correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 411,
+      "pregunta": "Según el método de intervención en fisioterapia, determinar los objetivos del tratamiento es parte de:",
+      "opciones": {
+        "A": "La valoración inicial.",
+        "B": "El análisis de datos.",
+        "C": "La formulación del programa.",
+        "D": "La evaluación final."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 412,
+      "pregunta": "¿Cuáles son los mecanismos que causan vasoconstricción tras la aplicación del frío?",
+      "opciones": {
+        "A": "Activación de receptores cutáneos.",
+        "B": "Disminución de liberación de histamina.",
+        "C": "Disminución de liberación de prostaglandinas.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 413,
+      "pregunta": "¿Cuáles son los mecanismos que causan vasodilatación tras la aplicación del frío?",
+      "opciones": {
+        "A": "Relajación del músculo liso.",
+        "B": "Disminución de la actividad simpática.",
+        "C": "Aumento de la liberación de vasodilatadores.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 414,
+      "pregunta": "El agua presenta diferentes propiedades físicas que favorecen su uso en rehabilitación. Señale cuál NO corresponde:",
+      "opciones": {
+        "A": "Disolvente.",
+        "B": "Transmisión energética.",
+        "C": "Presión hidrostática.",
+        "D": "Resistencia."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 415,
+      "pregunta": "¿Cómo puede actuar la inmersión en el agua sobre el dolor?",
+      "opciones": {
+        "A": "Por estimulación sensitiva de mecanorreceptores.",
+        "B": "Liberando histamina y prostaglandinas.",
+        "C": "Provocando vasoconstricción central.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 416,
+      "pregunta": "¿Cuál de los siguientes es un efecto fisiológico de la hidroterapia?",
+      "opciones": {
+        "A": "Cardiovascular.",
+        "B": "Psicológico.",
+        "C": "Limpiador.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 417,
+      "pregunta": "Con relación a la hidroterapia, señale la respuesta CORRECTA:",
+      "opciones": {
+        "A": "El calor específico del agua es aproximadamente 4 veces el del aire.",
+        "B": "La conductividad térmica del agua es aproximadamente 4 veces la del aire.",
+        "C": "El agua retiene unas 25 veces más energía térmica que el aire.",
+        "D": "El agua transfiere la energía térmica 4 veces más rápido que el aire."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 418,
+      "pregunta": "Respecto a la accesibilidad en personas con discapacidad, las medidas pueden desarrollarse en:",
+      "opciones": {
+        "A": "Entorno urbanístico y edificación.",
+        "B": "Comunicación.",
+        "C": "Transporte.",
+        "D": "a), b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 419,
+      "pregunta": "Según la escala analgésica de la OMS, la codeína corresponde a:",
+      "opciones": {
+        "A": "Primer escalón.",
+        "B": "Segundo escalón.",
+        "C": "Tercer escalón.",
+        "D": "Cuarto escalón."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 420,
+      "pregunta": "Según la IASP, la alodinia se define como:",
+      "opciones": {
+        "A": "Dolor por estímulo no nocivo.",
+        "B": "Sensación anómala desagradable.",
+        "C": "Respuesta disminuida a estímulo doloroso.",
+        "D": "Ausencia de dolor ante estímulo nocivo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 421,
+      "pregunta": "¿Cuál de las siguientes escalas NO es específica para valorar dolor neuropático?",
+      "opciones": {
+        "A": "LANSS.",
+        "B": "PAINAD.",
+        "C": "ID-PAIN.",
+        "D": "DN4."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 422,
+      "pregunta": "En la nocicepción, la transducción consiste en:",
+      "opciones": {
+        "A": "Convertir estímulo nocivo en señal eléctrica.",
+        "B": "Inhibir el dolor en el cerebro.",
+        "C": "Transmitir el impulso al SNC.",
+        "D": "Modificar la transmisión del impulso."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 423,
+      "pregunta": "Respecto al abordaje del dolor complejo, es CORRECTO que:",
+      "opciones": {
+        "A": "Debe ser biopsicosocial.",
+        "B": "Incluye reintegración social y laboral.",
+        "C": "La educación en neurobiología del dolor es clave.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 424,
+      "pregunta": "El objetivo de la educación en neurobiología del dolor es:",
+      "opciones": {
+        "A": "Explicar el papel del SNC en el dolor.",
+        "B": "Abordar consecuencias del dolor.",
+        "C": "Modificar creencias y conductas.",
+        "D": "Mostrar relación lineal lesión-dolor."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 425,
+      "pregunta": "Sobre el dolor lumbar crónico inespecífico, es CORRECTO:",
+      "opciones": {
+        "A": "La terapia manual es el tratamiento de elección.",
+        "B": "La actividad física no influye.",
+        "C": "Solo el 10% es dolor crónico inespecífico.",
+        "D": "Se relaciona con mala adaptación a la carga."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 426,
+      "pregunta": "¿Cuál definición de prolapso del suelo pélvico es CORRECTA?",
+      "opciones": {
+        "A": "Enterocele: descenso de vejiga y uretra.",
+        "B": "Cistouretrocele: descenso del cuello uterino.",
+        "C": "Rectocele: descenso del recto por la pared vaginal posterior.",
+        "D": "Histerocele: descenso de asas intestinales."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 427,
+      "pregunta": "¿Qué músculo pertenece al plano profundo del suelo pélvico?",
+      "opciones": {
+        "A": "Transverso profundo del periné.",
+        "B": "Bulbocavernoso.",
+        "C": "Isquiocavernoso.",
+        "D": "Elevador del ano."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 428,
+      "pregunta": "En obstetricia y uroginecología, ¿qué prueba NO realiza el fisioterapeuta?",
+      "opciones": {
+        "A": "Valoración articular lumbopélvica.",
+        "B": "Curva de flujo-presión.",
+        "C": "Tacto vaginal.",
+        "D": "Valoración de fuerza del suelo pélvico."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 429,
+      "pregunta": "En la clasificación de desgarros perineales, afectación muscular sin esfínter anal es:",
+      "opciones": {
+        "A": "Desgarro de 1er grado.",
+        "B": "Desgarro de 2º grado.",
+        "C": "Desgarro de 3er grado.",
+        "D": "Desgarro de 4º grado."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 430,
+      "pregunta": "Según la clasificación de prolapsos de la ACOG, es INCORRECTO:",
+      "opciones": {
+        "A": "Grado 2: desciende hasta el plano vulvar.",
+        "B": "Grado 3: exteriorizado incluso en reposo.",
+        "C": "Grado 0: ausencia de prolapso.",
+        "D": "Grado 1: ligero descenso dentro de la vagina."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 431,
+      "pregunta": "Señale la INCORRECTA sobre electroestimulación en suelo pélvico:",
+      "opciones": {
+        "A": "Contraindicada en embarazo.",
+        "B": "No se usa de forma aislada.",
+        "C": "No trata incontinencia urinaria.",
+        "D": "Busca inhibición vesical y activación muscular."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 432,
+      "pregunta": "¿Qué parámetro NO valora el esquema PERFECT?",
+      "opciones": {
+        "A": "Número de repeticiones.",
+        "B": "Contracciones lentas.",
+        "C": "Contracciones por tiempo.",
+        "D": "Fuerza."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 433,
+      "pregunta": "Sobre la Escala de Oxford Modificada (MOS), es CORRECTO:",
+      "opciones": {
+        "A": "Grado 1: contracción moderada.",
+        "B": "Grado 3: contracción fuerte con resistencia máxima.",
+        "C": "Grado 2: contracción débil con ligero acortamiento.",
+        "D": "Es un método con dinamómetro."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 434,
+      "pregunta": "Según la guía de Euskadi, ¿quiénes son víctimas de VG?",
+      "opciones": {
+        "A": "Solo mujeres con lesiones visibles.",
+        "B": "Solo mujeres agredidas directamente.",
+        "C": "Mujeres y parejas actuales.",
+        "D": "Mujeres y sus hijos e hijas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 435,
+      "pregunta": "En violencia de género, se considera situación de vulnerabilidad:",
+      "opciones": {
+        "A": "Diversidad funcional.",
+        "B": "Trastorno mental grave.",
+        "C": "Residencia en municipios pequeños.",
+        "D": "Todo lo anterior es correcto."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 436,
+      "pregunta": "La detección precoz de violencia de género corresponde a:",
+      "opciones": {
+        "A": "Prevención primaria.",
+        "B": "Prevención secundaria.",
+        "C": "Prevención terciaria.",
+        "D": "Prevención paliativa."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 437,
+      "pregunta": "Objetivo de la fase de precontemplación ante agresión sexual:",
+      "opciones": {
+        "A": "Fomentar la duda sobre el maltrato.",
+        "B": "Analizar miedos y obstáculos.",
+        "C": "Acompañar acciones de cambio.",
+        "D": "Prevenir recaídas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 438,
+      "pregunta": "¿Cuándo debe emitirse un parte de lesiones por violencia de género?",
+      "opciones": {
+        "A": "Siempre de forma sistemática.",
+        "B": "Solo con lesiones muy graves.",
+        "C": "Con consentimiento o alto riesgo grave.",
+        "D": "Solo si el agresor admite los hechos."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 439,
+      "pregunta": "Sobre el parte de lesiones por agresión sexual, es CORRECTO:",
+      "opciones": {
+        "A": "Siempre que la mujer lo solicite o consienta.",
+        "B": "La denuncia es siempre obligatoria.",
+        "C": "Solo lo cumplimenta el personal facultativo.",
+        "D": "Solo se registran lesiones físicas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 440,
+      "pregunta": "Tras valorar el riesgo en VG, el siguiente paso es:",
+      "opciones": {
+        "A": "Terapia de pareja obligatoria.",
+        "B": "Registrar en historia clínica y parte.",
+        "C": "Prescribir ansiolíticos.",
+        "D": "Derivar sin consentimiento."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 441,
+      "pregunta": "Sobre corrientes eléctricas, es CORRECTO:",
+      "opciones": {
+        "A": "La potencia se mide en voltios.",
+        "B": "La resistencia se mide en ohmios.",
+        "C": "La diferencia de potencial se mide en vatios.",
+        "D": "El calor es inversamente proporcional al tiempo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 442,
+      "pregunta": "En iontoforesis con ácido acético:",
+      "opciones": {
+        "A": "Se coloca bajo el cátodo.",
+        "B": "Se coloca bajo el ánodo.",
+        "C": "Tiene carga positiva.",
+        "D": "Tiene carga positiva y va al ánodo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 443,
+      "pregunta": "¿Qué corriente diadinámica se utiliza para respuesta motora?",
+      "opciones": {
+        "A": "Monofásica fija.",
+        "B": "Cortos periodos.",
+        "C": "Largos periodos.",
+        "D": "Ritmo sincopado."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 444,
+      "pregunta": "Sobre corrientes farádicas, es CORRECTO:",
+      "opciones": {
+        "A": "Alta frecuencia e intensidad puede tetanizar el músculo.",
+        "B": "Impulsos largos mejoran respuesta nerviosa.",
+        "C": "Impulsos cortos estimulan mejor la fibra muscular.",
+        "D": "Impulsos cuadrangulares generan menos respuesta."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 445,
+      "pregunta": "Sobre curvas I/T – A/T, es INCORRECTO:",
+      "opciones": {
+        "A": "La reobase es la intensidad mínima con impulso cuadrangular.",
+        "B": "El umbral galvanotétano requiere impulso de subida progresiva.",
+        "C": "La cronaxia es el tiempo con mitad de la reobase.",
+        "D": "Un cociente 2-3 indica pérdida parcial de acomodación."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 446,
+      "pregunta": "En denervación grave, las curvas I/T – A/T se desplazan hacia:",
+      "opciones": {
+        "A": "La derecha y arriba.",
+        "B": "La derecha y abajo.",
+        "C": "La izquierda y arriba.",
+        "D": "La izquierda y abajo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 447,
+      "pregunta": "Señale la INCORRECTA sobre el TENS:",
+      "opciones": {
+        "A": "Es una técnica no invasiva.",
+        "B": "Actúa por compuerta y opioides endógenos.",
+        "C": "Permite introducir fármacos por la piel.",
+        "D": "La baja frecuencia se usa en electroacupuntura."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 448,
+      "pregunta": "¿Qué es el periodo de una corriente eléctrica?",
+      "opciones": {
+        "A": "Tiempo total de aplicación.",
+        "B": "Tiempo de un ciclo completo.",
+        "C": "Tiempo para alcanzar la amplitud máxima.",
+        "D": "Número de ciclos por segundo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 449,
+      "pregunta": "En magnetoterapia con solenoide cilíndrico:",
+      "opciones": {
+        "A": "El miembro se coloca centrado en el solenoide.",
+        "B": "Debe colocarse junto a la pared.",
+        "C": "La posición es indiferente.",
+        "D": "Se apoya sobre el exterior."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 450,
+      "pregunta": "¿Qué unidades miden la intensidad de un campo magnético?",
+      "opciones": {
+        "A": "Tesla.",
+        "B": "Amperio.",
+        "C": "Gauss.",
+        "D": "a) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 451,
+      "pregunta": "En la aplicación de onda corta, la colocación de placas en campo condensador puede realizarse de forma:",
+      "opciones": {
+        "A": "Coplanar.",
+        "B": "Contralateral.",
+        "C": "Longitudinal.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 452,
+      "pregunta": "En la dosificación de las corrientes de alta frecuencia el Grado III corresponde a:",
+      "opciones": {
+        "A": "Calor suave, ligeramente perceptible.",
+        "B": "Calor intenso, próximo al umbral del dolor.",
+        "C": "Calor moderado, claramente perceptible y agradable.",
+        "D": "Calor quemante y doloroso."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 453,
+      "pregunta": "Para un efecto analgésico con corrientes interferenciales, la frecuencia de barrido recomendada es:",
+      "opciones": {
+        "A": "0-5 Hz.",
+        "B": "1-10 Hz.",
+        "C": "80-100 Hz.",
+        "D": "500-1000 Hz."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 454,
+      "pregunta": "Para el fortalecimiento muscular con corrientes de media frecuencia se utilizará una frecuencia portadora de:",
+      "opciones": {
+        "A": "2500 Hz.",
+        "B": "4000 Hz.",
+        "C": "6000 Hz.",
+        "D": "Las frecuencias portadoras no influyen."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 455,
+      "pregunta": "Señale la respuesta CORRECTA con relación a las corrientes interferenciales:",
+      "opciones": {
+        "A": "La corriente portadora es de 4400 Hz.",
+        "B": "La modulación más habitual es triangular.",
+        "C": "En el modo tetrapolar la modulación se produce dentro del organismo.",
+        "D": "En el modo bipolar la modulación se produce dentro del organismo."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 456,
+      "pregunta": "La corriente con portadora de 2500 Hz y modulación de 50 Hz se denomina:",
+      "opciones": {
+        "A": "Corriente farádica.",
+        "B": "Corriente Kotz.",
+        "C": "Corriente Trabert.",
+        "D": "Corriente diadinámica de Bernard."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 457,
+      "pregunta": "El tiempo de aplicación del ultrasonido depende de:",
+      "opciones": {
+        "A": "La superficie del cabezal.",
+        "B": "El tamaño de la zona a tratar.",
+        "C": "El modo de trabajo.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 458,
+      "pregunta": "¿Qué zona del haz de ultrasonidos está libre de riesgo de daño tisular?",
+      "opciones": {
+        "A": "Campo cercano.",
+        "B": "Campo lejano.",
+        "C": "Nodo de convergencia.",
+        "D": "a) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 459,
+      "pregunta": "Señale la respuesta CORRECTA sobre el láser de arseniuro de galio (AsGa):",
+      "opciones": {
+        "A": "Emite entre 780 y 905 nm.",
+        "B": "Tiene una potencia eficaz de 50 mW.",
+        "C": "Siempre se aplica en barrido.",
+        "D": "Es de emisión continua."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 460,
+      "pregunta": "En procesos agudos, la dosis de láser recomendada es:",
+      "opciones": {
+        "A": "2 a 6 J/cm².",
+        "B": "4 a 10 J/cm².",
+        "C": "10 a 14 J/cm².",
+        "D": "14 a 18 J/cm²."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 461,
+      "pregunta": "Señale la respuesta CORRECTA respecto a la aplicación de ultrasonidos:",
+      "opciones": {
+        "A": "La potencia no influye en la penetración.",
+        "B": "El calentamiento se logra con modo pulsado.",
+        "C": "El tiempo es independiente de intensidad y frecuencia.",
+        "D": "La frecuencia de 3 MHz es para tejidos superficiales."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 462,
+      "pregunta": "Señale la afirmación CORRECTA sobre la radiación ultravioleta:",
+      "opciones": {
+        "A": "Se sitúa entre microondas e infrarrojos.",
+        "B": "La UVA produce fluorescencia.",
+        "C": "La UVB es germicida.",
+        "D": "La UVC produce eritema."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 463,
+      "pregunta": "¿Qué radiación ultravioleta penetra más en la piel?",
+      "opciones": {
+        "A": "UVA.",
+        "B": "UVB.",
+        "C": "UVC.",
+        "D": "b) y c) son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 464,
+      "pregunta": "Es una CONTRAINDICACIÓN del uso de infrarrojos:",
+      "opciones": {
+        "A": "Derrames articulares persistentes.",
+        "B": "Derrames intraarticulares recientes.",
+        "C": "Úlceras por decúbito.",
+        "D": "Dolor bioquímico."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 465,
+      "pregunta": "Los objetivos de la cinesiterapia incluyen:",
+      "opciones": {
+        "A": "Recuperar la movilidad articular.",
+        "B": "Integración del esquema corporal.",
+        "C": "Aumentar trofismo y potencia muscular.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 466,
+      "pregunta": "La flexión plantar del tobillo corresponde a una palanca:",
+      "opciones": {
+        "A": "De primer género.",
+        "B": "De segundo género.",
+        "C": "De tercer género.",
+        "D": "De cuarto género."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 467,
+      "pregunta": "Con respecto a las palancas de tercer género:",
+      "opciones": {
+        "A": "Son las más frecuentes en el cuerpo humano.",
+        "B": "Ofrecen ventaja de fuerza.",
+        "C": "Ofrecen ventaja de equilibrio.",
+        "D": "El fulcro está entre resistencia y potencia."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 468,
+      "pregunta": "Todas son técnicas de cinesiterapia pasiva EXCEPTO:",
+      "opciones": {
+        "A": "Posturas osteoarticulares.",
+        "B": "Tracciones.",
+        "C": "Estiramientos miotendinosos.",
+        "D": "Manipulaciones terapéuticas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 469,
+      "pregunta": "Señale la respuesta INCORRECTA sobre los efectos de la cinesiterapia:",
+      "opciones": {
+        "A": "Aumenta la densidad capilar cardíaca.",
+        "B": "Reduce el área tendinosa.",
+        "C": "Aumenta densidad mineral ósea.",
+        "D": "Aumenta proteínas contráctiles."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 470,
+      "pregunta": "Son objetivos de la cinesiterapia:",
+      "opciones": {
+        "A": "Evitar retracciones.",
+        "B": "Mejorar potencia muscular.",
+        "C": "Reducir el dolor.",
+        "D": "Todos son correctos."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 471,
+      "pregunta": "Son consecuencias de la inmovilización prolongada:",
+      "opciones": {
+        "A": "Desacondicionamiento cardiovascular.",
+        "B": "Atrofia muscular.",
+        "C": "Estreñimiento.",
+        "D": "Reducción de frecuencia cardíaca."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 472,
+      "pregunta": "Señale la respuesta INCORRECTA respecto a las ortesis:",
+      "opciones": {
+        "A": "Restringen el movimiento.",
+        "B": "Aumentan la carga segmentaria.",
+        "C": "Enderezan deformidades.",
+        "D": "Corrigen deformidades."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 473,
+      "pregunta": "Todos influyen positivamente en la curación EXCEPTO:",
+      "opciones": {
+        "A": "Buena vascularización.",
+        "B": "Mal estado nutricional.",
+        "C": "Agentes físicos.",
+        "D": "Ausencia de infección."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 474,
+      "pregunta": "NO es una fase de consolidación ósea:",
+      "opciones": {
+        "A": "Inflamación.",
+        "B": "Dolor.",
+        "C": "Callo blando.",
+        "D": "Callo duro."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 475,
+      "pregunta": "Señale la INCORRECTA para mejorar tono bajo:",
+      "opciones": {
+        "A": "Termoterapia.",
+        "B": "Electroestimulación.",
+        "C": "Ejercicio terapéutico.",
+        "D": "Entrenamiento funcional."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 476,
+      "pregunta": "Respecto al dolor neuropático, es CORRECTO:",
+      "opciones": {
+        "A": "Se origina en nociceptores.",
+        "B": "Se asocia a trastornos del sueño y depresión.",
+        "C": "Es consecuencia de lesión somatosensitiva.",
+        "D": "Se asocia a prueba de Spurling negativa."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 477,
+      "pregunta": "Señale la INCORRECTA sobre ventilación mecánica no invasiva controlada por presión:",
+      "opciones": {
+        "A": "La presión se ajusta en inspiración y espiración.",
+        "B": "El volumen aportado es variable.",
+        "C": "No compensa posibles fugas.",
+        "D": "El ajuste de presión es médico."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 478,
+      "pregunta": "Indicación para iniciar VNI en enfermedades neuromusculares:",
+      "opciones": {
+        "A": "pCO₂ ≥ 45 mmHg.",
+        "B": "SpO₂ < 88% durante el sueño.",
+        "C": "CVF < 50% del teórico.",
+        "D": "Todas son ciertas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 479,
+      "pregunta": "NO es tratamiento no farmacológico EPOC con evidencia A:",
+      "opciones": {
+        "A": "Abandono del tabaco.",
+        "B": "Actividad física.",
+        "C": "Medidas nutricionales.",
+        "D": "Rehabilitación respiratoria."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 480,
+      "pregunta": "Señale la INCORRECTA sobre evaluación pulmonar:",
+      "opciones": {
+        "A": "La DLCO mide difusión alveolocapilar.",
+        "B": "La pletismografía mide volúmenes estáticos.",
+        "C": "La espirometría mide volúmenes estáticos.",
+        "D": "Son claves las curvas flujo/volumen."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 481,
+      "pregunta": "NO es escala para medir disnea:",
+      "opciones": {
+        "A": "Borg modificada.",
+        "B": "EVA.",
+        "C": "mMRC.",
+        "D": "EuroQoL."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 482,
+      "pregunta": "La valoración de las dimensiones de la actividad física incluye:",
+      "opciones": {
+        "A": "Tipo, frecuencia, duración, intensidad, dominio y gasto calórico.",
+        "B": "Tipo, frecuencia, duración, intensidad y dominio.",
+        "C": "Tipo, frecuencia, duración, dominio y gasto calórico.",
+        "D": "Frecuencia, duración, intensidad, dominio y gasto calórico."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 483,
+      "pregunta": "Señale la INCORRECTA sobre acelerometría:",
+      "opciones": {
+        "A": "Buena precisión en sedentarismo.",
+        "B": "Medición objetiva.",
+        "C": "Puede combinarse con FC.",
+        "D": "Mala precisión en marcha en llano."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 484,
+      "pregunta": "Señale la INCORRECTA sobre bronquiectasias:",
+      "opciones": {
+        "A": "Enfermedad inflamatoria crónica.",
+        "B": "Tos y expectoración crónicas.",
+        "C": "No reduce la tolerancia al ejercicio.",
+        "D": "Agudizaciones infecciosas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 485,
+      "pregunta": "Son CONTRAINDICACIONES del test de 6 minutos marcha:",
+      "opciones": {
+        "A": "Angina inestable.",
+        "B": "HTA no controlada.",
+        "C": "Asma no controlada.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 486,
+      "pregunta": "Son pruebas submáximas EXCEPTO:",
+      "opciones": {
+        "A": "Shuttle test.",
+        "B": "Protocolo de Bruce.",
+        "C": "Test de 6 minutos marcha.",
+        "D": "a) y c) correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 487,
+      "pregunta": "¿En qué fase iniciar ejercicio individualizado en rehabilitación cardíaca?",
+      "opciones": {
+        "A": "Fase I.",
+        "B": "Fase II.",
+        "C": "Fase III.",
+        "D": "En cualquiera."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 488,
+      "pregunta": "Son criterios de bajo riesgo en rehabilitación cardíaca:",
+      "opciones": {
+        "A": "Capacidad funcional > 7 MET.",
+        "B": "Ausencia de isquemia.",
+        "C": "Ausencia de arritmias ventriculares.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 489,
+      "pregunta": "Señale la INCORRECTA sobre alto riesgo en rehabilitación cardíaca:",
+      "opciones": {
+        "A": "Capacidad funcional > 5 MET.",
+        "B": "Enfermedad no revascularizable.",
+        "C": "Respuesta hipotensora.",
+        "D": "Capacidad funcional < 5 MET."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 490,
+      "pregunta": "NO se usa para cuantificar disnea durante esfuerzo:",
+      "opciones": {
+        "A": "EVA.",
+        "B": "SF-36.",
+        "C": "Borg.",
+        "D": "Borg modificada."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 491,
+      "pregunta": "NO identifica fragilidad en rehabilitación cardíaca:",
+      "opciones": {
+        "A": "Escala Frail.",
+        "B": "SPPB.",
+        "C": "Framingham tipo A.",
+        "D": "Fenotipo de Fried."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 492,
+      "pregunta": "Consecuencias del sedentarismo:",
+      "opciones": {
+        "A": "Obesidad.",
+        "B": "Osteoporosis.",
+        "C": "Patología musculoesquelética.",
+        "D": "Todas las anteriores."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 493,
+      "pregunta": "Respecto a la enfermedad arterial periférica, es INCORRECTO:",
+      "opciones": {
+        "A": "Tiene bajo riesgo cardiovascular.",
+        "B": "Incluye cambios de estilo de vida.",
+        "C": "Incluye ejercicio físico.",
+        "D": "Incluye control de FRCV."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 494,
+      "pregunta": "Beneficios de la rehabilitación cardiorrespiratoria:",
+      "opciones": {
+        "A": "Aumento densidad ósea.",
+        "B": "Aumento inflamación.",
+        "C": "Aumento densidad capilar.",
+        "D": "Reducción resistencia a insulina."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 495,
+      "pregunta": "La definición CORRECTA de ejercicio físico es:",
+      "opciones": {
+        "A": "Movimiento con gasto energético.",
+        "B": "Actividad planificada y estructurada.",
+        "C": "Actividad competitiva.",
+        "D": "No mejora la autonomía."
+      },
+      "respuestaCorrecta": ""
+    },
+    
+    {
+      "id": 496,
+      "pregunta": "Son objetivos de la fisioterapia en UCI:",
+      "opciones": {
+        "A": "Facilitar extubación.",
+        "B": "Evitar síndrome de inmovilidad.",
+        "C": "Favorecer expansión torácica.",
+        "D": "Todos son correctos."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 497,
+      "pregunta": "Señale la INCORRECTA sobre contraindicaciones del drenaje linfático en traumatología:",
+      "opciones": {
+        "A": "Flebitis.",
+        "B": "Hipotensión.",
+        "C": "Fiebre.",
+        "D": "Síndrome de Sudeck."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 498,
+      "pregunta": "Señale la INCORRECTA sobre reeducación propioceptiva:",
+      "opciones": {
+        "A": "Mejora el sentido del movimiento.",
+        "B": "Debe realizarse en fases agudas.",
+        "C": "Incluye coordinación y equilibrio.",
+        "D": "Incluye reconocimiento táctil."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 499,
+      "pregunta": "Beneficios con mayor evidencia en rehabilitación respiratoria en EPOC:",
+      "opciones": {
+        "A": "Mejora de la disnea.",
+        "B": "Aumento tolerancia al ejercicio.",
+        "C": "Reducción de ansiedad.",
+        "D": "Todas son correctas."
+      },
+      "respuestaCorrecta": ""
+    },
+    {
+      "id": 500,
+      "pregunta": "Señale la enfermedad de patrón restrictivo:",
+      "opciones": {
+        "A": "Bronquiectasias.",
+        "B": "Fibrosis intersticial.",
+        "C": "Fibrosis quística.",
+        "D": "Asma persistente."
+      },
+      "respuestaCorrecta": ""
+    }
   ]
