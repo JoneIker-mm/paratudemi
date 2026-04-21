@@ -7,7 +7,7 @@
     "C": "Cinesiterapia forzada.",
     "D": "Ninguna de las anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 2,
@@ -18,7 +18,7 @@
     "C": "Bloqueo mecánico.",
     "D": "Debilidad muscular."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 3,
@@ -29,7 +29,7 @@
     "C": "Trabajo dinámico excéntrico.",
     "D": "Trabajo isométrico."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 4,
@@ -40,7 +40,7 @@
     "C": "No es necesaria una preparación tisular previa.",
     "D": "Se elonga la musculatura de forma progresiva."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 5,
@@ -51,7 +51,7 @@
     "C": "Terapia con inmovilización mediante férulas y yesos.",
     "D": "Terapia con resortes."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 6,
@@ -62,7 +62,7 @@
     "C": "Hipermovilidad o inestabilidad articular.",
     "D": "Aumento de los síntomas distales."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 7,
@@ -73,7 +73,7 @@
     "C": "Infección cutánea local aguda.",
     "D": "Edema por retención de sodio y agua."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 8,
@@ -84,7 +84,7 @@
     "C": "Bolsa caliente (hot pack).",
     "D": "Bolsa de hielo (cold pack)."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 9,
@@ -95,7 +95,7 @@
     "C": "Cuando desciende la temperatura del nervio periférico disminuye la velocidad de conducción nerviosa.",
     "D": "La crioterapia puede disminuir temporalmente la espasticidad."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 10,
@@ -106,7 +106,7 @@
     "C": "Tumor maligno.",
     "D": "Embarazo."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D
 },
 {
   "id": 11,
@@ -117,7 +117,7 @@
     "C": "Sobre una zona con mala circulación.",
     "D": "En todos los casos anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 12,
@@ -128,7 +128,7 @@
     "C": "Resistencia.",
     "D": "Presión hidrostática."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 13,
@@ -139,7 +139,7 @@
     "C": "Envolturas frías con sábanas mojadas.",
     "D": "Baños de contraste."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 14,
@@ -150,7 +150,7 @@
     "C": "Se desaconseja el ejercicio en agua durante los primeros meses de embarazo.",
     "D": "Mejora el funcionamiento cardiovascular y respiratorio."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 15,
@@ -161,7 +161,7 @@
     "C": "Estimulación muscular eléctrica.",
     "D": "Estimulación farádica."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 16,
@@ -172,7 +172,7 @@
     "C": "Pulsada bifásica.",
     "D": "Modulada."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 17,
@@ -183,7 +183,7 @@
     "C": "Tiempos de rampa de 1-4 s (segundos).",
     "D": "Onda pulsada bifásica."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 18,
@@ -194,7 +194,7 @@
     "C": "Pueden ser utilizados 24 horas al día si es necesario.",
     "D": "El mecanismo de acción principal es la liberación de opiáceos endógenos."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 19,
@@ -205,7 +205,7 @@
     "C": "Watios por centímetro cuadrado (W/cm²).",
     "D": "Microvoltios (μV)."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 20,
@@ -216,7 +216,7 @@
     "C": "Las placas de capacitancia producen más calor en la piel y tejidos superficiales.",
     "D": "b) y c) son ciertas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 21,
@@ -227,7 +227,7 @@
     "C": "Control del dolor y el edema.",
     "D": "Todo lo anterior es cierto."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 22,
@@ -238,7 +238,7 @@
     "C": "80 KHz.",
     "D": "1,2 MHz."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 23,
@@ -249,7 +249,7 @@
     "C": "Portadores de implantes metálicos.",
     "D": "Todas las circunstancias anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 24,
@@ -260,7 +260,7 @@
     "C": "3 MHz, con ciclo de trabajo continuo.",
     "D": "1 MHz, con ciclo de trabajo continuo."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 25,
@@ -271,7 +271,7 @@
     "C": "Su principal ventaja es que los fármacos administrados no se convierten en sistémicos.",
     "D": "Se utilizan frecuencias bajas (1 MHz) para favorecer la penetración en profundidad del fármaco."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 26,
@@ -282,7 +282,7 @@
     "C": "Embarazo.",
     "D": "Está contraindicada en todas las circunstancias anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 27,
@@ -293,7 +293,7 @@
     "C": "Atenuación.",
     "D": "Inmersión."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 28,
@@ -304,7 +304,7 @@
     "C": "Por riesgo de provocar hipertensión arterial general.",
     "D": "Porque aumenta la contracción muscular del tríceps sural."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 29,
@@ -315,7 +315,7 @@
     "C": "Atrofia muscular, fasciculaciones y signo de Babinski positivo.",
     "D": "Pérdida sensitiva y arreflexia en extremidades inferiores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 30,
@@ -326,7 +326,7 @@
     "C": "Aumento del metabolismo.",
     "D": "Disminución de la actividad de las glándulas de secreción."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 31,
@@ -337,7 +337,7 @@
     "C": "Edema nefrótico.",
     "D": "Edema postraumático."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 32,
@@ -348,7 +348,7 @@
     "C": "Tumbar a la persona con los pies más bajos que el resto del cuerpo.",
     "D": "Ejecutar las maniobras con suavidad y superficialidad."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 33,
@@ -370,7 +370,7 @@
     "C": "MIR (maniobra resistida inspiratoria).",
     "D": "Todas son ciertas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 35,
@@ -381,7 +381,7 @@
     "C": "Además de recuperar volumen, moviliza secreciones del pulmón profundo hacia la vía aérea media.",
     "D": "Ha de hacerse verificando que la persona es capaz de usarlo y ha entendido sus instrucciones correctamente."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 36,
@@ -392,7 +392,7 @@
     "C": "Trasplante cardiaco.",
     "D": "Angor pectoris inestable."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 37,
@@ -403,7 +403,7 @@
     "C": "Drenaje autógeno.",
     "D": "Ventilación dirigida."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 38,
@@ -425,7 +425,7 @@
     "C": "Entre C5 y C6.",
     "D": "Entre C7 y D1."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 40,
@@ -436,7 +436,7 @@
     "C": "Patinaje artístico.",
     "D": "Gimnasia rítmica."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 41,
@@ -447,7 +447,7 @@
     "C": "45º.",
     "D": "50º."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 42,
@@ -458,7 +458,7 @@
     "C": "Termoterapia superficial.",
     "D": "Masoterapia."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 43,
@@ -469,7 +469,7 @@
     "C": "La muñeca se posicionará siempre en posición neutra.",
     "D": "La metacarpofalángica se posicionará a 60-70º de flexión e interfalángica en extensión."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 44,
@@ -480,7 +480,7 @@
     "C": "Aducción.",
     "D": "Ninguno de los anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 45,
@@ -502,7 +502,7 @@
     "C": "Nervio torácico largo.",
     "D": "Nervio subescapular inferior."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 47,
@@ -513,7 +513,7 @@
     "C": "Coxartrosis.",
     "D": "Ninguna de las anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 48,
@@ -524,7 +524,7 @@
     "C": "Dismetría < 1 cm.",
     "D": "Evitar complicaciones sépticas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 49,
@@ -535,7 +535,7 @@
     "C": "Realizar drenaje linfático manual.",
     "D": "Elevar el miembro afecto."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 50,
@@ -546,7 +546,7 @@
     "C": "Bicicleta sin resistencia.",
     "D": "Todas las anteriores están indicadas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 51,
@@ -557,7 +557,7 @@
     "C": "Ejercicios que favorezcan la irrigación en el foco de fractura.",
     "D": "Baños de remolino."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 52,
@@ -568,7 +568,7 @@
     "C": "Fase postoperatoria.",
     "D": "Ninguna de las anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 53,
@@ -579,7 +579,7 @@
     "C": "En rotación axial.",
     "D": "En tallo verde."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 54,
@@ -590,7 +590,7 @@
     "C": "Las fracturas intracapsulares requieren generalmente artroplastia de cadera.",
     "D": "Una fijación inadecuada puede producir una pseudoartrosis."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 55,
@@ -601,7 +601,7 @@
     "C": "Tumoral.",
     "D": "Malformaciones congénitas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 56,
@@ -612,7 +612,7 @@
     "C": "La rodilla con impulso a la extensión permite que la rodilla inicie automáticamente el balanceo en la fase de despegue de dedos.",
     "D": "Cuando las rodillas tienen dos o más ejes se denominan policéntricas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 57,
@@ -623,7 +623,7 @@
     "C": "Es muy frecuente su evolución en brotes de forma remitente recurrente.",
     "D": "Son frecuentes las parestesias y disestesias difusas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 58,
@@ -634,7 +634,7 @@
     "C": "Espasticidad.",
     "D": "Alteración de los reflejos posturales."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 59,
@@ -645,7 +645,7 @@
     "C": "Hiperreflexia.",
     "D": "Todos los anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 60,
@@ -656,7 +656,7 @@
     "C": "Femorocutáneo externo.",
     "D": "Interóseo posterior."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 61,
@@ -667,7 +667,7 @@
     "C": "Reducir la longitud de las estructuras subyacentes.",
     "D": "Reeducar el movimiento."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 62,
@@ -678,7 +678,7 @@
     "C": "Mecanizar el tratamiento.",
     "D": "Encontrar el elemento motivador para conseguir el fin propuesto."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 63,
@@ -689,7 +689,7 @@
     "C": "Facilitar los patrones de movimiento normales.",
     "D": "a), b) y c) son correctas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 64,
@@ -700,7 +700,7 @@
     "C": "Los estímulos de coaptación articular favorecen la extensión activa del codo e inhiben la espasticidad flexora.",
     "D": "La estimulación sensitiva es imprescindible durante el tratamiento."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 65,
@@ -711,7 +711,7 @@
     "C": "Respetar los principios de elongación de la columna y estabilización lumbopélvica.",
     "D": "Evitar el uso de faja pélvica como medida de soporte."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 66,
@@ -722,7 +722,7 @@
     "C": "Tonificar la musculatura del compartimento abdominopélvico.",
     "D": "Devolver estabilidad a la columna y la pelvis."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 67,
@@ -733,7 +733,7 @@
     "C": "Enfermedad tiroidea.",
     "D": "Retraso del crecimiento fetal."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 68,
@@ -744,7 +744,7 @@
     "C": "La autopalpación.",
     "D": "El estiramiento reflejo."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 69,
@@ -755,7 +755,7 @@
     "C": "De investigación.",
     "D": "De gestión."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 70,
@@ -766,7 +766,7 @@
     "C": "Problema.",
     "D": "Pronóstico."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 71,
@@ -777,7 +777,7 @@
     "C": "Ser descritos en términos de sensación de la persona.",
     "D": "Ser guiados por las actuaciones de fisioterapia."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 72,
@@ -788,7 +788,7 @@
     "C": "Lograr la integración en el medio.",
     "D": "Mejorar la calidad de vida de la persona."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 73,
@@ -799,7 +799,7 @@
     "C": "Se retirará siempre de manera total en 48 h.",
     "D": "El tiempo de uso del collarín cervical está limitado para evitar la atrofia muscular."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 74,
@@ -810,7 +810,7 @@
     "C": "No se incluyen los mobiliarios.",
     "D": "Es una ciencia pluridisciplinaria."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 75,
@@ -821,7 +821,7 @@
     "C": "Palo.",
     "D": "a), b) y c) son correctas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 76,
@@ -832,7 +832,7 @@
     "C": "Se ofertarán visitas de seguimiento.",
     "D": "Todo lo anterior es correcto."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 77,
@@ -843,7 +843,7 @@
     "C": "Las y los profesionales de la salud deben poner en evidencia las situaciones de violencia y sus consecuencias cuando no son comunicadas de entrada.",
     "D": "La estrategia recomendada es la búsqueda activa de casos para aumentar la detección."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 78,
@@ -854,7 +854,7 @@
     "C": "72 horas.",
     "D": "120 horas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 79,
@@ -865,7 +865,7 @@
     "C": "Las y los profesionales de la salud deben tener la capacitación suficiente para identificar los signos propios de las situaciones de violencia y sus consecuencias.",
     "D": "Todo lo anterior es correcto."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 80,
@@ -876,7 +876,7 @@
     "C": "Busca acentuar la acción mecánica de la gravedad.",
     "D": "Los movimientos se trabajan en modalidad pasiva."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 81,
@@ -887,7 +887,7 @@
     "C": "Reumatismos inflamatorios en fase aguda.",
     "D": "Todos los anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 82,
@@ -898,7 +898,7 @@
     "C": "Direccional.",
     "D": "a) y c) son ciertas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 83,
@@ -909,7 +909,7 @@
     "C": "Someterse al calor de estufas, baños de agua caliente o de sol.",
     "D": "Usar tobilleras para caminar."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 84,
@@ -920,7 +920,7 @@
     "C": "Golf.",
     "D": "Motociclismo."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 85,
@@ -931,7 +931,7 @@
     "C": "C6.",
     "D": "D1."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 86,
@@ -942,7 +942,7 @@
     "C": "Realizar movilizaciones analíticas y manipulaciones.",
     "D": "En fases agudas dolorosas, se recomienda el reposo en cama."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 87,
@@ -953,7 +953,7 @@
     "C": "La pared anterior del encaje realiza un buen apoyo sobre el tendón rotuliano.",
     "D": "Las paredes laterales cubren toda la rótula."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 88,
@@ -964,7 +964,7 @@
     "C": "Test de get up and go.",
     "D": "Test de Barthel."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 89,
@@ -975,7 +975,7 @@
     "C": "Un edema.",
     "D": "Todas son ciertas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 90,
@@ -986,7 +986,7 @@
     "C": "Sutura reciente de tendón de Aquiles.",
     "D": "Todas son ciertas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 91,
@@ -997,7 +997,7 @@
     "C": "Pasivos, FNP y concéntricos.",
     "D": "Balísticos, FNP y excéntricos."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 92,
@@ -1008,7 +1008,7 @@
     "C": "De fácil viabilidad domiciliaria.",
     "D": "Todas son ciertas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 93,
@@ -1019,7 +1019,7 @@
     "C": "Ejercicios de Codman.",
     "D": "Ejercicios de Aidemar."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 94,
@@ -1030,7 +1030,7 @@
     "C": "La tracción está contraindicada cuando el movimiento está contraindicado.",
     "D": "Mediante la tracción se puede reducir el material del núcleo discal herniado en protrusión o hernia discal."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 95,
@@ -1041,7 +1041,7 @@
     "C": "Alteración de la fuerza muscular.",
     "D": "Aumento posterior del flujo sanguíneo."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 96,
@@ -1052,7 +1052,7 @@
     "C": "Alteración de la sensibilidad.",
     "D": "Todos los casos anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 97,
@@ -1063,7 +1063,7 @@
     "C": "Mediante una escala de esfuerzo percibido.",
     "D": "No es necesario controlarlo."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 98,
@@ -1074,7 +1074,7 @@
     "C": "Facilita el retorno venoso de miembros inferiores.",
     "D": "Mejora la propiocepción."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 99,
@@ -1085,7 +1085,7 @@
     "C": "Ejercicios en tanque de Hubbard.",
     "D": "a) y b) son correctas."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 100,
@@ -1096,7 +1096,7 @@
     "C": "Destinado al trabajo muscular.",
     "D": "Destinado a analgesia."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 101,
@@ -1107,7 +1107,7 @@
     "C": "Aporte de energía al organismo.",
     "D": "Todo lo anterior es cierto."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 102,
@@ -1118,7 +1118,7 @@
     "C": "El tipo acupuntura genera efecto motor.",
     "D": "El tipo acupuntura usa duración de pulso entre 50-80 μs."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 103,
@@ -1129,7 +1129,7 @@
     "C": "Reacción alcalina.",
     "D": "Liberación de calor."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 104,
@@ -1140,7 +1140,7 @@
     "C": "Es el tiempo del impulso óptimo para producir una contracción muscular con un impulso cuadrangular.",
     "D": "Es el tiempo del impulso óptimo para producir una contracción muscular con un impulso de subida progresiva."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "A"
 },
 {
   "id": 105,
@@ -1151,7 +1151,7 @@
     "C": "De alta frecuencia.",
     "D": "De banda de la luz."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "B"
 },
 {
   "id": 106,
@@ -1162,7 +1162,7 @@
     "C": "Procesos infecciosos.",
     "D": "Todas las circunstancias anteriores."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 107,
@@ -1173,7 +1173,7 @@
     "C": "2.450 MHz.",
     "D": "80 KHz."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
   "id": 108,
@@ -1184,7 +1184,7 @@
     "C": "Irradiación.",
     "D": "Conversión."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "D"
 },
 {
   "id": 109,
@@ -1195,7 +1195,7 @@
     "C": "El de 1 MHz tiene menos poder de penetración que el de 3 MHz.",
     "D": "En procesos agudos se emplea menor potencia que en los crónicos."
   },
-  "respuestaCorrecta": ""
+  "respuestaCorrecta": "C"
 },
 {
     "id": 110,
@@ -1206,7 +1206,7 @@
       "C": "El láser CO2 emite en una longitud de onda de 633 nm (rojo) aproximadamente y la potencia utilizada se halla entre 0,1 y 10 mW.",
       "D": "El láser de neodimio-YAG emite en una longitud de onda de 633 nm (rojo) aproximadamente y la potencia utilizada es de 50 mW como máximo."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "B"
   },
   {
     "id": 111,
@@ -1217,7 +1217,7 @@
       "C": "Se da un aumento de la proliferación del tejido conjuntivo entre las fibras musculares de forma perpendicular causando una restricción de movimientos.",
       "D": "La atrofia muscular es pequeña."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 112,
@@ -1228,7 +1228,7 @@
       "C": "Las contracciones isométricas de la musculatura del brazo y antebrazo.",
       "D": "Todas son correctas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 113,
@@ -1239,7 +1239,7 @@
       "C": "Procesos inflamatorios subagudos y crónicos de músculos y ligamentos.",
       "D": "Artritis postraumática del codo."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "B"
   },
   {
     "id": 114,
@@ -1250,7 +1250,7 @@
       "C": "Percusiones.",
       "D": "Amasamiento."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
   {
     "id": 115,
@@ -1261,7 +1261,7 @@
       "C": "Un linfedema por inmovilización se considera funcional.",
       "D": "Un linfedema secundario a una metástasis ganglionar se considera funcional."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
   {
     "id": 116,
@@ -1272,7 +1272,7 @@
       "C": "No deja fóvea.",
       "D": "a), b) y c) son correctas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 117,
@@ -1283,7 +1283,7 @@
       "C": "Mialgias.",
       "D": "Trastornos tróficos del sistema nervioso periférico."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "A"
   },
   {
     "id": 118,
@@ -1294,7 +1294,7 @@
       "C": "No es prevenible.",
       "D": "Los principales síntomas son la tos, expectoración y disnea."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
   {
     "id": 119,
@@ -1305,7 +1305,7 @@
       "C": "Inducen cambios en los volúmenes pulmonares, reduciendo la capacidad pulmonar total.",
       "D": "Todas son incorrectas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "B"
   },
   {
     "id": 120,
@@ -1316,7 +1316,7 @@
       "C": "Aumenta la ansiedad asociada al EPOC.",
       "D": "Mejora la calidad de vida asociada a la salud."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
 
   {
@@ -1328,7 +1328,7 @@
       "C": "Gasometría arterial.",
       "D": "Todas están indicadas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 122,
@@ -1339,7 +1339,7 @@
       "C": "Es prioritario mantener la movilidad articular.",
       "D": "Es importante prevenir las deformaciones."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "A"
   },
   {
     "id": 123,
@@ -1350,7 +1350,7 @@
       "C": "Ejercicios de Buerguer Allen.",
       "D": "Todas las respuestas anteriores son incorrectas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
   {
     "id": 124,
@@ -1361,7 +1361,7 @@
       "C": "Estiramiento capsular de Cyriax.",
       "D": "Todas las anteriores."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 125,
@@ -1372,7 +1372,7 @@
       "C": "La prueba de Edison.",
       "D": "El test de Phalen."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "A"
   },
   {
     "id": 126,
@@ -1383,7 +1383,7 @@
       "C": "Por lo general, el tiempo de consolidación suele situarse en 12-16 semanas.",
       "D": "Nunca aparecen complicaciones."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "A"
   },
   {
     "id": 127,
@@ -1394,7 +1394,7 @@
       "C": "La reevaluación ha de ser constante.",
       "D": "El primer objetivo será la restauración del movimiento articular mediante movilizaciones pasivas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 128,
@@ -1405,7 +1405,7 @@
       "C": "La fractura ha de estar parcialmente consolidada y estabilizada.",
       "D": "Se inicia el tratamiento de la coordinación y la propiocepción."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "A"
   },
   {
     "id": 129,
@@ -1416,7 +1416,7 @@
       "C": "Seudoartrosis.",
       "D": "Todas las anteriores."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 130,
@@ -1427,7 +1427,7 @@
       "C": "Se asocia frecuentemente a fracturas de tibia.",
       "D": "Todas las anteriores son correctas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 131,
@@ -1438,7 +1438,7 @@
       "C": "Es poco frecuente en enfermedades autoinmunes.",
       "D": "Produce exceso de líquido sinovial en articulaciones o vainas tendinosas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 132,
@@ -1449,7 +1449,7 @@
       "C": "No debe realizarse nunca.",
       "D": "No está indicado para aumentar la potencia."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "B"
   },
   {
     "id": 133,
@@ -1460,7 +1460,7 @@
       "C": "El TENS es una corriente de baja frecuencia.",
       "D": "Las corrientes de baja frecuencia tienen frecuencias entre 1000 y 100000 Hz."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 134,
@@ -1471,7 +1471,7 @@
       "C": "Infraespinoso y serrato anterior.",
       "D": "Supraespinoso y deltoides."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 135,
@@ -1482,7 +1482,7 @@
       "C": "El objetivo es una articulación estable.",
       "D": "Todas las anteriores son correctas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 136,
@@ -1493,7 +1493,7 @@
       "C": "Flexo-extensión y abducción.",
       "D": "Flexo-extensión y pronación."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "A"
   },
   {
     "id": 137,
@@ -1504,7 +1504,7 @@
       "C": "Derrame recurrente.",
       "D": "Todas las anteriores."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 138,
@@ -1515,7 +1515,7 @@
       "C": "Prueba del supraespinoso.",
       "D": "Prueba de Yocum."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 139,
@@ -1526,7 +1526,7 @@
       "C": "0 puntos: contracción perceptible a palpación.",
       "D": "2 puntos: movimiento completo contra gravedad."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "B"
   },
   {
     "id": 140,
@@ -1537,7 +1537,7 @@
       "C": "S2 inerva principalmente la planta del pie.",
       "D": "S2 inerva la cara dorsal de la pierna."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 141,
@@ -1548,7 +1548,7 @@
       "C": "También se denomina algodistrofia o distrofia simpática refleja.",
       "D": "No produce complicaciones."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
   {
     "id": 142,
@@ -1559,7 +1559,7 @@
       "C": "Desequilibrio → subluxación → condromalacia → artrosis.",
       "D": "Desequilibrio → fractura → artrosis → condromalacia."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
   {
     "id": 143,
@@ -1570,7 +1570,7 @@
       "C": "La fisioterapia comienza en el segundo mes.",
       "D": "Debe potenciarse especialmente el deltoides medio."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "B"
   },
   {
     "id": 144,
@@ -1581,7 +1581,7 @@
       "C": "Alteración refleja.",
       "D": "a) y c) son correctas."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "D"
   },
   {
     "id": 145,
@@ -1592,7 +1592,7 @@
       "C": "Vientre anterior del digástrico.",
       "D": "Músculo buccinador."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
   {
     "id": 146,
@@ -1603,7 +1603,7 @@
       "C": "Barestesia: presión.",
       "D": "Cinestesia: posición y movimiento."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "A"
   },
   {
     "id": 147,
@@ -1614,7 +1614,7 @@
       "C": "Cubital.",
       "D": "Mediano."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "B"
   },
   {
     "id": 148,
@@ -1625,7 +1625,7 @@
       "C": "Estiramientos bruscos.",
       "D": "Férulas de posicionamiento."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
   {
     "id": 149,
@@ -1636,7 +1636,7 @@
       "C": "Equilibrio agonistas-antagonistas.",
       "D": "Responder con apoyo de extremidades."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "A"
   },
   {
     "id": 150,
@@ -1647,7 +1647,7 @@
       "C": "Reducir el dolor.",
       "D": "Facilitar el control vesical en embarazadas con incontinencia."
     },
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "C"
   },
   
     {
@@ -1659,7 +1659,7 @@
         "C": "Enfermedad reumática.",
         "D": "Tromboflebitis."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 152,
@@ -1670,7 +1670,7 @@
         "C": "Flexibilizar las articulaciones.",
         "D": "Activar el suelo pélvico mediante electroestimulación."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 153,
@@ -1681,7 +1681,7 @@
         "C": "Es un documento parcial que obvia datos de la patología.",
         "D": "Es un documento oportuno."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 154,
@@ -1692,7 +1692,7 @@
         "C": "Minusvalías.",
         "D": "Factores ambientales y personales."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 155,
@@ -1703,7 +1703,7 @@
         "C": "Deficiencia.",
         "D": "Deterioro."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 156,
@@ -1714,7 +1714,7 @@
         "C": "Programa de fisioterapia.",
         "D": "Evaluación del programa."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 157,
@@ -1725,7 +1725,7 @@
         "C": "Aumento de número de condrocitos.",
         "D": "Pérdida de masa muscular."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 158,
@@ -1736,7 +1736,7 @@
         "C": "Insomnio.",
         "D": "Todo lo anterior."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 159,
@@ -1747,7 +1747,7 @@
         "C": "No se usan dispositivos ortésicos.",
         "D": "No es necesario valorar la cadera."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 160,
@@ -1758,7 +1758,7 @@
         "C": "AVDA.",
         "D": "AIVDA."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 161,
@@ -1769,7 +1769,7 @@
         "C": "Debe mantenerse flexión prolongada en sedestación.",
         "D": "Debe evaluarse la capacidad de deambulación."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 162,
@@ -1780,7 +1780,7 @@
         "C": "Test de alcance funcional.",
         "D": "Marcha ciega o Babinski-Weil."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 163,
@@ -1802,7 +1802,7 @@
         "C": "Ser acumulador de energía.",
         "D": "Uso deportivo frecuente."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 165,
@@ -1813,7 +1813,7 @@
         "C": "Corsé de Lyon o Stagnara.",
         "D": "Corsé de Michel."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 166,
@@ -1824,7 +1824,7 @@
         "C": "Traumatismos.",
         "D": "Todas son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 167,
@@ -1835,7 +1835,7 @@
         "C": "Se define entre dos choques de talón.",
         "D": "El balanceo tiene aceleración, medio y deceleración."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 168,
@@ -1846,7 +1846,7 @@
         "C": "Aumento de base y zig-zag.",
         "D": "Inclinación anterior del tronco."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 169,
@@ -1857,7 +1857,7 @@
         "C": "Justificar la violencia.",
         "D": "Todo lo anterior."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 170,
@@ -1868,7 +1868,7 @@
         "C": "120 horas.",
         "D": "192 horas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 171,
@@ -1879,7 +1879,7 @@
         "C": "Informar y pedir consentimiento.",
         "D": "Detallar la relación con el agresor."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 172,
@@ -1890,7 +1890,7 @@
         "C": "Replantear creencias.",
         "D": "Analizar planes ya iniciados."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 173,
@@ -1901,7 +1901,7 @@
         "C": "Cinesiterapia.",
         "D": "Talasoterapia."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 174,
@@ -1912,7 +1912,7 @@
         "C": "Dolor musculotendinoso.",
         "D": "Todas son ciertas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 175,
@@ -1923,7 +1923,7 @@
         "C": "Valoración de la tos.",
         "D": "a) y b) son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 176,
@@ -1934,7 +1934,7 @@
         "C": "Se previenen complicaciones trombóticas.",
         "D": "No es competencia del fisioterapeuta prevenir complicaciones respiratorias."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 177,
@@ -1945,7 +1945,7 @@
         "C": "Vendajes elásticos proximodistales.",
         "D": "Calor superficial."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 178,
@@ -1956,7 +1956,7 @@
         "C": "En abducción y rotación interna.",
         "D": "Todas son falsas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 179,
@@ -1967,7 +1967,7 @@
         "C": "Distrofia muscular de Duchenne.",
         "D": "Afectación de ganglios basales."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 180,
@@ -1978,7 +1978,7 @@
         "C": "Educar para la salud.",
         "D": "Hacer seguimiento del proceso."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 181,
@@ -1989,7 +1989,7 @@
         "C": "Manipulaciones articulares.",
         "D": "Hidrocinesiterapia."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 182,
@@ -2000,7 +2000,7 @@
         "C": "Hipertrofia del glúteo medio.",
         "D": "a) y b) son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 183,
@@ -2011,7 +2011,7 @@
         "C": "a) y b) son correctas.",
         "D": "Ninguna es correcta."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 184,
@@ -2022,7 +2022,7 @@
         "C": "Puede agravar la inflamación.",
         "D": "a), b) y c) son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 185,
@@ -2033,7 +2033,7 @@
         "C": "Indicado en fase aguda de bursitis.",
         "D": "a), b) y c) son falsas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 186,
@@ -2044,7 +2044,7 @@
         "C": "El effleurage es un deslizamiento superficial.",
         "D": "Todas son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 187,
@@ -2055,7 +2055,7 @@
         "C": "Reacción ácida.",
         "D": "Absorción de calor."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 188,
@@ -2066,7 +2066,7 @@
         "C": "Ausencia de componente galvánico.",
         "D": "Fuerte estímulo motor."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 189,
@@ -2077,7 +2077,7 @@
         "C": "Tibial anterior.",
         "D": "Tibial posterior."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 190,
@@ -2088,7 +2088,7 @@
         "C": "Desplaza la zona de interferencia.",
         "D": "Cambia la dirección de la corriente."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 191,
@@ -2099,7 +2099,7 @@
         "C": "Tendón acortado y músculo en tensión moderada.",
         "D": "Músculo acortado y tendón en tensión moderada."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 192,
@@ -2110,7 +2110,7 @@
         "C": "Evalúa deterioro funcional, actividad y esfuerzo.",
         "D": "Evalúa síntomas y afectación emocional."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 193,
@@ -2121,7 +2121,7 @@
         "C": "Transverso del tórax.",
         "D": "Músculos abdominales."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 194,
@@ -2132,7 +2132,7 @@
         "C": "Planificar tipo, intensidad, duración y frecuencia.",
         "D": "a) y c) son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 195,
@@ -2143,7 +2143,7 @@
         "C": "Valorar oxigenoterapia.",
         "D": "Todas son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 196,
@@ -2154,7 +2154,7 @@
         "C": "Disminución del braceo.",
         "D": "Aumento de la longitud del paso."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 197,
@@ -2165,7 +2165,7 @@
         "C": "Favorece la neuroplasticidad.",
         "D": "Se basa en principios neuroplásticos."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 198,
@@ -2176,7 +2176,7 @@
         "C": "Incremento no dependiente de la velocidad.",
         "D": "Disminución con el movimiento."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 199,
@@ -2187,7 +2187,7 @@
         "C": "Solo cursa con temblor.",
         "D": "No aparecen sincinesias."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 200,
@@ -2198,7 +2198,7 @@
         "C": "T1: interóseos.",
         "D": "L4: flexores plantares."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 201,
@@ -2209,7 +2209,7 @@
         "C": "Hipotonía y trofismo conservado.",
         "D": "Hipertonía y arreflexia."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 202,
@@ -2220,7 +2220,7 @@
         "C": "Hipertonía.",
         "D": "Hipotonía."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 203,
@@ -2231,7 +2231,7 @@
         "C": "Hipocinesia.",
         "D": "Movimientos anormales e involuntarios."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 204,
@@ -2242,7 +2242,7 @@
         "C": "La textura de los líquidos es clave para evitar aspiraciones.",
         "D": "La inclinación lateral dirige el bolo al lado homolateral."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 205,
@@ -2253,7 +2253,7 @@
         "C": "Disfunciones de vaciado no obstructivas.",
         "D": "Dolor pélvico crónico."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 206,
@@ -2264,7 +2264,7 @@
         "C": "Ocurre cuando la presión intravesical supera a la uretral.",
         "D": "La frecuencia miccional no se altera."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 207,
@@ -2275,7 +2275,7 @@
         "C": "Sínfisis del fondo de saco subcuadricipital.",
         "D": "a), b) y c) son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 208,
@@ -2297,7 +2297,7 @@
         "C": "3-4 meses.",
         "D": "Ninguna es cierta."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 210,
@@ -2308,7 +2308,7 @@
         "C": "Las fracturas incompletas no abarcan todo el espesor del hueso.",
         "D": "Todas las anteriores son falsas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 211,
@@ -2319,7 +2319,7 @@
         "C": "El callo blando se forma en la fase inflamatoria.",
         "D": "La remodelación dura solo 2-6 semanas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 212,
@@ -2330,7 +2330,7 @@
         "C": "Nunca requiere cirugía.",
         "D": "a), b) y c) son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 213,
@@ -2341,7 +2341,7 @@
         "C": "Articulaciones intervertebrales.",
         "D": "Cadera."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 214,
@@ -2352,7 +2352,7 @@
         "C": "Nervio ciático.",
         "D": "Menos del 1% presentan lesión nerviosa."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 215,
@@ -2363,7 +2363,7 @@
         "C": "Microdesgarros menores a un tercio.",
         "D": "Desgarro de uno a dos tercios."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 216,
@@ -2374,7 +2374,7 @@
         "C": "Ocurre entre los días 30 y 50.",
         "D": "Todas son verdaderas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 217,
@@ -2385,7 +2385,7 @@
         "C": "Mano sobre hombro contralateral.",
         "D": "Todas son falsas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 218,
@@ -2396,7 +2396,7 @@
         "C": "Siempre con electrodos autoadhesivos.",
         "D": "Van de 1 a 10 000 Hz."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 219,
@@ -2407,7 +2407,7 @@
         "C": "Forma de onda sinusoidal.",
         "D": "Cualquier onda con pulsos 150-300 μs."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 220,
@@ -2418,7 +2418,7 @@
         "C": "No tiene contraindicaciones.",
         "D": "Utiliza 27,12 MHz."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 221,
@@ -2429,7 +2429,7 @@
         "C": "Se asocia a infección.",
         "D": "Tiene vascularización insuficiente."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 222,
@@ -2440,7 +2440,7 @@
         "C": "Supraespinoso y porción corta del bíceps.",
         "D": "Ambas porciones del bíceps."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 223,
@@ -2451,7 +2451,7 @@
         "C": "En ligamentoplastias.",
         "D": "Tras células madre."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 224,
@@ -2462,7 +2462,7 @@
         "C": "Coloración azulada del territorio.",
         "D": "Dolor en todo el miembro."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 225,
@@ -2473,7 +2473,7 @@
         "C": "Existe respuesta de espasmo local.",
         "D": "Hay acortamiento de bandas Z."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 226,
@@ -2484,7 +2484,7 @@
         "C": "Inspiración previa.",
         "D": "Valsalva."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 227,
@@ -2495,7 +2495,7 @@
         "C": "Desde la segunda semana.",
         "D": "Desde la sexta semana."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 228,
@@ -2506,7 +2506,7 @@
         "C": "Fasciculaciones.",
         "D": "Temblor intencional."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 229,
@@ -2517,7 +2517,7 @@
         "C": "MoCA.",
         "D": "Alcance funcional."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 230,
@@ -2528,7 +2528,7 @@
         "C": "Cierre vía aérea.",
         "D": "Paso del bolo contralateral."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 231,
@@ -2539,7 +2539,7 @@
         "C": "Acortar los pasos.",
         "D": "Adaptar la marcha a ritmos."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 232,
@@ -2561,7 +2561,7 @@
         "C": "Existen afasias y disartrias.",
         "D": "Mayor representación cortical implica mayor afectación."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 234,
@@ -2572,7 +2572,7 @@
         "C": "Las técnicas progresan según reinervación.",
         "D": "b) y c) son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 235,
@@ -2583,7 +2583,7 @@
         "C": "Vojta.",
         "D": "Bobath."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 236,
@@ -2594,7 +2594,7 @@
         "C": "La KBM rodea cóndilos y deja libre la rótula.",
         "D": "La PTB es la menos utilizada."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 237,
@@ -2605,7 +2605,7 @@
         "C": "No depende de polaridad.",
         "D": "Todas son incorrectas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 238,
@@ -2616,7 +2616,7 @@
         "C": "Círculos fijos, bombeo y rotatorio.",
         "D": "Dador, bombeo y rotatorio."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 239,
@@ -2627,7 +2627,7 @@
         "C": "Mingazzini.",
         "D": "Homans."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 240,
@@ -2638,7 +2638,7 @@
         "C": "Reconocimiento de forma, tamaño y peso.",
         "D": "Reconocimiento de posición y movimiento."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 241,
@@ -2649,7 +2649,7 @@
         "C": "Déficit sensitivo cubital.",
         "D": "Parálisis interóseos."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 242,
@@ -2660,7 +2660,7 @@
         "C": "Musculocutáneo.",
         "D": "Mediano."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 243,
@@ -2671,7 +2671,7 @@
         "C": "Intervención → prevención → detección.",
         "D": "Ninguna es correcta."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 244,
@@ -2682,7 +2682,7 @@
         "C": "Traumáticas, patológicas o por fatiga.",
         "D": "a) y b) son correctas."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "C"
     },
     {
       "id": 245,
@@ -2693,7 +2693,7 @@
         "C": "La posterior coloca la cabeza delante del cotilo.",
         "D": "La anterior es la más frecuente."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 246,
@@ -2704,7 +2704,7 @@
         "C": "Mujeres jóvenes sin antecedentes.",
         "D": "Hombres grandes blancos con antecedentes."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 247,
@@ -2715,7 +2715,7 @@
         "C": "Ejercicios isométricos.",
         "D": "Ejercicios excéntricos."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "D"
     },
     {
       "id": 248,
@@ -2726,7 +2726,7 @@
         "C": "Cuádriceps.",
         "D": "Gemelos."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 249,
@@ -2737,7 +2737,7 @@
         "C": "Ambas son ciertas.",
         "D": "Ninguna es correcta."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "A"
     },
     {
       "id": 250,
@@ -2748,7 +2748,7 @@
         "C": "Umbilical.",
         "D": "Trocantérea."
       },
-      "respuestaCorrecta": ""
+      "respuestaCorrecta": "B"
     },
     {
       "id": 251,
